@@ -76,15 +76,15 @@ def get_daily_papers(topic,query="slam", max_results=2):
                 repo_url = r["official"]["url"]
    
                 content[paper_key] = "|**{}**|**{}**|{} et.al.|[{}]({})|**[link]({})**|\n".format(
-                                    update_time,paper_title,paper_first_author,paper_id,paper_url,repo_url)
+                       update_time,paper_title,paper_first_author,paper_id,paper_url,repo_url)
                 content_to_web[paper_key] = "- {}, **{}**, {} et.al., Paper: [{}]({}), Code: **[{}]({})**".format(
-                                    update_time,paper_title,paper_first_author,paper_url,paper_url,repo_url,repo_url)
+                       update_time,paper_title,paper_first_author,paper_url,paper_url,repo_url,repo_url)
 
             else:
                 content[paper_key] = "|**{}**|**{}**|{} et.al.|[{}]({})|null|\n".format(
-                                    update_time,paper_title,paper_first_author,paper_id,paper_url)
+                       update_time,paper_title,paper_first_author,paper_id,paper_url)
                 content_to_web[paper_key] = "- {}, **{}**, {} et.al., Paper: [{}]({})".format(
-                                    update_time,paper_title,paper_first_author,paper_url,paper_url)
+                       update_time,paper_title,paper_first_author,paper_url,paper_url)
 
             # TODO: select useful comments
             comments = None
@@ -135,11 +135,24 @@ def json_to_md(filename,md_filename,
     @return None
     """
     
-    def pretty_math(line:str)-> str:
-        # make latex pretty
-        # "example$^2$title" -> "example $^2$ title"
-        return re.sub(r"\$(.*?)\$", r" $\1$ ",line)
-
+#     def pretty_math(line:str)-> str:
+#         # make latex pretty
+#         # "example$^2$title" -> "example $^2$ title"
+#         return re.sub(r"\$(.*?)\$", r" $\1$ ",line)
+    def pretty_math(s:str) -> str:
+        ret = ''
+        match = re.search(r"\$.*\$", s)
+        if match == None:
+            return s
+        math_start,math_end = match.span()
+        space_trail = space_leading = ''
+        if s[:math_start][-1] != ' ' and '*' != s[:math_start][-1]: space_trail = ' ' 
+        if s[math_end:][0] != ' ' and '*' != s[math_end:][0]: space_leading = ' ' 
+        ret += s[:math_start] 
+        ret += f'{space_trail}${match.group()[1:-1].strip()}${space_leading}' 
+        ret += s[math_end:]
+        return ret
+  
     DateNow = datetime.date.today()
     DateNow = str(DateNow)
     DateNow = DateNow.replace('-','.')
@@ -168,7 +181,8 @@ def json_to_md(filename,md_filename,
             f.write(f"[![Issues][issues-shield]][issues-url]\n\n")    
                 
         if use_title == True:
-            #f.write("<p align="center"><h1 align="center"><br><ins>CV-ARXIV-DAILY</ins><br>Automatically Update CV Papers Daily</h1></p>\n")
+            #f.write(("<p align="center"><h1 align="center"><br><ins>CV-ARXIV-DAILY"
+            #         "</ins><br>Automatically Update CV Papers Daily</h1></p>\n"))
             f.write("## Updated on " + DateNow + "\n\n")
         else:
             f.write("> Updated on " + DateNow + "\n\n")
@@ -216,14 +230,23 @@ def json_to_md(filename,md_filename,
             f.write(f"<p align=right>(<a href={top_info}>back to top</a>)</p>\n\n")
         
         if show_badge == True:
-            f.write(f"[contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge\n")
-            f.write(f"[contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors\n")
-            f.write(f"[forks-shield]: https://img.shields.io/github/forks/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge\n")
-            f.write(f"[forks-url]: https://github.com/Vincentqyw/cv-arxiv-daily/network/members\n")
-            f.write(f"[stars-shield]: https://img.shields.io/github/stars/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge\n")
-            f.write(f"[stars-url]: https://github.com/Vincentqyw/cv-arxiv-daily/stargazers\n")
-            f.write(f"[issues-shield]: https://img.shields.io/github/issues/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge\n")
-            f.write(f"[issues-url]: https://github.com/Vincentqyw/cv-arxiv-daily/issues\n\n")
+            # we don't like long string, break it!
+            f.write((f"[contributors-shield]: https://img.shields.io/github/"
+                     f"contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge\n"))
+            f.write((f"[contributors-url]: https://github.com/Vincentqyw/"
+                     f"cv-arxiv-daily/graphs/contributors\n"))
+            f.write((f"[forks-shield]: https://img.shields.io/github/forks/Vincentqyw/"
+                     f"cv-arxiv-daily.svg?style=for-the-badge\n"))
+            f.write((f"[forks-url]: https://github.com/Vincentqyw/"
+                     f"cv-arxiv-daily/network/members\n"))
+            f.write((f"[stars-shield]: https://img.shields.io/github/stars/Vincentqyw/"
+                     f"cv-arxiv-daily.svg?style=for-the-badge\n"))
+            f.write((f"[stars-url]: https://github.com/Vincentqyw/"
+                     f"cv-arxiv-daily/stargazers\n"))
+            f.write((f"[issues-shield]: https://img.shields.io/github/issues/Vincentqyw/"
+                     f"cv-arxiv-daily.svg?style=for-the-badge\n"))
+            f.write((f"[issues-url]: https://github.com/Vincentqyw/"
+                     f"cv-arxiv-daily/issues\n\n"))
                 
     logging.info(f"{task} finished")        
 
@@ -243,7 +266,8 @@ def demo(**config):
 
     for topic, keyword in keywords.items():
         logging.info(f"Keyword: {topic}")
-        data, data_web = get_daily_papers(topic, query = keyword, max_results = max_results)
+        data, data_web = get_daily_papers(topic, query = keyword,
+                                          max_results = max_results)
         data_collector.append(data)
         data_collector_web.append(data_web)
         print("\n")
