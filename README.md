@@ -474,8 +474,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-02-06**|**Probabilistic Contrastive Learning Recovers the Correct Aleatoric Uncertainty of Ambiguous Inputs**|Michael Kirchhof et.al.|[2302.02865v1](http://arxiv.org/abs/2302.02865v1)|**[link](https://github.com/mkirchhof/probabilistic_contrastive_learning)**|
 |**2023-02-03**|**Simple, Effective and General: A New Backbone for Cross-view Image Geo-localization**|Yingying Zhu et.al.|[2302.01572v1](http://arxiv.org/abs/2302.01572v1)|**[link](https://github.com/yanghongji2007/saig)**|
-|**2023-02-02**|**Bayesian Metric Learning for Uncertainty Quantification in Image Retrieval**|Frederik Warburg et.al.|[2302.01332v1](http://arxiv.org/abs/2302.01332v1)|**[link](https://github.com/frederikwarburg/bayesian-metric-learning)**|
+|**2023-02-04**|**Bayesian Metric Learning for Uncertainty Quantification in Image Retrieval**|Frederik Warburg et.al.|[2302.01332v2](http://arxiv.org/abs/2302.01332v2)|**[link](https://github.com/frederikwarburg/bayesian-metric-learning)**|
 |**2023-01-31**|**Grounding Language Models to Images for Multimodal Generation**|Jing Yu Koh et.al.|[2301.13823v1](http://arxiv.org/abs/2301.13823v1)|null|
 |**2023-01-31**|**UPop: Unified and Progressive Pruning for Compressing Vision-Language Transformers**|Dachuan Shi et.al.|[2301.13741v1](http://arxiv.org/abs/2301.13741v1)|null|
 |**2023-01-23**|**Lexi: Self-Supervised Learning of the UI Language**|Pratyay Banerjee et.al.|[2301.10165v1](http://arxiv.org/abs/2301.10165v1)|**[link](https://github.com/microsoft/uicaption)**|
@@ -483,7 +484,6 @@
 |**2023-01-19**|**High-bandwidth Close-Range Information Transport through Light Pipes**|Joowon Lim et.al.|[2301.06496v2](http://arxiv.org/abs/2301.06496v2)|null|
 |**2023-01-13**|**A LiDAR-Inertial-Visual SLAM System with Loop Detection**|Kangcheng Liu et.al.|[2301.05604v1](http://arxiv.org/abs/2301.05604v1)|null|
 |**2023-01-12**|**GH-Feat: Learning Versatile Generative Hierarchical Features from GANs**|Yinghao Xu et.al.|[2301.05315v1](http://arxiv.org/abs/2301.05315v1)|null|
-|**2023-01-10**|**Pix2Map: Cross-modal Retrieval for Inferring Street Maps from Images**|Xindi Wu et.al.|[2301.04224v1](http://arxiv.org/abs/2301.04224v1)|null|
 |**2023-01-05**|**A Probabilistic Framework for Visual Localization in Ambiguous Scenes**|Fereidoon Zangeneh et.al.|[2301.02086v1](http://arxiv.org/abs/2301.02086v1)|null|
 |**2022-12-31**|**4Seasons: Benchmarking Visual SLAM and Long-Term Localization for Autonomous Driving in Challenging Conditions**|Patrick Wenzel et.al.|[2301.01147v1](http://arxiv.org/abs/2301.01147v1)|null|
 |**2022-12-30**|**HPointLoc: Point-based Indoor Place Recognition using Synthetic RGB-D Images**|Dmitry Yudin et.al.|[2212.14649v1](http://arxiv.org/abs/2212.14649v1)|**[link](https://github.com/metra4ok/hpointloc)**|
@@ -770,7 +770,7 @@
 |**2023-01-18**|**OnePose++: Keypoint-Free One-Shot Object Pose Estimation without CAD Models**|Xingyi He et.al.|[2301.07673v1](http://arxiv.org/abs/2301.07673v1)|null|
 |**2023-01-12**|**Towards High Performance One-Stage Human Pose Estimation**|Ling Li et.al.|[2301.04842v1](http://arxiv.org/abs/2301.04842v1)|null|
 |**2022-12-31**|**Rethinking Rotation Invariance with Point Cloud Registration**|Jianhui Yu et.al.|[2301.00149v1](http://arxiv.org/abs/2301.00149v1)|null|
-|**2022-12-29**|**Fruit Ripeness Classification: a Survey**|Matteo Rizzo et.al.|[2212.14441v1](http://arxiv.org/abs/2212.14441v1)|null|
+|**2023-02-06**|**Fruit Ripeness Classification: a Survey**|Matteo Rizzo et.al.|[2212.14441v2](http://arxiv.org/abs/2212.14441v2)|null|
 |**2022-12-28**|**NeMo: 3D Neural Motion Fields from Multiple Video Instances of the Same Action**|Kuan-Chieh Wang et.al.|[2212.13660v1](http://arxiv.org/abs/2212.13660v1)|null|
 |**2022-12-24**|**HandsOff: Labeled Dataset Generation With No Additional Human Annotations**|Austin Xu et.al.|[2212.12645v1](http://arxiv.org/abs/2212.12645v1)|null|
 |**2022-12-13**|**Learning to Detect Good Keypoints to Match Non-Rigid Objects in RGB Images**|Welerson Melo et.al.|[2212.09589v1](http://arxiv.org/abs/2212.09589v1)|null|
@@ -990,6 +990,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-02-04**|**AV-NeRF: Learning Neural Fields for Real-World Audio-Visual Scene Synthesis**|Susan Liang et.al.|[2302.02088v1](http://arxiv.org/abs/2302.02088v1)|null|
 |**2023-02-03**|**Semantic 3D-aware Portrait Synthesis and Manipulation Based on Compositional Neural Radiance Field**|Tianxiang Ma et.al.|[2302.01579v1](http://arxiv.org/abs/2302.01579v1)|null|
 |**2023-02-03**|**Robust Camera Pose Refinement for Multi-Resolution Hash Encoding**|Hwan Heo et.al.|[2302.01571v1](http://arxiv.org/abs/2302.01571v1)|null|
 |**2023-02-03**|**INV: Towards Streaming Incremental Neural Videos**|Shengze Wang et.al.|[2302.01532v1](http://arxiv.org/abs/2302.01532v1)|null|
@@ -999,7 +1000,6 @@
 |**2023-01-30**|**Equivariant Architectures for Learning in Deep Weight Spaces**|Aviv Navon et.al.|[2301.12780v1](http://arxiv.org/abs/2301.12780v1)|null|
 |**2023-01-27**|**HyperNeRFGAN: Hypernetwork approach to 3D NeRF GAN**|Adam Kania et.al.|[2301.11631v1](http://arxiv.org/abs/2301.11631v1)|**[link](https://github.com/gmum/hypernerfgan)**|
 |**2023-01-27**|**A Comparison of Tiny-nerf versus Spatial Representations for 3d Reconstruction**|Saulo Abraham Gante et.al.|[2301.11522v1](http://arxiv.org/abs/2301.11522v1)|null|
-|**2023-01-27**|**SNeRL: Semantic-aware Neural Radiance Fields for Reinforcement Learning**|Dongseok Shim et.al.|[2301.11520v1](http://arxiv.org/abs/2301.11520v1)|null|
 |**2023-01-03**|**Class-Continuous Conditional Generative Neural Radiance Field**|Jiwook Kim et.al.|[2301.00950v1](http://arxiv.org/abs/2301.00950v1)|**[link](https://github.com/tom919654/C3G-NeRF)**|
 |**2023-01-01**|**Detachable Novel Views Synthesis of Dynamic Scenes Using Distribution-Driven Neural Radiance Fields**|Boyu Zhang et.al.|[2301.00411v1](http://arxiv.org/abs/2301.00411v1)|**[link](https://github.com/luciferbobo/d4nerf)**|
 |**2022-12-26**|**MonoNeRF: Learning a Generalizable Dynamic Radiance Field from Monocular Videos**|Fengrui Tian et.al.|[2212.13056v1](http://arxiv.org/abs/2212.13056v1)|null|
