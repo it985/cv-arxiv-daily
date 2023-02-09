@@ -21,6 +21,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-02-08**|**Task Space Control of Robot Manipulators based on Visual SLAM**|Seyed Hamed Hashemi et.al.|[2302.04163v1](http://arxiv.org/abs/2302.04163v1)|null|
+|**2023-02-08**|**SLaM: Student-Label Mixing for Semi-Supervised Knowledge Distillation**|Vasilis Kontonis et.al.|[2302.03806v1](http://arxiv.org/abs/2302.03806v1)|null|
 |**2023-02-07**|**NICER-SLAM: Neural Implicit Scene Encoding for RGB SLAM**|Zihan Zhu et.al.|[2302.03594v1](http://arxiv.org/abs/2302.03594v1)|null|
 |**2023-02-03**|**vMAP: Vectorised Object Mapping for Neural Field SLAM**|Xin Kong et.al.|[2302.01838v1](http://arxiv.org/abs/2302.01838v1)|null|
 |**2023-02-02**|**A Projective Geometric View for 6D Pose Estimation in mmWave MIMO Systems**|Shengqiang Shen et.al.|[2302.00227v2](http://arxiv.org/abs/2302.00227v2)|null|
@@ -29,8 +31,6 @@
 |**2023-01-24**|**Generalized Object Search**|Kaiyu Zheng et.al.|[2301.10121v1](http://arxiv.org/abs/2301.10121v1)|null|
 |**2023-01-22**|**Improving Autonomous Vehicle Mapping and Navigation in Work Zones Using Crowdsourcing Vehicle Trajectories**|Hanlin Chen et.al.|[2301.09194v1](http://arxiv.org/abs/2301.09194v1)|null|
 |**2023-01-21**|**Dense RGB SLAM with Neural Implicit Maps**|Heng Li et.al.|[2301.08930v1](http://arxiv.org/abs/2301.08930v1)|null|
-|**2023-01-18**|**Extended FastSLAM Using Cellular Multipath Component Delays and Angular Information**|Junshi Chen et.al.|[2301.07560v1](http://arxiv.org/abs/2301.07560v1)|null|
-|**2023-01-17**|**COVINS-G: A Generic Back-end for Collaborative Visual-Inertial SLAM**|Manthan Patel et.al.|[2301.07147v1](http://arxiv.org/abs/2301.07147v1)|null|
 |**2022-12-31**|**4Seasons: Benchmarking Visual SLAM and Long-Term Localization for Autonomous Driving in Challenging Conditions**|Patrick Wenzel et.al.|[2301.01147v1](http://arxiv.org/abs/2301.01147v1)|null|
 |**2023-01-03**|**BS3D: Building-scale 3D Reconstruction from RGB-D Images**|Janne Mustaniemi et.al.|[2301.01057v1](http://arxiv.org/abs/2301.01057v1)|null|
 |**2023-01-02**|**An Event-based Algorithm for Simultaneous 6-DOF Camera Pose Tracking and Mapping**|Masoud Dayani Najafabadi et.al.|[2301.00618v1](http://arxiv.org/abs/2301.00618v1)|null|
@@ -990,6 +990,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-02-08**|**Nerfstudio: A Modular Framework for Neural Radiance Field Development**|Matthew Tancik et.al.|[2302.04264v1](http://arxiv.org/abs/2302.04264v1)|null|
 |**2023-02-07**|**AV-NeRF: Learning Neural Fields for Real-World Audio-Visual Scene Synthesis**|Susan Liang et.al.|[2302.02088v2](http://arxiv.org/abs/2302.02088v2)|null|
 |**2023-02-03**|**Semantic 3D-aware Portrait Synthesis and Manipulation Based on Compositional Neural Radiance Field**|Tianxiang Ma et.al.|[2302.01579v1](http://arxiv.org/abs/2302.01579v1)|null|
 |**2023-02-03**|**Robust Camera Pose Refinement for Multi-Resolution Hash Encoding**|Hwan Heo et.al.|[2302.01571v1](http://arxiv.org/abs/2302.01571v1)|null|
@@ -999,7 +1000,6 @@
 |**2023-01-31**|**GeneFace: Generalized and High-Fidelity Audio-Driven 3D Talking Face Synthesis**|Zhenhui Ye et.al.|[2301.13430v1](http://arxiv.org/abs/2301.13430v1)|null|
 |**2023-01-30**|**Equivariant Architectures for Learning in Deep Weight Spaces**|Aviv Navon et.al.|[2301.12780v1](http://arxiv.org/abs/2301.12780v1)|null|
 |**2023-01-27**|**HyperNeRFGAN: Hypernetwork approach to 3D NeRF GAN**|Adam Kania et.al.|[2301.11631v1](http://arxiv.org/abs/2301.11631v1)|**[link](https://github.com/gmum/hypernerfgan)**|
-|**2023-01-27**|**A Comparison of Tiny-nerf versus Spatial Representations for 3d Reconstruction**|Saulo Abraham Gante et.al.|[2301.11522v1](http://arxiv.org/abs/2301.11522v1)|null|
 |**2023-01-03**|**Class-Continuous Conditional Generative Neural Radiance Field**|Jiwook Kim et.al.|[2301.00950v1](http://arxiv.org/abs/2301.00950v1)|**[link](https://github.com/tom919654/C3G-NeRF)**|
 |**2023-01-01**|**Detachable Novel Views Synthesis of Dynamic Scenes Using Distribution-Driven Neural Radiance Fields**|Boyu Zhang et.al.|[2301.00411v1](http://arxiv.org/abs/2301.00411v1)|**[link](https://github.com/luciferbobo/d4nerf)**|
 |**2022-12-26**|**MonoNeRF: Learning a Generalizable Dynamic Radiance Field from Monocular Videos**|Fengrui Tian et.al.|[2212.13056v1](http://arxiv.org/abs/2212.13056v1)|null|
