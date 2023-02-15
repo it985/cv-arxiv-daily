@@ -21,6 +21,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-02-14**|**ConceptFusion: Open-set Multimodal 3D Mapping**|Krishna Murthy Jatavallabhula et.al.|[2302.07241v1](http://arxiv.org/abs/2302.07241v1)|null|
+|**2023-02-13**|**Simplified Continuous High Dimensional Belief Space Planning with Adaptive Probabilistic Belief-dependent Constraints**|Andrey Zhitnikov et.al.|[2302.06697v1](http://arxiv.org/abs/2302.06697v1)|null|
 |**2023-02-13**|**Mini bot 3D: A ROS based Gazebo Simulation**|B. Udugama et.al.|[2302.06368v1](http://arxiv.org/abs/2302.06368v1)|null|
 |**2023-02-13**|**Evolution of SLAM: Toward the Robust-Perception of Autonomy**|B. Udugama et.al.|[2302.06365v1](http://arxiv.org/abs/2302.06365v1)|null|
 |**2023-02-08**|**Task Space Control of Robot Manipulators based on Visual SLAM**|Seyed Hamed Hashemi et.al.|[2302.04163v1](http://arxiv.org/abs/2302.04163v1)|null|
@@ -29,8 +31,6 @@
 |**2023-02-03**|**vMAP: Vectorised Object Mapping for Neural Field SLAM**|Xin Kong et.al.|[2302.01838v1](http://arxiv.org/abs/2302.01838v1)|null|
 |**2023-02-02**|**A Projective Geometric View for 6D Pose Estimation in mmWave MIMO Systems**|Shengqiang Shen et.al.|[2302.00227v2](http://arxiv.org/abs/2302.00227v2)|null|
 |**2023-01-27**|**HDPV-SLAM: Hybrid Depth-augmented Panoramic Visual SLAM for Mobile Mapping System with Tilted LiDAR and Panoramic Visual Camera**|Mostafa Ahmadi et.al.|[2301.11823v1](http://arxiv.org/abs/2301.11823v1)|null|
-|**2023-01-26**|**Distributed Optimization Methods for Multi-Robot Systems: Part I -- A Tutorial**|Ola Shorinwa et.al.|[2301.11313v1](http://arxiv.org/abs/2301.11313v1)|null|
-|**2023-01-24**|**Generalized Object Search**|Kaiyu Zheng et.al.|[2301.10121v1](http://arxiv.org/abs/2301.10121v1)|null|
 |**2022-12-31**|**4Seasons: Benchmarking Visual SLAM and Long-Term Localization for Autonomous Driving in Challenging Conditions**|Patrick Wenzel et.al.|[2301.01147v1](http://arxiv.org/abs/2301.01147v1)|null|
 |**2023-01-03**|**BS3D: Building-scale 3D Reconstruction from RGB-D Images**|Janne Mustaniemi et.al.|[2301.01057v1](http://arxiv.org/abs/2301.01057v1)|null|
 |**2023-01-02**|**An Event-based Algorithm for Simultaneous 6-DOF Camera Pose Tracking and Mapping**|Masoud Dayani Najafabadi et.al.|[2301.00618v1](http://arxiv.org/abs/2301.00618v1)|null|
@@ -994,6 +994,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-02-14**|**VQ3D: Learning a 3D-Aware Generative Model on ImageNet**|Kyle Sargent et.al.|[2302.06833v1](http://arxiv.org/abs/2302.06833v1)|null|
 |**2023-02-13**|**3D-aware Blending with Generative NeRFs**|Hyunsu Kim et.al.|[2302.06608v1](http://arxiv.org/abs/2302.06608v1)|null|
 |**2023-02-11**|**3D Colored Shape Reconstruction from a Single RGB Image through Diffusion**|Bo Li et.al.|[2302.05573v1](http://arxiv.org/abs/2302.05573v1)|null|
 |**2023-02-08**|**Nerfstudio: A Modular Framework for Neural Radiance Field Development**|Matthew Tancik et.al.|[2302.04264v1](http://arxiv.org/abs/2302.04264v1)|null|
@@ -1003,7 +1004,6 @@
 |**2023-02-03**|**INV: Towards Streaming Incremental Neural Videos**|Shengze Wang et.al.|[2302.01532v1](http://arxiv.org/abs/2302.01532v1)|null|
 |**2023-02-02**|**Factor Fields: A Unified Framework for Neural Fields and Beyond**|Anpei Chen et.al.|[2302.01226v1](http://arxiv.org/abs/2302.01226v1)|null|
 |**2023-02-02**|**RobustNeRF: Ignoring Distractors with Robust Losses**|Sara Sabour et.al.|[2302.00833v1](http://arxiv.org/abs/2302.00833v1)|null|
-|**2023-01-31**|**GeneFace: Generalized and High-Fidelity Audio-Driven 3D Talking Face Synthesis**|Zhenhui Ye et.al.|[2301.13430v1](http://arxiv.org/abs/2301.13430v1)|null|
 |**2023-01-03**|**Class-Continuous Conditional Generative Neural Radiance Field**|Jiwook Kim et.al.|[2301.00950v1](http://arxiv.org/abs/2301.00950v1)|**[link](https://github.com/tom919654/C3G-NeRF)**|
 |**2023-01-01**|**Detachable Novel Views Synthesis of Dynamic Scenes Using Distribution-Driven Neural Radiance Fields**|Boyu Zhang et.al.|[2301.00411v1](http://arxiv.org/abs/2301.00411v1)|**[link](https://github.com/luciferbobo/d4nerf)**|
 |**2022-12-26**|**MonoNeRF: Learning a Generalizable Dynamic Radiance Field from Monocular Videos**|Fengrui Tian et.al.|[2212.13056v1](http://arxiv.org/abs/2212.13056v1)|null|
