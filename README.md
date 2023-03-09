@@ -21,6 +21,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-08**|**kollagen: A Collaborative SLAM Pose Graph Generator**|Roberto C. Sundin et.al.|[2303.04753v1](http://arxiv.org/abs/2303.04753v1)|null|
+|**2023-03-08**|**A Graph-based Optimization Framework for Hand-Eye Calibration for Multi-Camera Setups**|Daniele Evangelista et.al.|[2303.04747v1](http://arxiv.org/abs/2303.04747v1)|null|
+|**2023-03-08**|**GRADE: Generating Realistic Animated Dynamic Environments for Robotics Research**|Elia Bonetto et.al.|[2303.04466v1](http://arxiv.org/abs/2303.04466v1)|**[link](https://github.com/eliabntt/GRADE-RR)**|
 |**2023-03-06**|**A System for Generalized 3D Multi-Object Search**|Kaiyu Zheng et.al.|[2303.03178v1](http://arxiv.org/abs/2303.03178v1)|**[link](https://github.com/zkytony/genmos_object_search)**|
 |**2023-03-05**|**Robust Multi-Modal Multi-LiDAR-Inertial Odometry and Mapping for Indoor Environments**|Li Qingqing et.al.|[2303.02684v1](http://arxiv.org/abs/2303.02684v1)|**[link](https://github.com/tiers/multi-modal-loam)**|
 |**2023-03-05**|**Millimeter Wave Wireless Communication Assisted Three-Dimensional Simultaneous Localization and Mapping**|Zhiyu Mou et.al.|[2303.02617v1](http://arxiv.org/abs/2303.02617v1)|null|
@@ -28,9 +31,6 @@
 |**2023-03-03**|**A Visual SLAM with Moving Object Trajectory Prediction**|Qi Zhang et.al.|[2303.02257v1](http://arxiv.org/abs/2303.02257v1)|null|
 |**2023-03-02**|**BPT: Binary Point Cloud Transformer for Place Recognition**|Zhixing Hou et.al.|[2303.01166v1](http://arxiv.org/abs/2303.01166v1)|null|
 |**2023-03-02**|**Marker-based Visual SLAM leveraging Hierarchical Representations**|Ali Tourani et.al.|[2303.01155v1](http://arxiv.org/abs/2303.01155v1)|null|
-|**2023-03-01**|**Prediction of SLAM ATE Using an Ensemble Learning Regression Model and 1-D Global Pooling of Data Characterization**|Islam Ali et.al.|[2303.00616v1](http://arxiv.org/abs/2303.00616v1)|null|
-|**2023-03-01**|**Region Prediction for Efficient Robot Localization on Large Maps**|Matteo Scucchia et.al.|[2303.00295v1](http://arxiv.org/abs/2303.00295v1)|null|
-|**2023-02-28**|**BEVPlace: Learning LiDAR-based Place Recognition using Bird's Eye View Images**|Lun Luo et.al.|[2302.14325v1](http://arxiv.org/abs/2302.14325v1)|null|
 |**2022-12-31**|**4Seasons: Benchmarking Visual SLAM and Long-Term Localization for Autonomous Driving in Challenging Conditions**|Patrick Wenzel et.al.|[2301.01147v1](http://arxiv.org/abs/2301.01147v1)|null|
 |**2023-01-03**|**BS3D: Building-scale 3D Reconstruction from RGB-D Images**|Janne Mustaniemi et.al.|[2301.01057v1](http://arxiv.org/abs/2301.01057v1)|null|
 |**2023-01-02**|**An Event-based Algorithm for Simultaneous 6-DOF Camera Pose Tracking and Mapping**|Masoud Dayani Najafabadi et.al.|[2301.00618v1](http://arxiv.org/abs/2301.00618v1)|null|
@@ -1003,6 +1003,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-08**|**FastSurf: Fast Neural RGB-D Surface Reconstruction using Per-Frame Intrinsic Refinement and TSDF Fusion Prior Learning**|Seunghwan Lee et.al.|[2303.04508v1](http://arxiv.org/abs/2303.04508v1)|null|
+|**2023-03-08**|**DroNeRF: Real-time Multi-agent Drone Pose Optimization for Computing Neural Radiance Fields**|Dipam Patel et.al.|[2303.04322v1](http://arxiv.org/abs/2303.04322v1)|null|
 |**2023-03-07**|**NEPHELE: A Neural Platform for Highly Realistic Cloud Radiance Rendering**|Haimin Luo et.al.|[2303.04086v1](http://arxiv.org/abs/2303.04086v1)|null|
 |**2023-03-05**|**Semantic-aware Occlusion Filtering Neural Radiance Fields in the Wild**|Jaewon Lee et.al.|[2303.03966v1](http://arxiv.org/abs/2303.03966v1)|null|
 |**2023-03-07**|**Multiscale Tensor Decomposition and Rendering Equation Encoding for View Synthesis**|Kang Han et.al.|[2303.03808v1](http://arxiv.org/abs/2303.03808v1)|null|
@@ -1011,8 +1013,6 @@
 |**2023-03-03**|**Delicate Textured Mesh Recovery from NeRF via Adaptive Surface Refinement**|Jiaxiang Tang et.al.|[2303.02091v1](http://arxiv.org/abs/2303.02091v1)|null|
 |**2023-03-03**|**Multi-Plane Neural Radiance Fields for Novel View Synthesis**|Youssef Abdelkareem et.al.|[2303.01736v1](http://arxiv.org/abs/2303.01736v1)|null|
 |**2023-03-01**|**S-NeRF: Neural Radiance Fields for Street Views**|Ziyang Xie et.al.|[2303.00749v1](http://arxiv.org/abs/2303.00749v1)|null|
-|**2023-02-28**|**IntrinsicNGP: Intrinsic Coordinate based Hash Encoding for Human NeRF**|Bo Peng et.al.|[2302.14683v1](http://arxiv.org/abs/2302.14683v1)|null|
-|**2023-02-27**|**BaLi-RF: Bandlimited Radiance Fields for Dynamic Scene Modeling**|Sameera Ramasinghe et.al.|[2302.13543v1](http://arxiv.org/abs/2302.13543v1)|null|
 |**2023-01-03**|**Class-Continuous Conditional Generative Neural Radiance Field**|Jiwook Kim et.al.|[2301.00950v1](http://arxiv.org/abs/2301.00950v1)|**[link](https://github.com/tom919654/C3G-NeRF)**|
 |**2023-01-01**|**Detachable Novel Views Synthesis of Dynamic Scenes Using Distribution-Driven Neural Radiance Fields**|Boyu Zhang et.al.|[2301.00411v1](http://arxiv.org/abs/2301.00411v1)|**[link](https://github.com/luciferbobo/d4nerf)**|
 |**2022-12-26**|**MonoNeRF: Learning a Generalizable Dynamic Radiance Field from Monocular Videos**|Fengrui Tian et.al.|[2212.13056v1](http://arxiv.org/abs/2212.13056v1)|null|
