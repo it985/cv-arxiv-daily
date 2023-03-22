@@ -21,6 +21,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-21**|**The SLAM Hive Benchmarking Suite**|Yuanyuan Yang et.al.|[2303.11854v1](http://arxiv.org/abs/2303.11854v1)|null|
 |**2023-03-20**|**Dynamic Object Removal for Effective Slam**|Phani Krishna Uppala et.al.|[2303.10923v1](http://arxiv.org/abs/2303.10923v1)|null|
 |**2023-03-20**|**VR-SLAM: A Visual-Range Simultaneous Localization and Mapping System using Monocular Camera and Ultra-wideband Sensors**|Thien Hoang Nguyen et.al.|[2303.10903v1](http://arxiv.org/abs/2303.10903v1)|null|
 |**2023-03-17**|**LP-SLAM: Language-Perceptive RGB-D SLAM system based on Large Language Model**|Weiyi Zhang et.al.|[2303.10089v1](http://arxiv.org/abs/2303.10089v1)|null|
@@ -30,7 +31,6 @@
 |**2023-03-13**|**NeuSE: Neural SE(3)-Equivariant Embedding for Consistent Spatial Understanding with Objects**|Jiahui Fu et.al.|[2303.07308v1](http://arxiv.org/abs/2303.07308v1)|null|
 |**2023-03-11**|**Necessity Feature Correspondence Estimation for Large-scale Global Place Recognition and Relocalization**|Kyeongsu Kang et.al.|[2303.06308v1](http://arxiv.org/abs/2303.06308v1)|null|
 |**2023-03-10**|**Mobile Robot Control and Autonomy Through Collaborative Simulation Twin**|Nazish Tahir et.al.|[2303.06172v1](http://arxiv.org/abs/2303.06172v1)|null|
-|**2023-03-10**|**Monocular Simultaneous Localization and Mapping using Ground Textures**|Kyle M. Hart et.al.|[2303.05946v1](http://arxiv.org/abs/2303.05946v1)|**[link](https://github.com/navy-rise-lab/ground-texture-slam)**|
 |**2022-12-31**|**4Seasons: Benchmarking Visual SLAM and Long-Term Localization for Autonomous Driving in Challenging Conditions**|Patrick Wenzel et.al.|[2301.01147v1](http://arxiv.org/abs/2301.01147v1)|null|
 |**2023-01-03**|**BS3D: Building-scale 3D Reconstruction from RGB-D Images**|Janne Mustaniemi et.al.|[2301.01057v1](http://arxiv.org/abs/2301.01057v1)|null|
 |**2023-01-02**|**An Event-based Algorithm for Simultaneous 6-DOF Camera Pose Tracking and Mapping**|Masoud Dayani Najafabadi et.al.|[2301.00618v1](http://arxiv.org/abs/2301.00618v1)|null|
@@ -480,16 +480,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-21**|**CompoDiff: Versatile Composed Image Retrieval With Latent Diffusion**|Geonmo Gu et.al.|[2303.11916v1](http://arxiv.org/abs/2303.11916v1)|null|
+|**2023-03-21**|**LIMITR: Leveraging Local Information for Medical Image-Text Representation**|Gefen Dawidowicz et.al.|[2303.11755v1](http://arxiv.org/abs/2303.11755v1)|null|
+|**2023-03-21**|**Data-efficient Large Scale Place Recognition with Graded Similarity Supervision**|Maria Leyva-Vallina et.al.|[2303.11739v1](http://arxiv.org/abs/2303.11739v1)|**[link](https://github.com/marialeyvallina/generalized_contrastive_loss)**|
 |**2023-03-20**|**Picture that Sketch: Photorealistic Image Generation from Abstract Sketches**|Subhadeep Koley et.al.|[2303.11162v1](http://arxiv.org/abs/2303.11162v1)|null|
-|**2023-03-19**|**Deep Declarative Dynamic Time Warping for End-to-End Learning of Alignment Paths**|Ming Xu et.al.|[2303.10778v1](http://arxiv.org/abs/2303.10778v1)|null|
+|**2023-03-19**|**Deep Declarative Dynamic Time Warping for End-to-End Learning of Alignment Paths**|Ming Xu et.al.|[2303.10778v1](http://arxiv.org/abs/2303.10778v1)|**[link](https://github.com/mingu6/declarativedtw)**|
 |**2023-03-17**|**MRIS: A Multi-modal Retrieval Approach for Image Synthesis on Diverse Modalities**|Boqi Chen et.al.|[2303.10249v1](http://arxiv.org/abs/2303.10249v1)|null|
 |**2023-03-17**|**IRGen: Generative Modeling for Image Retrieval**|Yidan Zhang et.al.|[2303.10126v1](http://arxiv.org/abs/2303.10126v1)|null|
 |**2023-03-16**|**Data Roaming and Early Fusion for Composed Image Retrieval**|Matan Levy et.al.|[2303.09429v1](http://arxiv.org/abs/2303.09429v1)|null|
 |**2023-03-16**|**Towards a Smaller Student: Capacity Dynamic Distillation for Efficient Image Retrieval**|Yi Xie et.al.|[2303.09230v1](http://arxiv.org/abs/2303.09230v1)|null|
 |**2023-03-16**|**Metric-Free Exploration for Topological Mapping by Task and Motion Imitation in Feature Space**|Yuhang He et.al.|[2303.09192v1](http://arxiv.org/abs/2303.09192v1)|null|
-|**2023-03-16**|**Unsupervised Facial Expression Representation Learning with Contrastive Local Warping**|Fanglei Xue et.al.|[2303.09034v1](http://arxiv.org/abs/2303.09034v1)|null|
-|**2023-03-15**|**A Triplet-loss Dilated Residual Network for High-Resolution Representation Learning in Image Retrieval**|Saeideh Yousefzadeh et.al.|[2303.08398v1](http://arxiv.org/abs/2303.08398v1)|null|
-|**2023-03-14**|**Data-Free Sketch-Based Image Retrieval**|Abhra Chaudhuri et.al.|[2303.07775v1](http://arxiv.org/abs/2303.07775v1)|null|
 |**2023-01-05**|**A Probabilistic Framework for Visual Localization in Ambiguous Scenes**|Fereidoon Zangeneh et.al.|[2301.02086v1](http://arxiv.org/abs/2301.02086v1)|**[link](https://github.com/efreidun/vapor)**|
 |**2022-12-31**|**4Seasons: Benchmarking Visual SLAM and Long-Term Localization for Autonomous Driving in Challenging Conditions**|Patrick Wenzel et.al.|[2301.01147v1](http://arxiv.org/abs/2301.01147v1)|null|
 |**2022-12-30**|**HPointLoc: Point-based Indoor Place Recognition using Synthetic RGB-D Images**|Dmitry Yudin et.al.|[2212.14649v1](http://arxiv.org/abs/2212.14649v1)|**[link](https://github.com/metra4ok/hpointloc)**|
@@ -1005,6 +1005,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-21**|**3D-CLFusion: Fast Text-to-3D Rendering with Contrastive Latent Diffusion**|Yu-Jhe Li et.al.|[2303.11938v1](http://arxiv.org/abs/2303.11938v1)|null|
+|**2023-03-21**|**ExtremeNeRF: Few-shot Neural Radiance Fields Under Unconstrained Illumination**|SeokYeong Lee et.al.|[2303.11728v1](http://arxiv.org/abs/2303.11728v1)|null|
+|**2023-03-20**|**DehazeNeRF: Multiple Image Haze Removal and 3D Shape Reconstruction using Neural Radiance Fields**|Wei-Ting Chen et.al.|[2303.11364v1](http://arxiv.org/abs/2303.11364v1)|null|
 |**2023-03-20**|**ContraNeRF: Generalizable Neural Radiance Fields for Synthetic-to-real Novel View Synthesis via Contrastive Learning**|Hao Yang et.al.|[2303.11052v1](http://arxiv.org/abs/2303.11052v1)|null|
 |**2023-03-19**|**SKED: Sketch-guided Text-based 3D Editing**|Aryan Mikaeili et.al.|[2303.10735v1](http://arxiv.org/abs/2303.10735v1)|null|
 |**2023-03-19**|**NeRF-LOAM: Neural Implicit Representation for Large-Scale Incremental LiDAR Odometry and Mapping**|Junyuan Deng et.al.|[2303.10709v1](http://arxiv.org/abs/2303.10709v1)|**[link](https://github.com/junyuandeng/nerf-loam)**|
@@ -1012,9 +1015,6 @@
 |**2023-03-17**|**$α$ Surf: Implicit Surface Reconstruction for Semi-Transparent and Thin Objects with Decoupled Geometry and Opacity**|Tianhao Wu et.al.|[2303.10083v1](http://arxiv.org/abs/2303.10083v1)|null|
 |**2023-03-17**|**Single-view Neural Radiance Fields with Depth Teacher**|Yurui Chen et.al.|[2303.09952v1](http://arxiv.org/abs/2303.09952v1)|null|
 |**2023-03-21**|**PartNeRF: Generating Part-Aware Editable 3D Shapes without 3D Supervision**|Konstantinos Tertikas et.al.|[2303.09554v3](http://arxiv.org/abs/2303.09554v3)|null|
-|**2023-03-16**|**LERF: Language Embedded Radiance Fields**|Justin Kerr et.al.|[2303.09553v1](http://arxiv.org/abs/2303.09553v1)|null|
-|**2023-03-16**|**NeRFMeshing: Distilling Neural Radiance Fields into Geometrically-Accurate 3D Meshes**|Marie-Julie Rakotosaona et.al.|[2303.09431v1](http://arxiv.org/abs/2303.09431v1)|null|
-|**2023-03-17**|**NeRFtrinsic Four: An End-To-End Trainable NeRF Jointly Optimizing Diverse Intrinsic and Extrinsic Camera Parameters**|Hannah Schieber et.al.|[2303.09412v2](http://arxiv.org/abs/2303.09412v2)|**[link](https://github.com/hannahhaensen/nerftrinsic_four)**|
 |**2023-01-03**|**Class-Continuous Conditional Generative Neural Radiance Field**|Jiwook Kim et.al.|[2301.00950v1](http://arxiv.org/abs/2301.00950v1)|**[link](https://github.com/tom919654/C3G-NeRF)**|
 |**2023-01-01**|**Detachable Novel Views Synthesis of Dynamic Scenes Using Distribution-Driven Neural Radiance Fields**|Boyu Zhang et.al.|[2301.00411v1](http://arxiv.org/abs/2301.00411v1)|**[link](https://github.com/luciferbobo/d4nerf)**|
 |**2022-12-26**|**MonoNeRF: Learning a Generalizable Dynamic Radiance Field from Monocular Videos**|Fengrui Tian et.al.|[2212.13056v1](http://arxiv.org/abs/2212.13056v1)|null|
