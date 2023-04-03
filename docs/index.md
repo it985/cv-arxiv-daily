@@ -215,7 +215,7 @@ layout: default
 |**2022-08-15**|**BoW3D: Bag of Words for Real-time Loop Closing in 3D LiDAR SLAM**|Yunge Cui et.al.|[2208.07473v1](http://arxiv.org/abs/2208.07473v1)|**[link](https://github.com/yungecui/bow3d)**|
 |**2022-08-12**|**Handling Constrained Optimization in Factor Graphs for Autonomous Navigation**|Barbara Bazzana et.al.|[2208.06325v1](http://arxiv.org/abs/2208.06325v1)|null|
 |**2022-08-11**|**RelPose: Predicting Probabilistic Relative Rotation for Single Objects in the Wild**|Jason Y. Zhang et.al.|[2208.05963v1](http://arxiv.org/abs/2208.05963v1)|null|
-|**2022-08-08**|**Visual-Inertial Multi-Instance Dynamic SLAM with Object-level Relocalisation**|Yifei Ren et.al.|[2208.04274v1](http://arxiv.org/abs/2208.04274v1)|null|
+|**2022-08-08**|**Visual-Inertial Multi-Instance Dynamic SLAM with Object-level Relocalisation**|Yifei Ren et.al.|[2208.04274v1](http://arxiv.org/abs/2208.04274v1)|**[link](https://github.com/smartroboticslab/vimid)**|
 |**2022-08-08**|**SLAM-TKA: Real-time Intra-operative Measurement of Tibial Resection Plane in Conventional Total Knee Arthroplasty**|Shuai Zhang et.al.|[2208.03945v1](http://arxiv.org/abs/2208.03945v1)|**[link](https://github.com/zsustc/calibration)**|
 |**2022-08-05**|**A Survey on Visual Map Localization Using LiDARs and Cameras**|Elhousni Mahdi et.al.|[2208.03376v1](http://arxiv.org/abs/2208.03376v1)|null|
 |**2022-08-04**|**SROS2: Usable Cyber Security Tools for ROS 2**|Victor Mayoral Vilches et.al.|[2208.02615v1](http://arxiv.org/abs/2208.02615v1)|**[link](https://github.com/ros-swg/turtlebot3_demo)**|
@@ -452,9 +452,9 @@ layout: default
 |**2022-12-13**|**Accidental Turntables: Learning 3D Pose by Watching Objects Turn**|Zezhou Cheng et.al.|[2212.06300v1](http://arxiv.org/abs/2212.06300v1)|null|
 |**2022-12-04**|**3D Object Aided Self-Supervised Monocular Depth Estimation**|Songlin Wei et.al.|[2212.01768v1](http://arxiv.org/abs/2212.01768v1)|null|
 |**2022-12-02**|**High-Res Facial Appearance Capture from Polarized Smartphone Images**|Dejan Azinović et.al.|[2212.01160v1](http://arxiv.org/abs/2212.01160v1)|null|
-|**2022-11-28**|**FeatureBooster: Boosting Feature Descriptors with a Lightweight Neural Network**|Xinjiang Wang et.al.|[2211.15069v1](http://arxiv.org/abs/2211.15069v1)|null|
+|**2022-11-28**|**FeatureBooster: Boosting Feature Descriptors with a Lightweight Neural Network**|Xinjiang Wang et.al.|[2211.15069v1](http://arxiv.org/abs/2211.15069v1)|**[link](https://github.com/sjtu-visys/featurebooster)**|
 |**2022-11-24**|**JigsawPlan: Room Layout Jigsaw Puzzle Extreme Structure from Motion using Diffusion Models**|Sepidehsadat Hosseini et.al.|[2211.13785v1](http://arxiv.org/abs/2211.13785v1)|null|
-|**2022-11-24**|**SfM-TTR: Using Structure from Motion for Test-Time Refinement of Single-View Depth Networks**|Sergio Izquierdo et.al.|[2211.13551v1](http://arxiv.org/abs/2211.13551v1)|null|
+|**2022-11-24**|**SfM-TTR: Using Structure from Motion for Test-Time Refinement of Single-View Depth Networks**|Sergio Izquierdo et.al.|[2211.13551v1](http://arxiv.org/abs/2211.13551v1)|**[link](https://github.com/serizba/sfm-ttr)**|
 |**2022-11-22**|**Level-S $^2$ fM: Structure from Motion on Neural Level Set of Implicit Surfaces**|Yuxi Xiao et.al.|[2211.12018v1](http://arxiv.org/abs/2211.12018v1)|null|
 |**2022-11-21**|**Towards Live 3D Reconstruction from Wearable Video: An Evaluation of V-SLAM, NeRF, and Videogrammetry Techniques**|David Ramirez et.al.|[2211.11836v1](http://arxiv.org/abs/2211.11836v1)|null|
 |**2022-11-14**|**Controllable GAN Synthesis Using Non-Rigid Structure-from-Motion**|René Haas et.al.|[2211.07195v1](http://arxiv.org/abs/2211.07195v1)|null|
@@ -588,7 +588,7 @@ layout: default
 |**2023-02-15**|**Unsupervised Hashing via Similarity Distribution Calibration**|Kam Woh Ng et.al.|[2302.07669v1](http://arxiv.org/abs/2302.07669v1)|**[link](https://github.com/kamwoh/sdc)**|
 |**2023-02-13**|**Render-and-Compare: Cross-View 6 DoF Localization from Noisy Prior**|Shen Yan et.al.|[2302.06287v1](http://arxiv.org/abs/2302.06287v1)|null|
 |**2023-02-13**|**Contour Context: Abstract Structural Distribution for 3D LiDAR Loop Detection and Metric Pose Estimation**|Binqian Jiang et.al.|[2302.06149v1](http://arxiv.org/abs/2302.06149v1)|**[link](https://github.com/lewisjiang/contour-context)**|
-|**2023-02-13**|**Correspondence-Free Domain Alignment for Unsupervised Cross-Domain Image Retrieval**|Xu Wang et.al.|[2302.06081v1](http://arxiv.org/abs/2302.06081v1)|null|
+|**2023-02-13**|**Correspondence-Free Domain Alignment for Unsupervised Cross-Domain Image Retrieval**|Xu Wang et.al.|[2302.06081v1](http://arxiv.org/abs/2302.06081v1)|**[link](https://github.com/wangxu-scu/CoDA)**|
 |**2023-02-11**|**Sketch Less Face Image Retrieval: A New Challenge**|Dawei Dai et.al.|[2302.05576v1](http://arxiv.org/abs/2302.05576v1)|**[link](https://github.com/ddw2aigroup2cqupt/slfir)**|
 |**2023-02-10**|**Is multi-modal vision supervision beneficial to language?**|Avinash Madasu et.al.|[2302.05016v1](http://arxiv.org/abs/2302.05016v1)|null|
 |**2023-02-06**|**Pic2Word: Mapping Pictures to Words for Zero-shot Composed Image Retrieval**|Kuniaki Saito et.al.|[2302.03084v1](http://arxiv.org/abs/2302.03084v1)|**[link](https://github.com/google-research/composed_image_retrieval)**|
@@ -620,7 +620,7 @@ layout: default
 |**2022-11-28**|**SLAN: Self-Locator Aided Network for Cross-Modal Understanding**|Jiang-Tian Zhai et.al.|[2211.16208v1](http://arxiv.org/abs/2211.16208v1)|null|
 |**2022-11-29**|**RankDNN: Learning to Rank for Few-shot Learning**|Qianyu Guo et.al.|[2211.15320v2](http://arxiv.org/abs/2211.15320v2)|**[link](https://github.com/guoqianyu-alberta/rankdnn)**|
 |**2022-11-28**|**Safety-quantifiable Line Feature-based Monocular Visual Localization with 3D Prior Map**|Xi Zheng et.al.|[2211.15127v1](http://arxiv.org/abs/2211.15127v1)|null|
-|**2022-11-28**|**FeatureBooster: Boosting Feature Descriptors with a Lightweight Neural Network**|Xinjiang Wang et.al.|[2211.15069v1](http://arxiv.org/abs/2211.15069v1)|null|
+|**2022-11-28**|**FeatureBooster: Boosting Feature Descriptors with a Lightweight Neural Network**|Xinjiang Wang et.al.|[2211.15069v1](http://arxiv.org/abs/2211.15069v1)|**[link](https://github.com/sjtu-visys/featurebooster)**|
 |**2022-11-27**|**BEV-Locator: An End-to-end Visual Semantic Localization Network Using Multi-View Images**|Zhihuang Zhang et.al.|[2211.14927v1](http://arxiv.org/abs/2211.14927v1)|null|
 |**2022-11-27**|**A Faster, Lighter and Stronger Deep Learning-Based Approach for Place Recognition**|Rui Huang et.al.|[2211.14864v1](http://arxiv.org/abs/2211.14864v1)|null|
 |**2022-11-26**|**Visual Place Recognition**|Bailu Guo et.al.|[2211.14533v1](http://arxiv.org/abs/2211.14533v1)|null|
@@ -907,7 +907,7 @@ layout: default
 |**2022-12-07**|**ViTPose+: Vision Transformer Foundation Model for Generic Body Pose Estimation**|Yufei Xu et.al.|[2212.04246v1](http://arxiv.org/abs/2212.04246v1)|**[link](https://github.com/vitae-transformer/vitpose)**|
 |**2022-12-15**|**Designing Feature Vector Representations: A case study from Chemistry**|Signe Sidwall Thygesen et.al.|[2212.03731v2](http://arxiv.org/abs/2212.03731v2)|null|
 |**2022-12-09**|**DiffuPose: Monocular 3D Human Pose Estimation via Denoising Diffusion Probabilistic Model**|Jeongjun Choi et.al.|[2212.02796v2](http://arxiv.org/abs/2212.02796v2)|null|
-|**2022-11-28**|**FeatureBooster: Boosting Feature Descriptors with a Lightweight Neural Network**|Xinjiang Wang et.al.|[2211.15069v1](http://arxiv.org/abs/2211.15069v1)|null|
+|**2022-11-28**|**FeatureBooster: Boosting Feature Descriptors with a Lightweight Neural Network**|Xinjiang Wang et.al.|[2211.15069v1](http://arxiv.org/abs/2211.15069v1)|**[link](https://github.com/sjtu-visys/featurebooster)**|
 |**2022-11-29**|**BALF: Simple and Efficient Blur Aware Local Feature Detector**|Zhenjun Zhao et.al.|[2211.14731v2](http://arxiv.org/abs/2211.14731v2)|null|
 |**2022-11-21**|**Conjugate Product Graphs for Globally Optimal 2D-3D Shape Matching**|Paul Roetzer et.al.|[2211.11589v1](http://arxiv.org/abs/2211.11589v1)|null|
 |**2022-11-07**|**Learning Feature Descriptors for Pre- and Intra-operative Point Cloud Matching for Laparoscopic Liver Registration**|Zixin Yang et.al.|[2211.03688v1](http://arxiv.org/abs/2211.03688v1)|null|
@@ -1039,7 +1039,7 @@ layout: default
 |**2022-12-05**|**ObjectMatch: Robust Registration using Canonical Object Correspondences**|Can Gümeli et.al.|[2212.01985v1](http://arxiv.org/abs/2212.01985v1)|null|
 |**2022-12-07**|**Universe Points Representation Learning for Partial Multi-Graph Matching**|Zhakshylyk Nurlanov et.al.|[2212.00780v2](http://arxiv.org/abs/2212.00780v2)|null|
 |**2022-11-30**|**Self-Supervised Feature Learning for Long-Term Metric Visual Localization**|Yuxuan Chen et.al.|[2212.00122v1](http://arxiv.org/abs/2212.00122v1)|null|
-|**2022-11-28**|**FeatureBooster: Boosting Feature Descriptors with a Lightweight Neural Network**|Xinjiang Wang et.al.|[2211.15069v1](http://arxiv.org/abs/2211.15069v1)|null|
+|**2022-11-28**|**FeatureBooster: Boosting Feature Descriptors with a Lightweight Neural Network**|Xinjiang Wang et.al.|[2211.15069v1](http://arxiv.org/abs/2211.15069v1)|**[link](https://github.com/sjtu-visys/featurebooster)**|
 |**2022-11-19**|**Person Text-Image Matching via Text-Feature Interpretability Embedding and External Attack Node Implantation**|Fan Li et.al.|[2211.08657v2](http://arxiv.org/abs/2211.08657v2)|**[link](https://github.com/lhf12278/saa)**|
 |**2022-11-15**|**Fast Key Points Detection and Matching for Tree-Structured Images**|Hao Wang et.al.|[2211.03242v2](http://arxiv.org/abs/2211.03242v2)|null|
 |**2022-10-25**|**A Comparative Study on Deep-Learning Methods for Dense Image Matching of Multi-angle and Multi-date Remote Sensing Stereo Images**|Hessah Albanwan et.al.|[2210.14031v1](http://arxiv.org/abs/2210.14031v1)|null|
@@ -1162,12 +1162,12 @@ layout: default
 |**2023-03-23**|**SINE: Semantic-driven Image-based NeRF Editing with Prior-guided Editing Field**|Chong Bao et.al.|[2303.13277v1](http://arxiv.org/abs/2303.13277v1)|null|
 |**2023-03-23**|**Transforming Radiance Field with Lipschitz Network for Photorealistic 3D Scene Stylization**|Zicheng Zhang et.al.|[2303.13232v1](http://arxiv.org/abs/2303.13232v1)|null|
 |**2023-03-23**|**Semantic Ray: Learning a Generalizable Semantic Field with Cross-Reprojection Attention**|Fangfu Liu et.al.|[2303.13014v1](http://arxiv.org/abs/2303.13014v1)|null|
-|**2023-03-22**|**NeRF-GAN Distillation for Efficient 3D-Aware Generation with Convolutions**|Mohamad Shahbazi et.al.|[2303.12865v1](http://arxiv.org/abs/2303.12865v1)|null|
+|**2023-03-22**|**NeRF-GAN Distillation for Efficient 3D-Aware Generation with Convolutions**|Mohamad Shahbazi et.al.|[2303.12865v1](http://arxiv.org/abs/2303.12865v1)|**[link](https://github.com/mshahbazi72/nerf-gan-distillation)**|
 |**2023-03-22**|**SHERF: Generalizable Human NeRF from a Single Image**|Shoukang Hu et.al.|[2303.12791v1](http://arxiv.org/abs/2303.12791v1)|**[link](https://github.com/skhu101/sherf)**|
 |**2023-03-22**|**Instruct-NeRF2NeRF: Editing 3D Scenes with Instructions**|Ayaan Haque et.al.|[2303.12789v1](http://arxiv.org/abs/2303.12789v1)|null|
 |**2023-03-22**|**FeatureNeRF: Learning Generalizable NeRFs by Distilling Foundation Models**|Jianglong Ye et.al.|[2303.12786v1](http://arxiv.org/abs/2303.12786v1)|null|
 |**2023-03-22**|**Balanced Spherical Grid for Egocentric View Synthesis**|Changwoon Choi et.al.|[2303.12408v1](http://arxiv.org/abs/2303.12408v1)|**[link](https://github.com/changwoonchoi/EgoNeRF)**|
-|**2023-03-21**|**Pre-NeRF 360: Enriching Unbounded Appearances for Neural Radiance Fields**|Ahmad AlMughrabi et.al.|[2303.12234v1](http://arxiv.org/abs/2303.12234v1)|null|
+|**2023-03-21**|**Pre-NeRF 360: Enriching Unbounded Appearances for Neural Radiance Fields**|Ahmad AlMughrabi et.al.|[2303.12234v1](http://arxiv.org/abs/2303.12234v1)|**[link](https://github.com/amughrabi/pre-nerf)**|
 |**2023-03-21**|**3D-CLFusion: Fast Text-to-3D Rendering with Contrastive Latent Diffusion**|Yu-Jhe Li et.al.|[2303.11938v1](http://arxiv.org/abs/2303.11938v1)|null|
 |**2023-03-22**|**ExtremeNeRF: Few-shot Neural Radiance Fields Under Unconstrained Illumination**|SeokYeong Lee et.al.|[2303.11728v2](http://arxiv.org/abs/2303.11728v2)|null|
 |**2023-03-20**|**DehazeNeRF: Multiple Image Haze Removal and 3D Shape Reconstruction using Neural Radiance Fields**|Wei-Ting Chen et.al.|[2303.11364v1](http://arxiv.org/abs/2303.11364v1)|null|
@@ -1183,11 +1183,11 @@ layout: default
 |**2023-03-17**|**NeRFtrinsic Four: An End-To-End Trainable NeRF Jointly Optimizing Diverse Intrinsic and Extrinsic Camera Parameters**|Hannah Schieber et.al.|[2303.09412v2](http://arxiv.org/abs/2303.09412v2)|**[link](https://github.com/hannahhaensen/nerftrinsic_four)**|
 |**2023-03-16**|**Reliable Image Dehazing by NeRF**|Zheyan Jin et.al.|[2303.09153v1](http://arxiv.org/abs/2303.09153v1)|null|
 |**2023-03-15**|**Mesh Strikes Back: Fast and Efficient Human Reconstruction from RGB videos**|Rohit Jena et.al.|[2303.08808v1](http://arxiv.org/abs/2303.08808v1)|null|
-|**2023-03-15**|**Re-ReND: Real-time Rendering of NeRFs across Devices**|Sara Rojas et.al.|[2303.08717v1](http://arxiv.org/abs/2303.08717v1)|null|
+|**2023-03-15**|**Re-ReND: Real-time Rendering of NeRFs across Devices**|Sara Rojas et.al.|[2303.08717v1](http://arxiv.org/abs/2303.08717v1)|**[link](https://github.com/sararoma95/Re-ReND)**|
 |**2023-03-15**|**RefiNeRF: Modelling dynamic neural radiance fields with inconsistent or missing camera parameters**|Shuja Khalid et.al.|[2303.08695v1](http://arxiv.org/abs/2303.08695v1)|null|
 |**2023-03-15**|**Harnessing Low-Frequency Neural Fields for Few-Shot View Synthesis**|Liangchen Song et.al.|[2303.08370v1](http://arxiv.org/abs/2303.08370v1)|**[link](https://github.com/lsongx/halo)**|
 |**2023-03-14**|**MELON: NeRF with Unposed Images Using Equivalence Class Estimation**|Axel Levy et.al.|[2303.08096v1](http://arxiv.org/abs/2303.08096v1)|null|
-|**2023-03-16**|**Let 2D Diffusion Model Know 3D-Consistency for Robust Text-to-3D Generation**|Junyoung Seo et.al.|[2303.07937v3](http://arxiv.org/abs/2303.07937v3)|null|
+|**2023-03-16**|**Let 2D Diffusion Model Know 3D-Consistency for Robust Text-to-3D Generation**|Junyoung Seo et.al.|[2303.07937v3](http://arxiv.org/abs/2303.07937v3)|**[link](https://github.com/KU-CVLAB/3DFuse)**|
 |**2023-03-16**|**NEF: Neural Edge Fields for 3D Parametric Curve Reconstruction from Multi-view Images**|Yunfan Ye et.al.|[2303.07653v2](http://arxiv.org/abs/2303.07653v2)|null|
 |**2023-03-14**|**Frequency-Modulated Point Cloud Rendering with Easy Editing**|Yi Zhang et.al.|[2303.07596v1](http://arxiv.org/abs/2303.07596v1)|**[link](https://github.com/yizhangphd/freqpcr)**|
 |**2023-03-13**|**FreeNeRF: Improving Few-shot Neural Rendering with Free Frequency Regularization**|Jiawei Yang et.al.|[2303.07418v1](http://arxiv.org/abs/2303.07418v1)|**[link](https://github.com/jiawei-yang/freenerf)**|
@@ -1257,7 +1257,7 @@ layout: default
 |**2022-12-19**|**StyleTRF: Stylizing Tensorial Radiance Fields**|Rahul Goel et.al.|[2212.09330v1](http://arxiv.org/abs/2212.09330v1)|null|
 |**2022-12-18**|**SPARF: Large-Scale Learning of 3D Sparse Radiance Fields from Few Input Images**|Abdullah Hamdi et.al.|[2212.09100v1](http://arxiv.org/abs/2212.09100v1)|**[link](https://github.com/ajhamdi/sparf_pytorch)**|
 |**2022-11-30**|**NeRFInvertor: High Fidelity NeRF-GAN Inversion for Single-shot Real Image Animation**|Yu Yin et.al.|[2211.17235v1](http://arxiv.org/abs/2211.17235v1)|null|
-|**2022-11-29**|**NeuralLift-360: Lifting An In-the-wild 2D Photo to A 3D Object with 360° Views**|Dejia Xu et.al.|[2211.16431v1](http://arxiv.org/abs/2211.16431v1)|null|
+|**2022-11-29**|**NeuralLift-360: Lifting An In-the-wild 2D Photo to A 3D Object with 360° Views**|Dejia Xu et.al.|[2211.16431v1](http://arxiv.org/abs/2211.16431v1)|**[link](https://github.com/VITA-Group/NeuralLift-360)**|
 |**2022-11-29**|**Compressing Volumetric Radiance Fields to 1 MB**|Lingzhi Li et.al.|[2211.16386v1](http://arxiv.org/abs/2211.16386v1)|**[link](https://github.com/algohunt/vqrf)**|
 |**2022-11-28**|**In-Hand 3D Object Scanning from an RGB Sequence**|Shreyas Hampali et.al.|[2211.16193v1](http://arxiv.org/abs/2211.16193v1)|null|
 |**2022-11-30**|**One is All: Bridging the Gap Between Neural Radiance Fields Architectures with Progressive Volume Distillation**|Shuangkang Fang et.al.|[2211.15977v2](http://arxiv.org/abs/2211.15977v2)|**[link](https://github.com/megvii-research/AAAI2023-PVD)**|
@@ -1281,7 +1281,7 @@ layout: default
 |**2022-11-22**|**Zero NeRF: Registration with Zero Overlap**|Casey Peat et.al.|[2211.12544v1](http://arxiv.org/abs/2211.12544v1)|null|
 |**2022-11-22**|**Depth-Supervised NeRF for Multi-View RGB-D Operating Room Images**|Beerend G. A. Gerats et.al.|[2211.12436v1](http://arxiv.org/abs/2211.12436v1)|null|
 |**2022-11-22**|**Real-time Neural Radiance Talking Portrait Synthesis via Audio-spatial Decomposition**|Jiaxiang Tang et.al.|[2211.12368v1](http://arxiv.org/abs/2211.12368v1)|null|
-|**2022-11-22**|**Exact-NeRF: An Exploration of a Precise Volumetric Parameterization for Neural Radiance Fields**|Brian K. S. Isaac-Medina et.al.|[2211.12285v1](http://arxiv.org/abs/2211.12285v1)|null|
+|**2022-11-22**|**Exact-NeRF: An Exploration of a Precise Volumetric Parameterization for Neural Radiance Fields**|Brian K. S. Isaac-Medina et.al.|[2211.12285v1](http://arxiv.org/abs/2211.12285v1)|**[link](https://github.com/kostadinovshalon/exact-nerf)**|
 |**2022-11-22**|**SPIn-NeRF: Multiview Segmentation and Perceptual Inpainting with Neural Radiance Fields**|Ashkan Mirzaei et.al.|[2211.12254v1](http://arxiv.org/abs/2211.12254v1)|null|
 |**2022-11-22**|**Deblurred Neural Radiance Field with Physical Scene Priors**|Dogyoon Lee et.al.|[2211.12046v1](http://arxiv.org/abs/2211.12046v1)|**[link](https://github.com/dogyoonlee/dp-nerf)**|
 |**2022-11-22**|**ONeRF: Unsupervised 3D Object Segmentation from Multiple Views**|Shengnan Liang et.al.|[2211.12038v1](http://arxiv.org/abs/2211.12038v1)|null|
@@ -1289,7 +1289,7 @@ layout: default
 |**2022-11-21**|**SPARF: Neural Radiance Fields from Sparse and Noisy Poses**|Prune Truong et.al.|[2211.11738v1](http://arxiv.org/abs/2211.11738v1)|null|
 |**2022-11-21**|**ESLAM: Efficient Dense SLAM System Based on Hybrid Representation of Signed Distance Fields**|Mohammad Mahdi Johari et.al.|[2211.11704v1](http://arxiv.org/abs/2211.11704v1)|null|
 |**2022-11-21**|**Shape, Pose, and Appearance from a Single Image via Bootstrapped Radiance Field Inversion**|Dario Pavllo et.al.|[2211.11674v1](http://arxiv.org/abs/2211.11674v1)|**[link](https://github.com/google-research/nerf-from-image)**|
-|**2022-11-22**|**NeRF-RPN: A general framework for object detection in NeRFs**|Benran Hu et.al.|[2211.11646v2](http://arxiv.org/abs/2211.11646v2)|null|
+|**2022-11-22**|**NeRF-RPN: A general framework for object detection in NeRFs**|Benran Hu et.al.|[2211.11646v2](http://arxiv.org/abs/2211.11646v2)|**[link](https://github.com/lyclyc52/nerf_rpn)**|
 |**2022-11-21**|**Local-to-Global Registration for Bundle-Adjusting Neural Radiance Fields**|Yue Chen et.al.|[2211.11505v1](http://arxiv.org/abs/2211.11505v1)|null|
 |**2022-11-22**|**SegNeRF: 3D Part Segmentation with Neural Radiance Fields**|Jesus Zarzar et.al.|[2211.11215v2](http://arxiv.org/abs/2211.11215v2)|null|
 |**2022-11-21**|**FLNeRF: 3D Facial Landmarks Estimation in Neural Radiance Fields**|Hao Zhang et.al.|[2211.11202v1](http://arxiv.org/abs/2211.11202v1)|null|
@@ -1352,7 +1352,7 @@ layout: default
 |**2022-09-19**|**Loc-NeRF: Monte Carlo Localization using Neural Radiance Fields**|Dominic Maggio et.al.|[2209.09050v1](http://arxiv.org/abs/2209.09050v1)|**[link](https://github.com/mit-spark/loc-nerf)**|
 |**2022-09-23**|**NeRF-SOS: Any-View Self-supervised Object Segmentation on Complex Scenes**|Zhiwen Fan et.al.|[2209.08776v4](http://arxiv.org/abs/2209.08776v4)|**[link](https://github.com/vita-group/nerf-sos)**|
 |**2022-09-19**|**Density-aware NeRF Ensembles: Quantifying Predictive Uncertainty in Neural Radiance Fields**|Niko Sünderhauf et.al.|[2209.08718v1](http://arxiv.org/abs/2209.08718v1)|null|
-|**2022-09-18**|**ActiveNeRF: Learning where to See with Uncertainty Estimation**|Xuran Pan et.al.|[2209.08546v1](http://arxiv.org/abs/2209.08546v1)|null|
+|**2022-09-18**|**ActiveNeRF: Learning where to See with Uncertainty Estimation**|Xuran Pan et.al.|[2209.08546v1](http://arxiv.org/abs/2209.08546v1)|**[link](https://github.com/leaplabthu/activenerf)**|
 |**2022-09-18**|**LATITUDE: Robotic Global Localization with Truncated Dynamic Low-pass Filter in City-scale NeRF**|Zhenxin Zhu et.al.|[2209.08498v1](http://arxiv.org/abs/2209.08498v1)|**[link](https://github.com/jike5/LATITUDE)**|
 |**2022-09-16**|**iDF-SLAM: End-to-End RGB-D SLAM with Neural Implicit Mapping and Deep Feature Tracking**|Yuhang Ming et.al.|[2209.07919v1](http://arxiv.org/abs/2209.07919v1)|null|
 |**2022-09-12**|**StructNeRF: Neural Radiance Fields for Indoor Scenes with Structural Hints**|Zheng Chen et.al.|[2209.05277v1](http://arxiv.org/abs/2209.05277v1)|null|
