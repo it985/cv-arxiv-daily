@@ -21,8 +21,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-25**|**Multi-Camera Visual-Inertial Simultaneous Localization and Mapping for Autonomous Valet Parking**|Marcus Abate et.al.|[2304.13182v1](http://arxiv.org/abs/2304.13182v1)|null|
 |**2023-04-22**|**Twilight SLAM: A Comparative Study of Low-Light Visual SLAM Pipelines**|Surya Pratap Singh et.al.|[2304.11310v1](http://arxiv.org/abs/2304.11310v1)|null|
-|**2023-04-21**|**RGB-D Inertial Odometry for a Resource-Restricted Robot in Dynamic Environments**|Jianheng Liu et.al.|[2304.10987v1](http://arxiv.org/abs/2304.10987v1)|null|
+|**2023-04-21**|**RGB-D Inertial Odometry for a Resource-Restricted Robot in Dynamic Environments**|Jianheng Liu et.al.|[2304.10987v1](http://arxiv.org/abs/2304.10987v1)|**[link](https://github.com/hitsz-nrsl/dynamic-vins)**|
 |**2023-04-18**|**Visual-LiDAR Odometry and Mapping with Monocular Scale Correction and Motion Compensation**|Hanyu Cai et.al.|[2304.08978v1](http://arxiv.org/abs/2304.08978v1)|null|
 |**2023-04-18**|**SurfelNeRF: Neural Surfel Radiance Fields for Online Photorealistic Reconstruction of Indoor Scenes**|Yiming Gao et.al.|[2304.08971v1](http://arxiv.org/abs/2304.08971v1)|null|
 |**2023-04-18**|**Autonomous Systems: Autonomous Systems: Indoor Drone Navigation**|Aswin Iyer et.al.|[2304.08893v1](http://arxiv.org/abs/2304.08893v1)|null|
@@ -30,7 +31,6 @@
 |**2023-04-17**|**Range-Only Bearing Estimator for Localization and Mapping**|Matteo Marcantoni et.al.|[2304.08182v1](http://arxiv.org/abs/2304.08182v1)|null|
 |**2023-04-17**|**The Stellar Spectra Factory (SSF) Based On SLAM**|Wei Ji et.al.|[2304.08089v1](http://arxiv.org/abs/2304.08089v1)|**[link](https://github.com/hypergravity/astroslam)**|
 |**2023-04-17**|**Learning How To Robustly Estimate Camera Pose in Endoscopic Videos**|Michel Hayoz et.al.|[2304.08023v1](http://arxiv.org/abs/2304.08023v1)|**[link](https://github.com/aimi-lab/robust-pose-estimator)**|
-|**2023-04-14**|**FM-Loc: Using Foundation Models for Improved Vision-based Localization**|Reihaneh Mirjalili et.al.|[2304.07058v1](http://arxiv.org/abs/2304.07058v1)|null|
 |**2022-12-31**|**4Seasons: Benchmarking Visual SLAM and Long-Term Localization for Autonomous Driving in Challenging Conditions**|Patrick Wenzel et.al.|[2301.01147v1](http://arxiv.org/abs/2301.01147v1)|null|
 |**2023-01-03**|**BS3D: Building-scale 3D Reconstruction from RGB-D Images**|Janne Mustaniemi et.al.|[2301.01057v1](http://arxiv.org/abs/2301.01057v1)|null|
 |**2023-01-02**|**An Event-based Algorithm for Simultaneous 6-DOF Camera Pose Tracking and Mapping**|Masoud Dayani Najafabadi et.al.|[2301.00618v1](http://arxiv.org/abs/2301.00618v1)|null|
@@ -481,6 +481,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-26**|**Hydra-Multi: Collaborative Online Construction of 3D Scene Graphs with Multi-Robot Teams**|Yun Chang et.al.|[2304.13487v1](http://arxiv.org/abs/2304.13487v1)|null|
+|**2023-04-26**|**STIR: Siamese Transformer for Image Retrieval Postprocessing**|Aleksei Shabanov et.al.|[2304.13393v1](http://arxiv.org/abs/2304.13393v1)|**[link](https://github.com/OML-Team/open-metric-learning)**|
 |**2023-04-25**|**DualSlide: Global-to-Local Sketching Interface for Slide Content and Layout Design**|Jiahao Weng et.al.|[2304.12506v1](http://arxiv.org/abs/2304.12506v1)|null|
 |**2023-04-24**|**Rank Flow Embedding for Unsupervised and Semi-Supervised Manifold Learning**|Lucas Pascotti Valem et.al.|[2304.12448v1](http://arxiv.org/abs/2304.12448v1)|null|
 |**2023-04-23**|**IDLL: Inverse Depth Line based Visual Localization in Challenging Environments**|Wanting Li et.al.|[2304.11748v1](http://arxiv.org/abs/2304.11748v1)|null|
@@ -489,8 +491,6 @@
 |**2023-04-17**|**NeRF-Loc: Visual Localization with Conditional Neural Radiance Field**|Jianlin Liu et.al.|[2304.07979v1](http://arxiv.org/abs/2304.07979v1)|**[link](https://github.com/jenningsl/nerf-loc)**|
 |**2023-04-16**|**Bent & Broken Bicycles: Leveraging synthetic data for damaged object re-identification**|Luca Piano et.al.|[2304.07883v1](http://arxiv.org/abs/2304.07883v1)|null|
 |**2023-04-16**|**Language Guided Local Infiltration for Interactive Image Retrieval**|Fuxiang Huang et.al.|[2304.07747v1](http://arxiv.org/abs/2304.07747v1)|null|
-|**2023-04-16**|**Long-term Visual Localization with Mobile Sensors**|Shen Yan et.al.|[2304.07691v1](http://arxiv.org/abs/2304.07691v1)|null|
-|**2023-04-16**|**Multimodal Representation Learning of Cardiovascular Magnetic Resonance Imaging**|Jielin Qiu et.al.|[2304.07675v1](http://arxiv.org/abs/2304.07675v1)|null|
 |**2023-01-05**|**A Probabilistic Framework for Visual Localization in Ambiguous Scenes**|Fereidoon Zangeneh et.al.|[2301.02086v1](http://arxiv.org/abs/2301.02086v1)|**[link](https://github.com/efreidun/vapor)**|
 |**2022-12-31**|**4Seasons: Benchmarking Visual SLAM and Long-Term Localization for Autonomous Driving in Challenging Conditions**|Patrick Wenzel et.al.|[2301.01147v1](http://arxiv.org/abs/2301.01147v1)|null|
 |**2022-12-30**|**HPointLoc: Point-based Indoor Place Recognition using Synthetic RGB-D Images**|Dmitry Yudin et.al.|[2212.14649v1](http://arxiv.org/abs/2212.14649v1)|**[link](https://github.com/metra4ok/hpointloc)**|
@@ -1006,6 +1006,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-26**|**Super-NeRF: View-consistent Detail Generation for NeRF super-resolution**|Yuqi Han et.al.|[2304.13518v1](http://arxiv.org/abs/2304.13518v1)|null|
+|**2023-04-26**|**VGOS: Voxel Grid Optimization for View Synthesis from Sparse Inputs**|Jiakai Sun et.al.|[2304.13386v1](http://arxiv.org/abs/2304.13386v1)|**[link](https://github.com/sjojok/vgos)**|
 |**2023-04-25**|**Local Implicit Ray Function for Generalizable Radiance Field Representation**|Xin Huang et.al.|[2304.12746v1](http://arxiv.org/abs/2304.12746v1)|null|
 |**2023-04-26**|**MixNeRF: Memory Efficient NeRF with Feature Mixed-up Hash Table**|Yongjae Lee et.al.|[2304.12587v2](http://arxiv.org/abs/2304.12587v2)|**[link](https://github.com/nfyfamr/mixnerf)**|
 |**2023-04-24**|**Instant-3D: Instant Neural Radiance Field Training Towards On-Device AR/VR 3D Reconstruction**|Sixu Li et.al.|[2304.12467v1](http://arxiv.org/abs/2304.12467v1)|null|
@@ -1014,8 +1016,6 @@
 |**2023-04-24**|**Explicit Correspondence Matching for Generalizable Neural Radiance Fields**|Yuedong Chen et.al.|[2304.12294v1](http://arxiv.org/abs/2304.12294v1)|**[link](https://github.com/donydchen/matchnerf)**|
 |**2023-04-25**|**Gen-NeRF: Efficient and Generalizable Neural Radiance Fields via Algorithm-Hardware Co-Design**|Yonggan Fu et.al.|[2304.11842v2](http://arxiv.org/abs/2304.11842v2)|null|
 |**2023-04-22**|**3D-IntPhys: Towards More Generalized 3D-grounded Visual Intuitive Physics under Challenging Scenes**|Haotian Xue et.al.|[2304.11470v1](http://arxiv.org/abs/2304.11470v1)|null|
-|**2023-04-22**|**Dehazing-NeRF: Neural Radiance Fields from Hazy Images**|Tian Li et.al.|[2304.11448v1](http://arxiv.org/abs/2304.11448v1)|null|
-|**2023-04-22**|**NaviNeRF: NeRF-based 3D Representation Disentanglement by Latent Semantic Navigation**|Baao Xie et.al.|[2304.11342v1](http://arxiv.org/abs/2304.11342v1)|null|
 |**2023-01-03**|**Class-Continuous Conditional Generative Neural Radiance Field**|Jiwook Kim et.al.|[2301.00950v1](http://arxiv.org/abs/2301.00950v1)|**[link](https://github.com/tom919654/C3G-NeRF)**|
 |**2023-01-01**|**Detachable Novel Views Synthesis of Dynamic Scenes Using Distribution-Driven Neural Radiance Fields**|Boyu Zhang et.al.|[2301.00411v1](http://arxiv.org/abs/2301.00411v1)|**[link](https://github.com/luciferbobo/d4nerf)**|
 |**2022-12-26**|**MonoNeRF: Learning a Generalizable Dynamic Radiance Field from Monocular Videos**|Fengrui Tian et.al.|[2212.13056v1](http://arxiv.org/abs/2212.13056v1)|null|
