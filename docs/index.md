@@ -921,7 +921,7 @@ layout: default
 |**2022-04-18**|**Multiple-environment Self-adaptive Network for Aerial-view Geo-localization**|Tingyu Wang et.al.|[2204.08381v1](http://arxiv.org/abs/2204.08381v1)|null|
 |**2022-04-15**|**Condition-Invariant and Compact Visual Place Description by Convolutional Autoencoder**|Hanjing Ye et.al.|[2204.07350v1](http://arxiv.org/abs/2204.07350v1)|**[link](https://github.com/medlartea/cae-vpr)**|
 |**2022-04-14**|**Composite Code Sparse Autoencoders for first stage retrieval**|Carlos Lassance et.al.|[2204.07023v1](http://arxiv.org/abs/2204.07023v1)|null|
-|**2022-04-13**|**Reuse your features: unifying retrieval and feature-metric alignment**|Javier Morlana et.al.|[2204.06292v1](http://arxiv.org/abs/2204.06292v1)|null|
+|**2022-04-13**|**Reuse your features: unifying retrieval and feature-metric alignment**|Javier Morlana et.al.|[2204.06292v1](http://arxiv.org/abs/2204.06292v1)|**[link](https://github.com/jmorlana/dran)**|
 |**2022-04-12**|**Probabilistic Compositional Embeddings for Multimodal Image Retrieval**|Andrei Neculai et.al.|[2204.05845v1](http://arxiv.org/abs/2204.05845v1)|**[link](https://github.com/andreineculai/mpc)**|
 |**2022-04-12**|**Three-Stream Joint Network for Zero-Shot Sketch-Based Image Retrieval**|Yu-Wei Zhan et.al.|[2204.05666v1](http://arxiv.org/abs/2204.05666v1)|null|
 |**2022-04-12**|**HiTPR: Hierarchical Transformer for Place Recognition in Point Cloud**|Zhixing Hou et.al.|[2204.05481v1](http://arxiv.org/abs/2204.05481v1)|null|
