@@ -21,6 +21,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-31**|**On the relevance of fatigue in the risk of failure of marine structures exposed to bottom wave slamming**|Romain Hascoët et.al.|[2305.19899v1](http://arxiv.org/abs/2305.19899v1)|null|
 |**2023-05-28**|**OSPC: Online Sequential Photometric Calibration**|Jawad Haidar et.al.|[2305.17673v1](http://arxiv.org/abs/2305.17673v1)|null|
 |**2023-05-24**|**UAV Trajectory Optimization and Tracking for User Localization in Wireless Networks**|Omid Esrafilian et.al.|[2305.14959v1](http://arxiv.org/abs/2305.14959v1)|null|
 |**2023-05-24**|**Towards View-invariant and Accurate Loop Detection Based on Scene Graph**|Chuhao Liu et.al.|[2305.14885v1](http://arxiv.org/abs/2305.14885v1)|null|
@@ -30,7 +31,6 @@
 |**2023-05-22**|**WiROS: WiFi sensing toolbox for robotics**|William Hunter et.al.|[2305.13418v1](http://arxiv.org/abs/2305.13418v1)|**[link](https://github.com/ucsdwcsng/wiros)**|
 |**2023-05-22**|**PALoc: Robust Prior-assisted Trajectory Generation for Benchmarking**|Xiangcheng Hu et.al.|[2305.13147v1](http://arxiv.org/abs/2305.13147v1)|null|
 |**2023-05-22**|**Angle-based SLAM on 5G mmWave Systems: Design, Implementation, and Measurement**|Jie Yang et.al.|[2305.12669v1](http://arxiv.org/abs/2305.12669v1)|null|
-|**2023-05-17**|**TextSLAM: Visual SLAM with Semantic Planar Text Features**|Boying Li et.al.|[2305.10029v1](http://arxiv.org/abs/2305.10029v1)|**[link](https://github.com/sjtu-visys/textslam)**|
 |**2022-12-31**|**4Seasons: Benchmarking Visual SLAM and Long-Term Localization for Autonomous Driving in Challenging Conditions**|Patrick Wenzel et.al.|[2301.01147v1](http://arxiv.org/abs/2301.01147v1)|null|
 |**2023-01-03**|**BS3D: Building-scale 3D Reconstruction from RGB-D Images**|Janne Mustaniemi et.al.|[2301.01057v1](http://arxiv.org/abs/2301.01057v1)|null|
 |**2023-01-02**|**An Event-based Algorithm for Simultaneous 6-DOF Camera Pose Tracking and Mapping**|Masoud Dayani Najafabadi et.al.|[2301.00618v1](http://arxiv.org/abs/2301.00618v1)|null|
@@ -481,6 +481,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-31**|**Chatting Makes Perfect -- Chat-based Image Retrieval**|Matan Levy et.al.|[2305.20062v1](http://arxiv.org/abs/2305.20062v1)|null|
+|**2023-05-31**|**Probabilistic Uncertainty Quantification of Prediction Models with Application to Visual Localization**|Junan Chen et.al.|[2305.20044v1](http://arxiv.org/abs/2305.20044v1)|null|
 |**2023-05-30**|**A Recipe for Efficient SBIR Models: Combining Relative Triplet Loss with Batch Normalization and Knowledge Distillation**|Omar Seddati et.al.|[2305.18988v1](http://arxiv.org/abs/2305.18988v1)|null|
 |**2023-05-29**|**Synfeal: A Data-Driven Simulator for End-to-End Camera Localization**|Daniel Coelho et.al.|[2305.18260v1](http://arxiv.org/abs/2305.18260v1)|**[link](https://github.com/danielcoelho112/synfeal)**|
 |**2023-05-29**|**Nanoscale visualization of the thermally-driven evolution of antiferromagnetic domains in FeTe thin films**|Shrinkhala Sharma et.al.|[2305.18197v1](http://arxiv.org/abs/2305.18197v1)|null|
@@ -489,8 +491,6 @@
 |**2023-05-27**|**FACTUAL: A Benchmark for Faithful and Consistent Textual Scene Graph Parsing**|Zhuang Li et.al.|[2305.17497v1](http://arxiv.org/abs/2305.17497v1)|**[link](https://github.com/zhuang-li/factual)**|
 |**2023-05-27**|**Pentagon-Match (PMatch): Identification of View-Invariant Planar Feature for Local Feature Matching-Based Homography Estimation**|Yueh-Cheng Huang et.al.|[2305.17463v1](http://arxiv.org/abs/2305.17463v1)|null|
 |**2023-05-26**|**Generating Images with Multimodal Language Models**|Jing Yu Koh et.al.|[2305.17216v1](http://arxiv.org/abs/2305.17216v1)|**[link](https://github.com/kohjingyu/gill)**|
-|**2023-05-25**|**Candidate Set Re-ranking for Composed Image Retrieval with Dual Multi-modal Encoder**|Zheyuan Liu et.al.|[2305.16304v1](http://arxiv.org/abs/2305.16304v1)|null|
-|**2023-05-23**|**Leveraging BEV Representation for 360-degree Visual Place Recognition**|Xuecheng Xu et.al.|[2305.13814v1](http://arxiv.org/abs/2305.13814v1)|**[link](https://github.com/maverickpeter/vdisco)**|
 |**2023-01-05**|**A Probabilistic Framework for Visual Localization in Ambiguous Scenes**|Fereidoon Zangeneh et.al.|[2301.02086v1](http://arxiv.org/abs/2301.02086v1)|**[link](https://github.com/efreidun/vapor)**|
 |**2022-12-31**|**4Seasons: Benchmarking Visual SLAM and Long-Term Localization for Autonomous Driving in Challenging Conditions**|Patrick Wenzel et.al.|[2301.01147v1](http://arxiv.org/abs/2301.01147v1)|null|
 |**2022-12-30**|**HPointLoc: Point-based Indoor Place Recognition using Synthetic RGB-D Images**|Dmitry Yudin et.al.|[2212.14649v1](http://arxiv.org/abs/2212.14649v1)|**[link](https://github.com/metra4ok/hpointloc)**|
