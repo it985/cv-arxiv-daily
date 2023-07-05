@@ -21,6 +21,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-03**|**Artifacts Mapping: Multi-Modal Semantic Mapping for Object Detection and 3D Localization**|Federico Rollo et.al.|[2307.01121v1](http://arxiv.org/abs/2307.01121v1)|null|
+|**2023-07-02**|**POV-SLAM: Probabilistic Object-Aware Variational SLAM in Semi-Static Environments**|Jingxing Qian et.al.|[2307.00488v1](http://arxiv.org/abs/2307.00488v1)|null|
 |**2023-06-30**|**Locking On: Leveraging Dynamic Vehicle-Imposed Motion Constraints to Improve Visual Localization**|Stephen Hausler et.al.|[2306.17529v1](http://arxiv.org/abs/2306.17529v1)|null|
 |**2023-06-29**|**The Drunkard's Odometry: Estimating Camera Motion in Deforming Scenes**|David Recasens et.al.|[2306.16917v1](http://arxiv.org/abs/2306.16917v1)|**[link](https://github.com/UZ-SLAMLab/DrunkardsOdometry)**|
 |**2023-06-28**|**SeMLaPS: Real-time Semantic Mapping with Latent Prior Networks and Quasi-Planar Segmentation**|Jingwen Wang et.al.|[2306.16585v1](http://arxiv.org/abs/2306.16585v1)|null|
@@ -29,8 +31,6 @@
 |**2023-06-25**|**BotanicGarden: A high-quality and large-scale robot navigation dataset in challenging natural environments**|Yuanzhi Liu et.al.|[2306.14137v1](http://arxiv.org/abs/2306.14137v1)|**[link](https://github.com/robot-pesg/botanicgarden)**|
 |**2023-06-22**|**Map Point Selection for Visual SLAM**|Christiaan J. Müller et.al.|[2306.12901v1](http://arxiv.org/abs/2306.12901v1)|**[link](https://github.com/ChristiaanM/MapSelect)**|
 |**2023-06-22**|**PEBO-SLAM: Observer design for visual inertial SLAM with convergence guarantees**|Bowen Yi et.al.|[2306.12723v1](http://arxiv.org/abs/2306.12723v1)|null|
-|**2023-06-19**|**UncLe-SLAM: Uncertainty Learning for Dense Neural SLAM**|Erik Sandström et.al.|[2306.11048v1](http://arxiv.org/abs/2306.11048v1)|null|
-|**2023-06-18**|**LiDAR-Based Place Recognition For Autonomous Driving: A Survey**|Pengcheng Shi et.al.|[2306.10561v1](http://arxiv.org/abs/2306.10561v1)|null|
 |**2022-12-31**|**4Seasons: Benchmarking Visual SLAM and Long-Term Localization for Autonomous Driving in Challenging Conditions**|Patrick Wenzel et.al.|[2301.01147v1](http://arxiv.org/abs/2301.01147v1)|null|
 |**2023-01-03**|**BS3D: Building-scale 3D Reconstruction from RGB-D Images**|Janne Mustaniemi et.al.|[2301.01057v1](http://arxiv.org/abs/2301.01057v1)|null|
 |**2023-01-02**|**An Event-based Algorithm for Simultaneous 6-DOF Camera Pose Tracking and Mapping**|Masoud Dayani Najafabadi et.al.|[2301.00618v1](http://arxiv.org/abs/2301.00618v1)|null|
@@ -481,6 +481,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-03**|**Cross-modal Place Recognition in Image Databases using Event-based Sensors**|Xiang Ji et.al.|[2307.01047v1](http://arxiv.org/abs/2307.01047v1)|null|
 |**2023-06-30**|**DisPlacing Objects: Improving Dynamic Vehicle Detection via Visual Place Recognition under Adverse Conditions**|Stephen Hausler et.al.|[2306.17536v1](http://arxiv.org/abs/2306.17536v1)|null|
 |**2023-06-30**|**Locking On: Leveraging Dynamic Vehicle-Imposed Motion Constraints to Improve Visual Localization**|Stephen Hausler et.al.|[2306.17529v1](http://arxiv.org/abs/2306.17529v1)|null|
 |**2023-06-27**|**Dental CLAIRES: Contrastive LAnguage Image REtrieval Search for Dental Research**|Tanjida Kabir et.al.|[2306.15651v1](http://arxiv.org/abs/2306.15651v1)|null|
@@ -490,7 +491,6 @@
 |**2023-06-23**|**Catching Image Retrieval Generalization**|Maksim Zhdanov et.al.|[2306.13357v1](http://arxiv.org/abs/2306.13357v1)|null|
 |**2023-06-22**|**Deep Metric Learning with Soft Orthogonal Proxies**|Farshad Saberi-Movahed et.al.|[2306.13055v1](http://arxiv.org/abs/2306.13055v1)|null|
 |**2023-06-22**|**What to Learn: Features, Image Transformations, or Both?**|Yuxuan Chen et.al.|[2306.13040v1](http://arxiv.org/abs/2306.13040v1)|null|
-|**2023-06-22**|**Critical-Reflective Human-AI Collaboration: Exploring Computational Tools for Art Historical Image Retrieval**|Katrin Glinka et.al.|[2306.12843v1](http://arxiv.org/abs/2306.12843v1)|null|
 |**2023-01-05**|**A Probabilistic Framework for Visual Localization in Ambiguous Scenes**|Fereidoon Zangeneh et.al.|[2301.02086v1](http://arxiv.org/abs/2301.02086v1)|**[link](https://github.com/efreidun/vapor)**|
 |**2022-12-31**|**4Seasons: Benchmarking Visual SLAM and Long-Term Localization for Autonomous Driving in Challenging Conditions**|Patrick Wenzel et.al.|[2301.01147v1](http://arxiv.org/abs/2301.01147v1)|null|
 |**2022-12-30**|**HPointLoc: Point-based Indoor Place Recognition using Synthetic RGB-D Images**|Dmitry Yudin et.al.|[2212.14649v1](http://arxiv.org/abs/2212.14649v1)|**[link](https://github.com/metra4ok/hpointloc)**|
@@ -771,6 +771,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-01**|**SyMFM6D: Symmetry-aware Multi-directional Fusion for Multi-View 6D Object Pose Estimation**|Fabian Duffhauss et.al.|[2307.00306v1](http://arxiv.org/abs/2307.00306v1)|null|
 |**2023-06-27**|**Detector-Free Structure from Motion**|Xingyi He et.al.|[2306.15669v1](http://arxiv.org/abs/2306.15669v1)|**[link](https://github.com/zju3dv/DetectorFreeSfM)**|
 |**2023-06-26**|**CLERA: A Unified Model for Joint Cognitive Load and Eye Region Analysis in the Wild**|Li Ding et.al.|[2306.15073v1](http://arxiv.org/abs/2306.15073v1)|null|
 |**2023-06-28**|**Topology Repairing of Disconnected Pulmonary Airways and Vessels: Baselines and a Dataset**|Ziqiao Weng et.al.|[2306.07089v2](http://arxiv.org/abs/2306.07089v2)|null|
@@ -780,7 +781,6 @@
 |**2023-06-01**|**A Probabilistic Relaxation of the Two-Stage Object Pose Estimation Paradigm**|Onur Beker et.al.|[2306.00892v1](http://arxiv.org/abs/2306.00892v1)|null|
 |**2023-05-30**|**Align, Perturb and Decouple: Toward Better Leverage of Difference Information for RSI Change Detection**|Supeng Wang et.al.|[2305.18714v1](http://arxiv.org/abs/2305.18714v1)|**[link](https://github.com/wangsp1999/cd-research)**|
 |**2023-05-23**|**Diffusion Hyperfeatures: Searching Through Time and Space for Semantic Correspondence**|Grace Luo et.al.|[2305.14334v1](http://arxiv.org/abs/2305.14334v1)|null|
-|**2023-05-15**|**Non-Separable Multi-Dimensional Network Flows for Visual Computing**|Viktoria Ehm et.al.|[2305.08628v1](http://arxiv.org/abs/2305.08628v1)|null|
 |**2022-12-31**|**Rethinking Rotation Invariance with Point Cloud Registration**|Jianhui Yu et.al.|[2301.00149v1](http://arxiv.org/abs/2301.00149v1)|null|
 |**2022-12-29**|**Fruit Ripeness Classification: a Survey**|Matteo Rizzo et.al.|[2212.14441v1](http://arxiv.org/abs/2212.14441v1)|null|
 |**2022-12-28**|**NeMo: 3D Neural Motion Fields from Multiple Video Instances of the Same Action**|Kuan-Chieh Wang et.al.|[2212.13660v1](http://arxiv.org/abs/2212.13660v1)|**[link](https://github.com/wangkua1/nemo-cvpr2023)**|
@@ -895,6 +895,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-02**|**TopicFM+: Boosting Accuracy and Efficiency of Topic-Assisted Feature Matching**|Khang Truong Giang et.al.|[2307.00485v1](http://arxiv.org/abs/2307.00485v1)|**[link](https://github.com/truongkhang/topicfm)**|
 |**2023-06-27**|**Detector-Free Structure from Motion**|Xingyi He et.al.|[2306.15669v1](http://arxiv.org/abs/2306.15669v1)|**[link](https://github.com/zju3dv/DetectorFreeSfM)**|
 |**2023-06-28**|**PoseDiffusion: Solving Pose Estimation via Diffusion-aided Bundle Adjustment**|Jianyuan Wang et.al.|[2306.15667v2](http://arxiv.org/abs/2306.15667v2)|null|
 |**2023-06-25**|**Enhancing Dynamic Image Advertising with Vision-Language Pre-training**|Zhoufutu Wen et.al.|[2306.14112v1](http://arxiv.org/abs/2306.14112v1)|null|
@@ -904,7 +905,6 @@
 |**2023-05-19**|**SIDAR: Synthetic Image Dataset for Alignment & Restoration**|Monika Kwiatkowski et.al.|[2305.12036v1](http://arxiv.org/abs/2305.12036v1)|**[link](https://github.com/niika/SIDAR)**|
 |**2023-05-18**|**LLMScore: Unveiling the Power of Large Language Models in Text-to-Image Synthesis Evaluation**|Yujie Lu et.al.|[2305.11116v1](http://arxiv.org/abs/2305.11116v1)|**[link](https://github.com/yujielu10/llmscore)**|
 |**2023-05-16**|**A Method for Training-free Person Image Picture Generation**|Tianyu Chen et.al.|[2305.09817v1](http://arxiv.org/abs/2305.09817v1)|null|
-|**2023-05-15**|**Image Matching by Bare Homography**|Fabio Bellavia et.al.|[2305.08946v1](http://arxiv.org/abs/2305.08946v1)|null|
 |**2022-12-31**|**Translating Text Synopses to Video Storyboards**|Xu Gu et.al.|[2301.00135v1](http://arxiv.org/abs/2301.00135v1)|null|
 |**2022-12-23**|**SuperGF: Unifying Local and Global Features for Visual Localization**|Wenzheng Song et.al.|[2212.13105v1](http://arxiv.org/abs/2212.13105v1)|null|
 |**2022-12-26**|**Transformer and GAN Based Super-Resolution Reconstruction Network for Medical Images**|Weizhi Du et.al.|[2212.13068v1](http://arxiv.org/abs/2212.13068v1)|null|
