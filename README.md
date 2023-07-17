@@ -21,16 +21,6 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-07-08**|**Ground-Challenge: A Multi-sensor SLAM Dataset Focusing on Corner Cases for Ground Robots**|Jie Yin et.al.|[2307.03890v1](http://arxiv.org/abs/2307.03890v1)|null|
-|**2023-07-06**|**Benign landscapes of low-dimensional relaxations for orthogonal synchronization on general graphs**|Andrew D. McRae et.al.|[2307.02941v1](http://arxiv.org/abs/2307.02941v1)|null|
-|**2023-07-03**|**Artifacts Mapping: Multi-Modal Semantic Mapping for Object Detection and 3D Localization**|Federico Rollo et.al.|[2307.01121v1](http://arxiv.org/abs/2307.01121v1)|null|
-|**2023-07-02**|**POV-SLAM: Probabilistic Object-Aware Variational SLAM in Semi-Static Environments**|Jingxing Qian et.al.|[2307.00488v1](http://arxiv.org/abs/2307.00488v1)|null|
-|**2023-06-30**|**Locking On: Leveraging Dynamic Vehicle-Imposed Motion Constraints to Improve Visual Localization**|Stephen Hausler et.al.|[2306.17529v1](http://arxiv.org/abs/2306.17529v1)|null|
-|**2023-06-29**|**The Drunkard's Odometry: Estimating Camera Motion in Deforming Scenes**|David Recasens et.al.|[2306.16917v1](http://arxiv.org/abs/2306.16917v1)|**[link](https://github.com/UZ-SLAMLab/DrunkardsOdometry)**|
-|**2023-06-28**|**SeMLaPS: Real-time Semantic Mapping with Latent Prior Networks and Quasi-Planar Segmentation**|Jingwen Wang et.al.|[2306.16585v1](http://arxiv.org/abs/2306.16585v1)|null|
-|**2023-06-28**|**Image-based Visual Servo Control for Aerial Manipulation Using a Fully-Actuated UAV**|Guanqi He et.al.|[2306.16530v1](http://arxiv.org/abs/2306.16530v1)|null|
-|**2023-06-26**|**MOVESe: MOVablE and Moving LiDAR Scene Segmentation with Improved Navigation in Seg-label free settings**|Prashant Kumar et.al.|[2306.14812v1](http://arxiv.org/abs/2306.14812v1)|null|
-|**2023-06-25**|**BotanicGarden: A high-quality and large-scale robot navigation dataset in challenging natural environments**|Yuanzhi Liu et.al.|[2306.14137v1](http://arxiv.org/abs/2306.14137v1)|**[link](https://github.com/robot-pesg/botanicgarden)**|
 |**2022-12-31**|**4Seasons: Benchmarking Visual SLAM and Long-Term Localization for Autonomous Driving in Challenging Conditions**|Patrick Wenzel et.al.|[2301.01147v1](http://arxiv.org/abs/2301.01147v1)|null|
 |**2023-01-03**|**BS3D: Building-scale 3D Reconstruction from RGB-D Images**|Janne Mustaniemi et.al.|[2301.01057v1](http://arxiv.org/abs/2301.01057v1)|null|
 |**2023-01-02**|**An Event-based Algorithm for Simultaneous 6-DOF Camera Pose Tracking and Mapping**|Masoud Dayani Najafabadi et.al.|[2301.00618v1](http://arxiv.org/abs/2301.00618v1)|null|
@@ -390,16 +380,6 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-07-10**|**Efficient Match Pair Retrieval for Large-scale UAV Images via Graph Indexed Global Descriptor**|San Jiang et.al.|[2307.04520v1](http://arxiv.org/abs/2307.04520v1)|null|
-|**2023-07-07**|**RGB-D Mapping and Tracking in a Plenoxel Radiance Field**|Andreas L. Teigen et.al.|[2307.03404v1](http://arxiv.org/abs/2307.03404v1)|null|
-|**2023-06-29**|**The Drunkard's Odometry: Estimating Camera Motion in Deforming Scenes**|David Recasens et.al.|[2306.16917v1](http://arxiv.org/abs/2306.16917v1)|**[link](https://github.com/UZ-SLAMLab/DrunkardsOdometry)**|
-|**2023-06-27**|**Detector-Free Structure from Motion**|Xingyi He et.al.|[2306.15669v1](http://arxiv.org/abs/2306.15669v1)|**[link](https://github.com/zju3dv/DetectorFreeSfM)**|
-|**2023-06-28**|**PoseDiffusion: Solving Pose Estimation via Diffusion-aided Bundle Adjustment**|Jianyuan Wang et.al.|[2306.15667v2](http://arxiv.org/abs/2306.15667v2)|null|
-|**2023-06-24**|**3D Reconstruction of Spherical Images based on Incremental Structure from Motion**|San Jiang et.al.|[2306.12770v2](http://arxiv.org/abs/2306.12770v2)|null|
-|**2023-06-15**|**NAVI: Category-Agnostic Image Collections with High-Quality 3D Shape and Pose Annotations**|Varun Jampani et.al.|[2306.09109v1](http://arxiv.org/abs/2306.09109v1)|null|
-|**2023-06-15**|**Yes, we CANN: Constrained Approximate Nearest Neighbors for local feature-based visual localization**|Dror Aiger et.al.|[2306.09012v1](http://arxiv.org/abs/2306.09012v1)|null|
-|**2023-06-10**|**3D reconstruction using Structure for Motion**|Kshitij Karnawat et.al.|[2306.06360v1](http://arxiv.org/abs/2306.06360v1)|**[link](https://github.com/kshitijkarnawat/structure-from-motion)**|
-|**2023-06-02**|**Self-supervised Interest Point Detection and Description for Fisheye and Perspective Images**|Marcela Mera-Trujillo et.al.|[2306.01938v1](http://arxiv.org/abs/2306.01938v1)|null|
 |**2023-01-05**|**Robust Dynamic Radiance Fields**|Yu-Lun Liu et.al.|[2301.02239v1](http://arxiv.org/abs/2301.02239v1)|null|
 |**2022-12-24**|**Polarimetric Multi-View Inverse Rendering**|Jinyu Zhao et.al.|[2212.12721v1](http://arxiv.org/abs/2212.12721v1)|null|
 |**2022-12-13**|**Accidental Turntables: Learning 3D Pose by Watching Objects Turn**|Zezhou Cheng et.al.|[2212.06300v1](http://arxiv.org/abs/2212.06300v1)|null|
@@ -481,16 +461,6 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-07-11**|**ResMatch: Residual Attention Learning for Local Feature Matching**|Yuxin Deng et.al.|[2307.05180v1](http://arxiv.org/abs/2307.05180v1)|**[link](https://github.com/acuooooo/resmatch)**|
-|**2023-07-11**|**Feature Activation Map: Visual Explanation of Deep Learning Models for Image Classification**|Yi Liao et.al.|[2307.05017v1](http://arxiv.org/abs/2307.05017v1)|null|
-|**2023-07-10**|**Efficient Match Pair Retrieval for Large-scale UAV Images via Graph Indexed Global Descriptor**|San Jiang et.al.|[2307.04520v1](http://arxiv.org/abs/2307.04520v1)|null|
-|**2023-07-10**|**RaPlace: Place Recognition for Imaging Radar using Radon Transform and Mutable Threshold**|Hyesu Jang et.al.|[2307.04321v1](http://arxiv.org/abs/2307.04321v1)|null|
-|**2023-07-08**|**Calibration-Aware Margin Loss: Pushing the Accuracy-Calibration Consistency Pareto Frontier for Deep Metric Learning**|Qin Zhang et.al.|[2307.04047v1](http://arxiv.org/abs/2307.04047v1)|null|
-|**2023-07-04**|**Unsupervised Quality Prediction for Improved Single-Frame and Weighted Sequential Visual Place Recognition**|Helen Carson et.al.|[2307.01464v1](http://arxiv.org/abs/2307.01464v1)|null|
-|**2023-07-04**|**Learning Feature Matching via Matchable Keypoint-Assisted Graph Neural Network**|Zizhuo Li et.al.|[2307.01447v1](http://arxiv.org/abs/2307.01447v1)|null|
-|**2023-07-03**|**Cross-modal Place Recognition in Image Databases using Event-based Sensors**|Xiang Ji et.al.|[2307.01047v1](http://arxiv.org/abs/2307.01047v1)|null|
-|**2023-06-30**|**DisPlacing Objects: Improving Dynamic Vehicle Detection via Visual Place Recognition under Adverse Conditions**|Stephen Hausler et.al.|[2306.17536v1](http://arxiv.org/abs/2306.17536v1)|null|
-|**2023-06-30**|**Locking On: Leveraging Dynamic Vehicle-Imposed Motion Constraints to Improve Visual Localization**|Stephen Hausler et.al.|[2306.17529v1](http://arxiv.org/abs/2306.17529v1)|null|
 |**2023-01-05**|**A Probabilistic Framework for Visual Localization in Ambiguous Scenes**|Fereidoon Zangeneh et.al.|[2301.02086v1](http://arxiv.org/abs/2301.02086v1)|**[link](https://github.com/efreidun/vapor)**|
 |**2022-12-31**|**4Seasons: Benchmarking Visual SLAM and Long-Term Localization for Autonomous Driving in Challenging Conditions**|Patrick Wenzel et.al.|[2301.01147v1](http://arxiv.org/abs/2301.01147v1)|null|
 |**2022-12-30**|**HPointLoc: Point-based Indoor Place Recognition using Synthetic RGB-D Images**|Dmitry Yudin et.al.|[2212.14649v1](http://arxiv.org/abs/2212.14649v1)|**[link](https://github.com/metra4ok/hpointloc)**|
@@ -771,16 +741,6 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-07-01**|**SyMFM6D: Symmetry-aware Multi-directional Fusion for Multi-View 6D Object Pose Estimation**|Fabian Duffhauss et.al.|[2307.00306v1](http://arxiv.org/abs/2307.00306v1)|**[link](https://github.com/boschresearch/symfm6d)**|
-|**2023-06-27**|**Detector-Free Structure from Motion**|Xingyi He et.al.|[2306.15669v1](http://arxiv.org/abs/2306.15669v1)|**[link](https://github.com/zju3dv/DetectorFreeSfM)**|
-|**2023-06-26**|**CLERA: A Unified Model for Joint Cognitive Load and Eye Region Analysis in the Wild**|Li Ding et.al.|[2306.15073v1](http://arxiv.org/abs/2306.15073v1)|null|
-|**2023-06-28**|**Topology Repairing of Disconnected Pulmonary Airways and Vessels: Baselines and a Dataset**|Ziqiao Weng et.al.|[2306.07089v2](http://arxiv.org/abs/2306.07089v2)|**[link](https://github.com/m3dv/pulmonary-tree-repairing)**|
-|**2023-06-07**|**Learning Probabilistic Coordinate Fields for Robust Correspondences**|Weiyue Zhao et.al.|[2306.04231v1](http://arxiv.org/abs/2306.04231v1)|null|
-|**2023-06-03**|**LDEB -- Label Digitization with Emotion Binarization and Machine Learning for Emotion Recognition in Conversational Dialogues**|Amitabha Dey et.al.|[2306.02193v1](http://arxiv.org/abs/2306.02193v1)|null|
-|**2023-06-02**|**Self-supervised Interest Point Detection and Description for Fisheye and Perspective Images**|Marcela Mera-Trujillo et.al.|[2306.01938v1](http://arxiv.org/abs/2306.01938v1)|null|
-|**2023-06-01**|**A Probabilistic Relaxation of the Two-Stage Object Pose Estimation Paradigm**|Onur Beker et.al.|[2306.00892v1](http://arxiv.org/abs/2306.00892v1)|null|
-|**2023-05-30**|**Align, Perturb and Decouple: Toward Better Leverage of Difference Information for RSI Change Detection**|Supeng Wang et.al.|[2305.18714v1](http://arxiv.org/abs/2305.18714v1)|**[link](https://github.com/wangsp1999/cd-research)**|
-|**2023-05-23**|**Diffusion Hyperfeatures: Searching Through Time and Space for Semantic Correspondence**|Grace Luo et.al.|[2305.14334v1](http://arxiv.org/abs/2305.14334v1)|null|
 |**2022-12-31**|**Rethinking Rotation Invariance with Point Cloud Registration**|Jianhui Yu et.al.|[2301.00149v1](http://arxiv.org/abs/2301.00149v1)|null|
 |**2022-12-29**|**Fruit Ripeness Classification: a Survey**|Matteo Rizzo et.al.|[2212.14441v1](http://arxiv.org/abs/2212.14441v1)|null|
 |**2022-12-28**|**NeMo: 3D Neural Motion Fields from Multiple Video Instances of the Same Action**|Kuan-Chieh Wang et.al.|[2212.13660v1](http://arxiv.org/abs/2212.13660v1)|**[link](https://github.com/wangkua1/nemo-cvpr2023)**|
@@ -895,16 +855,6 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-07-09**|**Augmenters at SemEval-2023 Task 1: Enhancing CLIP in Handling Compositionality and Ambiguity for Zero-Shot Visual WSD through Prompt Augmentation and Text-To-Image Diffusion**|Jie S. Li et.al.|[2307.05564v1](http://arxiv.org/abs/2307.05564v1)|null|
-|**2023-07-11**|**TIAM -- A Metric for Evaluating Alignment in Text-to-Image Generation**|Paul Grimal et.al.|[2307.05134v1](http://arxiv.org/abs/2307.05134v1)|**[link](https://github.com/grimalpaul/tiam)**|
-|**2023-07-02**|**TopicFM+: Boosting Accuracy and Efficiency of Topic-Assisted Feature Matching**|Khang Truong Giang et.al.|[2307.00485v1](http://arxiv.org/abs/2307.00485v1)|**[link](https://github.com/truongkhang/topicfm)**|
-|**2023-06-27**|**Detector-Free Structure from Motion**|Xingyi He et.al.|[2306.15669v1](http://arxiv.org/abs/2306.15669v1)|**[link](https://github.com/zju3dv/DetectorFreeSfM)**|
-|**2023-06-28**|**PoseDiffusion: Solving Pose Estimation via Diffusion-aided Bundle Adjustment**|Jianyuan Wang et.al.|[2306.15667v2](http://arxiv.org/abs/2306.15667v2)|null|
-|**2023-06-25**|**Enhancing Dynamic Image Advertising with Vision-Language Pre-training**|Zhoufutu Wen et.al.|[2306.14112v1](http://arxiv.org/abs/2306.14112v1)|null|
-|**2023-06-19**|**Graph Self-Supervised Learning for Endoscopic Image Matching**|Manel Farhat et.al.|[2306.11141v1](http://arxiv.org/abs/2306.11141v1)|**[link](https://github.com/abenhamadou/graph-self-supervised-learning-for-endoscopic-image-matching)**|
-|**2023-06-07**|**A2B: Anchor to Barycentric Coordinate for Robust Correspondence**|Weiyue Zhao et.al.|[2306.02760v2](http://arxiv.org/abs/2306.02760v2)|null|
-|**2023-05-27**|**Pentagon-Match (PMatch): Identification of View-Invariant Planar Feature for Local Feature Matching-Based Homography Estimation**|Yueh-Cheng Huang et.al.|[2305.17463v1](http://arxiv.org/abs/2305.17463v1)|null|
-|**2023-05-19**|**SIDAR: Synthetic Image Dataset for Alignment & Restoration**|Monika Kwiatkowski et.al.|[2305.12036v1](http://arxiv.org/abs/2305.12036v1)|**[link](https://github.com/niika/SIDAR)**|
 |**2022-12-31**|**Translating Text Synopses to Video Storyboards**|Xu Gu et.al.|[2301.00135v1](http://arxiv.org/abs/2301.00135v1)|null|
 |**2022-12-23**|**SuperGF: Unifying Local and Global Features for Visual Localization**|Wenzheng Song et.al.|[2212.13105v1](http://arxiv.org/abs/2212.13105v1)|null|
 |**2022-12-26**|**Transformer and GAN Based Super-Resolution Reconstruction Network for Medical Images**|Weizhi Du et.al.|[2212.13068v1](http://arxiv.org/abs/2212.13068v1)|null|
@@ -1006,16 +956,6 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-07-11**|**SAR-NeRF: Neural Radiance Fields for Synthetic Aperture Radar Multi-View Representation**|Zhengxin Lei et.al.|[2307.05087v1](http://arxiv.org/abs/2307.05087v1)|null|
-|**2023-07-07**|**NOFA: NeRF-based One-shot Facial Avatar Reconstruction**|Wangbo Yu et.al.|[2307.03441v1](http://arxiv.org/abs/2307.03441v1)|null|
-|**2023-07-07**|**RGB-D Mapping and Tracking in a Plenoxel Radiance Field**|Andreas L. Teigen et.al.|[2307.03404v1](http://arxiv.org/abs/2307.03404v1)|null|
-|**2023-06-30**|**FlipNeRF: Flipped Reflection Rays for Few-shot Novel View Synthesis**|Seunghyeon Seo et.al.|[2306.17723v1](http://arxiv.org/abs/2306.17723v1)|null|
-|**2023-07-03**|**Sphere2Vec: A General-Purpose Location Representation Learning over a Spherical Surface for Large-Scale Geospatial Predictions**|Gengchen Mai et.al.|[2306.17624v2](http://arxiv.org/abs/2306.17624v2)|null|
-|**2023-06-28**|**Envisioning a Next Generation Extended Reality Conferencing System with Efficient Photorealistic Human Rendering**|Chuanyue Shen et.al.|[2306.16541v1](http://arxiv.org/abs/2306.16541v1)|null|
-|**2023-06-27**|**Unsupervised Polychromatic Neural Representation for CT Metal Artifact Reduction**|Qing Wu et.al.|[2306.15203v1](http://arxiv.org/abs/2306.15203v1)|null|
-|**2023-06-22**|**Blended-NeRF: Zero-Shot Object Generation and Blending in Existing Neural Radiance Fields**|Ori Gordon et.al.|[2306.12760v1](http://arxiv.org/abs/2306.12760v1)|null|
-|**2023-06-21**|**Local 3D Editing via 3D Distillation of CLIP Knowledge**|Junha Hyung et.al.|[2306.12570v1](http://arxiv.org/abs/2306.12570v1)|null|
-|**2023-06-21**|**Benchmarking and Analyzing 3D-aware Image Synthesis with a Modularized Codebase**|Qiuyu Wang et.al.|[2306.12423v1](http://arxiv.org/abs/2306.12423v1)|**[link](https://github.com/qiuyu96/carver)**|
 |**2023-01-03**|**Class-Continuous Conditional Generative Neural Radiance Field**|Jiwook Kim et.al.|[2301.00950v1](http://arxiv.org/abs/2301.00950v1)|**[link](https://github.com/tom919654/C3G-NeRF)**|
 |**2023-01-01**|**Detachable Novel Views Synthesis of Dynamic Scenes Using Distribution-Driven Neural Radiance Fields**|Boyu Zhang et.al.|[2301.00411v1](http://arxiv.org/abs/2301.00411v1)|**[link](https://github.com/luciferbobo/d4nerf)**|
 |**2022-12-26**|**MonoNeRF: Learning a Generalizable Dynamic Radiance Field from Monocular Videos**|Fengrui Tian et.al.|[2212.13056v1](http://arxiv.org/abs/2212.13056v1)|null|
