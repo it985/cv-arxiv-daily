@@ -390,6 +390,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-02**|**Tirtha -- An Automated Platform to Crowdsource Images and Create 3D Models of Heritage Sites**|Jyotirmaya Shivottam et.al.|[2308.01246v1](http://arxiv.org/abs/2308.01246v1)|null|
+|**2023-08-02**|**Stereo Visual Odometry with Deep Learning-Based Point and Line Feature Matching using an Attention Graph Neural Network**|Shenbagaraj Kannapiran et.al.|[2308.01125v1](http://arxiv.org/abs/2308.01125v1)|null|
 |**2023-07-27**|**PointOdyssey: A Large-Scale Synthetic Dataset for Long-Term Point Tracking**|Yang Zheng et.al.|[2307.15055v1](http://arxiv.org/abs/2307.15055v1)|null|
 |**2023-07-28**|**SACReg: Scene-Agnostic Coordinate Regression for Visual Localization**|Jerome Revaud et.al.|[2307.11702v2](http://arxiv.org/abs/2307.11702v2)|null|
 |**2023-07-19**|**Lazy Visual Localization via Motion Averaging**|Siyan Dong et.al.|[2307.09981v1](http://arxiv.org/abs/2307.09981v1)|null|
@@ -398,8 +400,6 @@
 |**2023-06-29**|**The Drunkard's Odometry: Estimating Camera Motion in Deforming Scenes**|David Recasens et.al.|[2306.16917v1](http://arxiv.org/abs/2306.16917v1)|**[link](https://github.com/UZ-SLAMLab/DrunkardsOdometry)**|
 |**2023-06-27**|**Detector-Free Structure from Motion**|Xingyi He et.al.|[2306.15669v1](http://arxiv.org/abs/2306.15669v1)|**[link](https://github.com/zju3dv/DetectorFreeSfM)**|
 |**2023-06-28**|**PoseDiffusion: Solving Pose Estimation via Diffusion-aided Bundle Adjustment**|Jianyuan Wang et.al.|[2306.15667v2](http://arxiv.org/abs/2306.15667v2)|null|
-|**2023-06-24**|**3D Reconstruction of Spherical Images based on Incremental Structure from Motion**|San Jiang et.al.|[2306.12770v2](http://arxiv.org/abs/2306.12770v2)|null|
-|**2023-06-15**|**NAVI: Category-Agnostic Image Collections with High-Quality 3D Shape and Pose Annotations**|Varun Jampani et.al.|[2306.09109v1](http://arxiv.org/abs/2306.09109v1)|null|
 |**2023-01-05**|**Robust Dynamic Radiance Fields**|Yu-Lun Liu et.al.|[2301.02239v1](http://arxiv.org/abs/2301.02239v1)|null|
 |**2022-12-24**|**Polarimetric Multi-View Inverse Rendering**|Jinyu Zhao et.al.|[2212.12721v1](http://arxiv.org/abs/2212.12721v1)|null|
 |**2022-12-13**|**Accidental Turntables: Learning 3D Pose by Watching Objects Turn**|Zezhou Cheng et.al.|[2212.06300v1](http://arxiv.org/abs/2212.06300v1)|null|
@@ -1006,6 +1006,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-02**|**Incorporating Season and Solar Specificity into Renderings made by a NeRF Architecture using Satellite Images**|Michael Gableman et.al.|[2308.01262v1](http://arxiv.org/abs/2308.01262v1)|**[link](https://github.com/enterprisecv-6/season-nerf)**|
+|**2023-08-01**|**High-Fidelity Eye Animatable Neural Radiance Fields for Human Face**|Hengfei Wang et.al.|[2308.00773v1](http://arxiv.org/abs/2308.00773v1)|null|
 |**2023-08-01**|**Context-Aware Talking-Head Video Editing**|Songlin Yang et.al.|[2308.00462v1](http://arxiv.org/abs/2308.00462v1)|null|
 |**2023-07-28**|**Dynamic PlenOctree for Adaptive Sampling Refinement in Explicit NeRF**|Haotian Bai et.al.|[2307.15333v1](http://arxiv.org/abs/2307.15333v1)|null|
 |**2023-07-27**|**Seal-3D: Interactive Pixel-Level Editing for Neural Radiance Fields**|Xiangyu Wang et.al.|[2307.15131v1](http://arxiv.org/abs/2307.15131v1)|**[link](https://github.com/windingwind/seal-3d)**|
@@ -1014,8 +1016,6 @@
 |**2023-07-26**|**Points-to-3D: Bridging the Gap between Sparse Points and Shape-Controllable Text-to-3D Generation**|Chaohui Yu et.al.|[2307.13908v1](http://arxiv.org/abs/2307.13908v1)|null|
 |**2023-07-24**|**Dyn-E: Local Appearance Editing of Dynamic Neural Radiance Fields**|Shangzhan Zhang et.al.|[2307.12909v1](http://arxiv.org/abs/2307.12909v1)|null|
 |**2023-07-24**|**CarPatch: A Synthetic Benchmark for Radiance Field Evaluation on Vehicle Components**|Davide Di Nucci et.al.|[2307.12718v1](http://arxiv.org/abs/2307.12718v1)|null|
-|**2023-07-23**|**TransHuman: A Transformer-based Human Representation for Generalizable Neural Human Rendering**|Xiao Pan et.al.|[2307.12291v1](http://arxiv.org/abs/2307.12291v1)|null|
-|**2023-07-29**|**CopyRNeRF: Protecting the CopyRight of Neural Radiance Fields**|Ziyuan Luo et.al.|[2307.11526v2](http://arxiv.org/abs/2307.11526v2)|null|
 |**2023-01-03**|**Class-Continuous Conditional Generative Neural Radiance Field**|Jiwook Kim et.al.|[2301.00950v1](http://arxiv.org/abs/2301.00950v1)|**[link](https://github.com/tom919654/C3G-NeRF)**|
 |**2023-01-01**|**Detachable Novel Views Synthesis of Dynamic Scenes Using Distribution-Driven Neural Radiance Fields**|Boyu Zhang et.al.|[2301.00411v1](http://arxiv.org/abs/2301.00411v1)|**[link](https://github.com/luciferbobo/d4nerf)**|
 |**2022-12-26**|**MonoNeRF: Learning a Generalizable Dynamic Radiance Field from Monocular Videos**|Fengrui Tian et.al.|[2212.13056v1](http://arxiv.org/abs/2212.13056v1)|null|
