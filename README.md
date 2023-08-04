@@ -21,6 +21,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-03**|**Uncertainty analysis for accurate ground truth trajectories with robotic total stations**|Maxime Vaidis et.al.|[2308.01553v1](http://arxiv.org/abs/2308.01553v1)|null|
 |**2023-08-01**|**Demonstrating Autonomous 3D Path Planning on a Novel Scalable UGV-UAV Morphing Robot**|Eric Sihite et.al.|[2308.00235v1](http://arxiv.org/abs/2308.00235v1)|null|
 |**2023-07-31**|**Convex relaxations for large-scale graphically structured nonconvex problems with spherical constraints: An optimal transport approach**|Robin Kenis et.al.|[2308.00079v1](http://arxiv.org/abs/2308.00079v1)|null|
 |**2023-07-31**|**Learning whom to trust in navigation: dynamically switching between classical and neural planning**|Sombit Dey et.al.|[2307.16710v1](http://arxiv.org/abs/2307.16710v1)|null|
@@ -30,7 +31,6 @@
 |**2023-07-23**|**Scale jump-aware pose graph relaxation for monocular SLAM with re-initializations**|Runze Yuan et.al.|[2307.12326v1](http://arxiv.org/abs/2307.12326v1)|null|
 |**2023-07-20**|**Metric3D: Towards Zero-shot Metric 3D Prediction from A Single Image**|Wei Yin et.al.|[2307.10984v1](http://arxiv.org/abs/2307.10984v1)|**[link](https://github.com/yvanyin/metric3d)**|
 |**2023-07-19**|**Optimizing the extended Fourier Mellin Transformation Algorithm**|Wenqing Jiang et.al.|[2307.10015v1](http://arxiv.org/abs/2307.10015v1)|**[link](https://github.com/star-center/o-efmt)**|
-|**2023-07-18**|**LOG-LIO: A LiDAR-Inertial Odometry with Efficient Local Geometric Information Estimation**|Kai Huang et.al.|[2307.09531v1](http://arxiv.org/abs/2307.09531v1)|null|
 |**2022-12-31**|**4Seasons: Benchmarking Visual SLAM and Long-Term Localization for Autonomous Driving in Challenging Conditions**|Patrick Wenzel et.al.|[2301.01147v1](http://arxiv.org/abs/2301.01147v1)|null|
 |**2023-01-03**|**BS3D: Building-scale 3D Reconstruction from RGB-D Images**|Janne Mustaniemi et.al.|[2301.01057v1](http://arxiv.org/abs/2301.01057v1)|null|
 |**2023-01-02**|**An Event-based Algorithm for Simultaneous 6-DOF Camera Pose Tracking and Mapping**|Masoud Dayani Najafabadi et.al.|[2301.00618v1](http://arxiv.org/abs/2301.00618v1)|null|
@@ -481,6 +481,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-03**|**Similar image retrieval using Autoencoder. I. Automatic morphology classification of galaxies**|Eunsuk Seo et.al.|[2308.01871v1](http://arxiv.org/abs/2308.01871v1)|null|
 |**2023-08-01**|**AnyLoc: Towards Universal Visual Place Recognition**|Nikhil Keetha et.al.|[2308.00688v1](http://arxiv.org/abs/2308.00688v1)|**[link](https://github.com/AnyLoc/AnyLoc)**|
 |**2023-07-31**|**Guiding Image Captioning Models Toward More Specific Captions**|Simon Kornblith et.al.|[2307.16686v1](http://arxiv.org/abs/2307.16686v1)|null|
 |**2023-07-31**|**Bridging the Gap: Exploring the Capabilities of Bridge-Architectures for Complex Visual Reasoning Tasks**|Kousik Rajesh et.al.|[2307.16395v1](http://arxiv.org/abs/2307.16395v1)|null|
@@ -490,7 +491,6 @@
 |**2023-07-25**|**Conditional Cross Attention Network for Multi-Space Embedding without Entanglement in Only a SINGLE Network**|Chull Hwan Song et.al.|[2307.13254v1](http://arxiv.org/abs/2307.13254v1)|null|
 |**2023-07-28**|**SACReg: Scene-Agnostic Coordinate Regression for Visual Localization**|Jerome Revaud et.al.|[2307.11702v2](http://arxiv.org/abs/2307.11702v2)|null|
 |**2023-07-19**|**Lazy Visual Localization via Motion Averaging**|Siyan Dong et.al.|[2307.09981v1](http://arxiv.org/abs/2307.09981v1)|null|
-|**2023-07-19**|**Quantum Optics based Algorithm for Measuring the Similarity between Images**|Vivek Mehta et.al.|[2307.09789v1](http://arxiv.org/abs/2307.09789v1)|null|
 |**2023-01-05**|**A Probabilistic Framework for Visual Localization in Ambiguous Scenes**|Fereidoon Zangeneh et.al.|[2301.02086v1](http://arxiv.org/abs/2301.02086v1)|**[link](https://github.com/efreidun/vapor)**|
 |**2022-12-31**|**4Seasons: Benchmarking Visual SLAM and Long-Term Localization for Autonomous Driving in Challenging Conditions**|Patrick Wenzel et.al.|[2301.01147v1](http://arxiv.org/abs/2301.01147v1)|null|
 |**2022-12-30**|**HPointLoc: Point-based Indoor Place Recognition using Synthetic RGB-D Images**|Dmitry Yudin et.al.|[2212.14649v1](http://arxiv.org/abs/2212.14649v1)|**[link](https://github.com/metra4ok/hpointloc)**|
