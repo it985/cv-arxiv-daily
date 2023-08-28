@@ -87,7 +87,7 @@ layout: default
 |**2023-06-06**|**Rao-Blackwellized Particle Smoothing for Simultaneous Localization and Mapping**|Manon Kok et.al.|[2306.03953v1](http://arxiv.org/abs/2306.03953v1)|null|
 |**2023-06-06**|**PQM: A Point Quality Evaluation Metric for Dense Maps**|Yash Turkar et.al.|[2306.03660v1](http://arxiv.org/abs/2306.03660v1)|null|
 |**2023-06-10**|**NICE-SLAM with Adaptive Feature Grids**|Ganlin Zhang et.al.|[2306.02395v2](http://arxiv.org/abs/2306.02395v2)|**[link](https://github.com/zhangganlin/nice-slam-with-adaptive-feature-grids)**|
-|**2023-06-02**|**DH-PTAM: A Deep Hybrid Stereo Events-Frames Parallel Tracking And Mapping System**|Abanob Soliman et.al.|[2306.01891v1](http://arxiv.org/abs/2306.01891v1)|null|
+|**2023-06-02**|**DH-PTAM: A Deep Hybrid Stereo Events-Frames Parallel Tracking And Mapping System**|Abanob Soliman et.al.|[2306.01891v1](http://arxiv.org/abs/2306.01891v1)|**[link](https://github.com/abanobsoliman/dh-ptam)**|
 |**2023-06-14**|**BAMF-SLAM: Bundle Adjusted Multi-Fisheye Visual-Inertial SLAM Using Recurrent Field Transforms**|Wei Zhang et.al.|[2306.01173v2](http://arxiv.org/abs/2306.01173v2)|null|
 |**2023-06-01**|**FMapping: Factorized Efficient Neural Field Mapping for Real-Time Dense RGB SLAM**|Tongyan Hua et.al.|[2306.00579v1](http://arxiv.org/abs/2306.00579v1)|null|
 |**2023-05-31**|**On the relevance of fatigue in the risk of failure of marine structures exposed to bottom wave slamming**|Romain Hascoët et.al.|[2305.19899v1](http://arxiv.org/abs/2305.19899v1)|null|
@@ -142,7 +142,7 @@ layout: default
 |**2023-04-04**|**A Fully-automatic Side-scan Sonar SLAM Framework**|Jun Zhang et.al.|[2304.01854v1](http://arxiv.org/abs/2304.01854v1)|null|
 |**2023-04-04**|**Distributed Block Coordinate Moving Horizon Estimation for 2D Visual-Inertial-Odometry SLAM**|Emilien Flayac et.al.|[2304.01613v1](http://arxiv.org/abs/2304.01613v1)|null|
 |**2023-04-03**|**Eigen-Factors an Alternating Optimization for Back-end Plane SLAM of 3D Point Clouds**|Gonzalo Ferrer et.al.|[2304.01055v1](http://arxiv.org/abs/2304.01055v1)|**[link](https://github.com/prime-slam/ef-plane-slam)**|
-|**2023-03-31**|**LivePose: Online 3D Reconstruction from Monocular Video with Dynamic Camera Poses**|Noah Stier et.al.|[2304.00054v1](http://arxiv.org/abs/2304.00054v1)|null|
+|**2023-03-31**|**LivePose: Online 3D Reconstruction from Monocular Video with Dynamic Camera Poses**|Noah Stier et.al.|[2304.00054v1](http://arxiv.org/abs/2304.00054v1)|**[link](https://github.com/apple/ml-live-pose)**|
 |**2023-03-31**|**Knowledge Distillation for Feature Extraction in Underwater VSLAM**|Jinghe Yang et.al.|[2303.17981v1](http://arxiv.org/abs/2303.17981v1)|**[link](https://github.com/jinghe-mel/ufen-slam)**|
 |**2023-03-29**|**Photometric LiDAR and RGB-D Bundle Adjustment**|Luca Di Giammarino et.al.|[2303.16878v1](http://arxiv.org/abs/2303.16878v1)|**[link](https://github.com/digiamm/ba_md_slam)**|
 |**2023-03-30**|**Toroidal cavitation by a snapping popper**|Akihito Kiyama et.al.|[2303.16702v2](http://arxiv.org/abs/2303.16702v2)|null|
@@ -1511,7 +1511,7 @@ layout: default
 |**2023-08-21**|**Ref-DVGO: Reflection-Aware Direct Voxel Grid Optimization for an Improved Quality-Efficiency Trade-Off in Reflective Scene Reconstruction**|Georgios Kouros et.al.|[2308.08530v3](http://arxiv.org/abs/2308.08530v3)|**[link](https://github.com/gkouros/ref-dvgo)**|
 |**2023-08-16**|**SceNeRFlow: Time-Consistent Reconstruction of General Dynamic Scenes**|Edith Tretschk et.al.|[2308.08258v1](http://arxiv.org/abs/2308.08258v1)|null|
 |**2023-08-16**|**Neural radiance fields in the industrial and robotics domain: applications, research opportunities and use cases**|Eugen Šlapak et.al.|[2308.07118v2](http://arxiv.org/abs/2308.07118v2)|**[link](https://github.com/maftej/iisnerf)**|
-|**2023-08-14**|**S3IM: Stochastic Structural SIMilarity and Its Unreasonable Effectiveness for Neural Fields**|Zeke Xie et.al.|[2308.07032v1](http://arxiv.org/abs/2308.07032v1)|null|
+|**2023-08-14**|**S3IM: Stochastic Structural SIMilarity and Its Unreasonable Effectiveness for Neural Fields**|Zeke Xie et.al.|[2308.07032v1](http://arxiv.org/abs/2308.07032v1)|**[link](https://github.com/madaoer/s3im_nerf)**|
 |**2023-08-11**|**Focused Specific Objects NeRF**|Yuesong Li et.al.|[2308.05970v1](http://arxiv.org/abs/2308.05970v1)|null|
 |**2023-08-11**|**VERF: Runtime Monitoring of Pose Estimation with Neural Radiance Fields**|Dominic Maggio et.al.|[2308.05939v1](http://arxiv.org/abs/2308.05939v1)|null|
 |**2023-08-09**|**WaveNeRF: Wavelet-based Generalizable Neural Radiance Fields**|Muyu Xu et.al.|[2308.04826v1](http://arxiv.org/abs/2308.04826v1)|null|
@@ -1640,7 +1640,7 @@ layout: default
 |**2023-04-20**|**Learning Neural Duplex Radiance Fields for Real-Time View Synthesis**|Ziyu Wan et.al.|[2304.10537v1](http://arxiv.org/abs/2304.10537v1)|null|
 |**2023-04-21**|**Nerfbusters: Removing Ghostly Artifacts from Casually Captured NeRFs**|Frederik Warburg et.al.|[2304.10532v2](http://arxiv.org/abs/2304.10532v2)|**[link](https://github.com/ethanweber/nerfbusters)**|
 |**2023-04-20**|**ReLight My NeRF: A Dataset for Novel View Synthesis and Relighting of Real World Objects**|Marco Toschi et.al.|[2304.10448v1](http://arxiv.org/abs/2304.10448v1)|null|
-|**2023-04-20**|**LiDAR-NeRF: Novel LiDAR View Synthesis via Neural Radiance Fields**|Tang Tao et.al.|[2304.10406v1](http://arxiv.org/abs/2304.10406v1)|null|
+|**2023-04-20**|**LiDAR-NeRF: Novel LiDAR View Synthesis via Neural Radiance Fields**|Tang Tao et.al.|[2304.10406v1](http://arxiv.org/abs/2304.10406v1)|**[link](https://github.com/tangtaogo/lidar-nerf)**|
 |**2023-04-20**|**Revisiting Implicit Neural Representations in Low-Level Vision**|Wentian Xu et.al.|[2304.10250v1](http://arxiv.org/abs/2304.10250v1)|**[link](https://github.com/wentxul/linr)**|
 |**2023-04-20**|**Multiscale Representation for Real-Time Anti-Aliasing Neural Rendering**|Dongting Hu et.al.|[2304.10075v1](http://arxiv.org/abs/2304.10075v1)|null|
 |**2023-04-20**|**Neural Radiance Fields: Past, Present, and Future**|Ansh Mittal et.al.|[2304.10050v1](http://arxiv.org/abs/2304.10050v1)|null|
