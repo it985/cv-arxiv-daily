@@ -1762,7 +1762,7 @@ layout: default
 |**2023-03-15**|**Harnessing Low-Frequency Neural Fields for Few-Shot View Synthesis**|Liangchen Song et.al.|[2303.08370v1](http://arxiv.org/abs/2303.08370v1)|**[link](https://github.com/lsongx/halo)**|
 |**2023-03-14**|**MELON: NeRF with Unposed Images Using Equivalence Class Estimation**|Axel Levy et.al.|[2303.08096v1](http://arxiv.org/abs/2303.08096v1)|null|
 |**2023-03-16**|**Let 2D Diffusion Model Know 3D-Consistency for Robust Text-to-3D Generation**|Junyoung Seo et.al.|[2303.07937v3](http://arxiv.org/abs/2303.07937v3)|**[link](https://github.com/KU-CVLAB/3DFuse)**|
-|**2023-03-16**|**NEF: Neural Edge Fields for 3D Parametric Curve Reconstruction from Multi-view Images**|Yunfan Ye et.al.|[2303.07653v2](http://arxiv.org/abs/2303.07653v2)|null|
+|**2023-03-16**|**NEF: Neural Edge Fields for 3D Parametric Curve Reconstruction from Multi-view Images**|Yunfan Ye et.al.|[2303.07653v2](http://arxiv.org/abs/2303.07653v2)|**[link](https://github.com/yunfan1202/NEF_code)**|
 |**2023-03-14**|**Frequency-Modulated Point Cloud Rendering with Easy Editing**|Yi Zhang et.al.|[2303.07596v1](http://arxiv.org/abs/2303.07596v1)|**[link](https://github.com/yizhangphd/freqpcr)**|
 |**2023-03-13**|**FreeNeRF: Improving Few-shot Neural Rendering with Free Frequency Regularization**|Jiawei Yang et.al.|[2303.07418v1](http://arxiv.org/abs/2303.07418v1)|**[link](https://github.com/jiawei-yang/freenerf)**|
 |**2023-03-13**|**NeRFLiX: High-Quality Neural View Synthesis by Learning a Degradation-Driven Inter-viewpoint MiXer**|Kun Zhou et.al.|[2303.06919v1](http://arxiv.org/abs/2303.06919v1)|**[link](https://github.com/redrock303/NeRFLiX_CPVR2023)**|
@@ -1794,7 +1794,7 @@ layout: default
 |**2023-02-19**|**LC-NeRF: Local Controllable Face Generation in Neural Randiance Field**|Wenyang Zhou et.al.|[2302.09486v1](http://arxiv.org/abs/2302.09486v1)|null|
 |**2023-02-17**|**MixNeRF: Modeling a Ray with Mixture Density for Novel View Synthesis from Sparse Inputs**|Seunghyeon Seo et.al.|[2302.08788v1](http://arxiv.org/abs/2302.08788v1)|**[link](https://github.com/shawn615/MixNeRF)**|
 |**2023-02-14**|**VQ3D: Learning a 3D-Aware Generative Model on ImageNet**|Kyle Sargent et.al.|[2302.06833v1](http://arxiv.org/abs/2302.06833v1)|null|
-|**2023-02-13**|**3D-aware Blending with Generative NeRFs**|Hyunsu Kim et.al.|[2302.06608v1](http://arxiv.org/abs/2302.06608v1)|null|
+|**2023-02-13**|**3D-aware Blending with Generative NeRFs**|Hyunsu Kim et.al.|[2302.06608v1](http://arxiv.org/abs/2302.06608v1)|**[link](https://github.com/naver-ai/BlendNeRF)**|
 |**2023-02-11**|**3D Colored Shape Reconstruction from a Single RGB Image through Diffusion**|Bo Li et.al.|[2302.05573v1](http://arxiv.org/abs/2302.05573v1)|null|
 |**2023-02-08**|**Nerfstudio: A Modular Framework for Neural Radiance Field Development**|Matthew Tancik et.al.|[2302.04264v1](http://arxiv.org/abs/2302.04264v1)|null|
 |**2023-02-07**|**AV-NeRF: Learning Neural Fields for Real-World Audio-Visual Scene Synthesis**|Susan Liang et.al.|[2302.02088v2](http://arxiv.org/abs/2302.02088v2)|null|
