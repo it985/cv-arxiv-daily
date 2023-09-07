@@ -21,6 +21,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-06**|**Feasibility of Local Trajectory Planning for Level-2+ Semi-autonomous Driving without Absolute Localization**|Sheng Zhu et.al.|[2309.03051v1](http://arxiv.org/abs/2309.03051v1)|null|
+|**2023-09-06**|**tinySLAM-based exploration with a swarm of nano-UAVs**|Johan Markdahl et.al.|[2309.02834v1](http://arxiv.org/abs/2309.02834v1)|null|
+|**2023-09-05**|**A Robust Localization Solution for an Uncrewed Ground Vehicle in Unstructured Outdoor GNSS-Denied Environments**|W. Jacob Wagner et.al.|[2309.02569v1](http://arxiv.org/abs/2309.02569v1)|null|
 |**2023-09-05**|**GO-SLAM: Global Optimization for Consistent 3D Instant Reconstruction**|Youmin Zhang et.al.|[2309.02436v1](http://arxiv.org/abs/2309.02436v1)|null|
 |**2023-09-02**|**NTU4DRadLM: 4D Radar-centric Multi-Modal Dataset for Localization and Mapping**|Jun Zhang et.al.|[2309.00962v1](http://arxiv.org/abs/2309.00962v1)|null|
 |**2023-09-01**|**Dense Voxel 3D Reconstruction Using a Monocular Event Camera**|Haodong Chen et.al.|[2309.00385v1](http://arxiv.org/abs/2309.00385v1)|null|
@@ -28,9 +31,6 @@
 |**2023-08-31**|**SiTAR: Situated Trajectory Analysis for In-the-Wild Pose Error Estimation**|Tim Scargill et.al.|[2308.16813v1](http://arxiv.org/abs/2308.16813v1)|**[link](https://github.com/timscargill/sitar)**|
 |**2023-08-31**|**Graph-based SLAM-Aware Exploration with Prior Topo-Metric Information**|Ruofei Bai et.al.|[2308.16522v1](http://arxiv.org/abs/2308.16522v1)|**[link](https://github.com/bairuofei/graph-based_slam-aware_exploration)**|
 |**2023-08-28**|**Multi-Modal Neural Radiance Field for Monocular Dense SLAM with a Light-Weight ToF Sensor**|Xinyang Liu et.al.|[2308.14383v1](http://arxiv.org/abs/2308.14383v1)|null|
-|**2023-08-27**|**Deep Learning for Visual Localization and Mapping: A Survey**|Changhao Chen et.al.|[2308.14039v1](http://arxiv.org/abs/2308.14039v1)|null|
-|**2023-08-24**|**VNI-Net: Vector Neurons-based Rotation-Invariant Descriptor for LiDAR Place Recognition**|Gengxuan Tian et.al.|[2308.12870v1](http://arxiv.org/abs/2308.12870v1)|null|
-|**2023-08-23**|**Multi-object Detection, Tracking and Prediction in Rugged Dynamic Environments**|Shixing Huang et.al.|[2308.11870v1](http://arxiv.org/abs/2308.11870v1)|null|
 |**2022-12-31**|**4Seasons: Benchmarking Visual SLAM and Long-Term Localization for Autonomous Driving in Challenging Conditions**|Patrick Wenzel et.al.|[2301.01147v1](http://arxiv.org/abs/2301.01147v1)|null|
 |**2023-01-03**|**BS3D: Building-scale 3D Reconstruction from RGB-D Images**|Janne Mustaniemi et.al.|[2301.01057v1](http://arxiv.org/abs/2301.01057v1)|null|
 |**2023-01-02**|**An Event-based Algorithm for Simultaneous 6-DOF Camera Pose Tracking and Mapping**|Masoud Dayani Najafabadi et.al.|[2301.00618v1](http://arxiv.org/abs/2301.00618v1)|null|
@@ -1006,6 +1006,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-06**|**Bayes' Rays: Uncertainty Quantification for Neural Radiance Fields**|Lily Goli et.al.|[2309.03185v1](http://arxiv.org/abs/2309.03185v1)|null|
+|**2023-09-06**|**ResFields: Residual Neural Fields for Spatiotemporal Signals**|Marko Mihajlovic et.al.|[2309.03160v1](http://arxiv.org/abs/2309.03160v1)|null|
 |**2023-09-06**|**Instant Continual Learning of Neural Radiance Fields**|Ryan Po et.al.|[2309.01811v2](http://arxiv.org/abs/2309.01811v2)|null|
 |**2023-09-04**|**Adv3D: Generating 3D Adversarial Examples in Driving Scenarios with NeRF**|Leheng Li et.al.|[2309.01351v1](http://arxiv.org/abs/2309.01351v1)|null|
 |**2023-09-01**|**SparseSat-NeRF: Dense Depth Supervised Neural Radiance Fields for Sparse Satellite Images**|Lulin Zhang et.al.|[2309.00277v1](http://arxiv.org/abs/2309.00277v1)|**[link](https://github.com/lulinzhang/sps-nerf)**|
@@ -1014,8 +1016,6 @@
 |**2023-08-30**|**Drone-NeRF: Efficient NeRF Based 3D Scene Reconstruction for Large-Scale Drone Survey**|Zhihao Jia et.al.|[2308.15733v1](http://arxiv.org/abs/2308.15733v1)|null|
 |**2023-08-29**|**Efficient Ray Sampling for Radiance Fields Reconstruction**|Shilei Sun et.al.|[2308.15547v1](http://arxiv.org/abs/2308.15547v1)|null|
 |**2023-08-29**|**Pose-Free Neural Radiance Fields via Implicit Pose Regularization**|Jiahui Zhang et.al.|[2308.15049v1](http://arxiv.org/abs/2308.15049v1)|null|
-|**2023-08-28**|**CLNeRF: Continual Learning Meets NeRF**|Zhipeng Cai et.al.|[2308.14816v1](http://arxiv.org/abs/2308.14816v1)|**[link](https://github.com/intellabs/clnerf)**|
-|**2023-08-26**|**InsertNeRF: Instilling Generalizability into NeRF with HyperNet Modules**|Yanqi Bao et.al.|[2308.13897v1](http://arxiv.org/abs/2308.13897v1)|**[link](https://github.com/bbbbby-99/insertnerf)**|
 |**2023-01-03**|**Class-Continuous Conditional Generative Neural Radiance Field**|Jiwook Kim et.al.|[2301.00950v1](http://arxiv.org/abs/2301.00950v1)|**[link](https://github.com/tom919654/C3G-NeRF)**|
 |**2023-01-01**|**Detachable Novel Views Synthesis of Dynamic Scenes Using Distribution-Driven Neural Radiance Fields**|Boyu Zhang et.al.|[2301.00411v1](http://arxiv.org/abs/2301.00411v1)|**[link](https://github.com/luciferbobo/d4nerf)**|
 |**2022-12-26**|**MonoNeRF: Learning a Generalizable Dynamic Radiance Field from Monocular Videos**|Fengrui Tian et.al.|[2212.13056v1](http://arxiv.org/abs/2212.13056v1)|**[link](https://github.com/tianfr/mononerf)**|
