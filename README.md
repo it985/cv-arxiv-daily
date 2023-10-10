@@ -21,16 +21,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-09**|**FeatSense -- A Feature-based Registration Algorithm with GPU-accelerated TSDF-Mapping Backend for NVIDIA Jetson Boards**|Julian Gaal et.al.|[2310.05766v1](http://arxiv.org/abs/2310.05766v1)|null|
+|**2023-10-09**|**Care3D: An Active 3D Object Detection Dataset of Real Robotic-Care Environments**|Michael G. Adam et.al.|[2310.05600v1](http://arxiv.org/abs/2310.05600v1)|**[link](https://github.com/m-g-a/care3d)**|
+|**2023-10-07**|**Hierarchical Unsupervised Topological SLAM**|Ayush Sharma et.al.|[2310.04802v1](http://arxiv.org/abs/2310.04802v1)|null|
+|**2023-10-07**|**HI-SLAM: Monocular Real-time Dense Mapping with Hybrid Implicit Fields**|Wei Zhang et.al.|[2310.04787v1](http://arxiv.org/abs/2310.04787v1)|null|
 |**2023-10-06**|**Light-LOAM: A Lightweight LiDAR Odometry and Mapping based on Graph-Matching**|Shiquan Yi et.al.|[2310.04162v1](http://arxiv.org/abs/2310.04162v1)|null|
 |**2023-10-06**|**Dense Random Texture Detection using Beta Distribution Statistics**|Soeren Molander et.al.|[2310.04111v1](http://arxiv.org/abs/2310.04111v1)|null|
 |**2023-10-04**|**Active Visual Localization for Multi-Agent Collaboration: A Data-Driven Approach**|Matthew Hanlon et.al.|[2310.02650v1](http://arxiv.org/abs/2310.02650v1)|null|
 |**2023-10-03**|**A 3D Mixed Reality Interface for Human-Robot Teaming**|Jiaqi Chen et.al.|[2310.02392v1](http://arxiv.org/abs/2310.02392v1)|**[link](https://github.com/cvg/hololens_ros)**|
 |**2023-10-03**|**Collaborative Active SLAM: Synchronous and Asynchronous Coordination Among Agents**|Matteo Maragliano et.al.|[2310.01967v1](http://arxiv.org/abs/2310.01967v1)|null|
 |**2023-10-02**|**Multi-Sensor Terrestrial SLAM for Real-Time, Large-Scale, and GNSS-Interrupted Forest Mapping**|Weria Khaksar et.al.|[2310.01064v1](http://arxiv.org/abs/2310.01064v1)|null|
-|**2023-09-30**|**Better Situational Graphs by Inferring High-level Semantic-Relational Concepts**|Jose Andres Millan-Romera et.al.|[2310.00401v1](http://arxiv.org/abs/2310.00401v1)|null|
-|**2023-09-30**|**Walking = Traversable? : Traversability Prediction via Multiple Human Object Tracking under Occlusion**|Jonathan Tay Yu Liang et.al.|[2310.00242v1](http://arxiv.org/abs/2310.00242v1)|null|
-|**2023-10-02**|**UniQuadric: A SLAM Backend for Unknown Rigid Object 3D Tracking and Light-Weight Modeling**|Linghao Yang et.al.|[2309.17036v2](http://arxiv.org/abs/2309.17036v2)|null|
-|**2023-09-28**|**Active SLAM Utility Function Exploiting Path Entropy**|Muhammad Farhan Ahmed et.al.|[2309.16490v1](http://arxiv.org/abs/2309.16490v1)|null|
 |**2022-12-31**|**4Seasons: Benchmarking Visual SLAM and Long-Term Localization for Autonomous Driving in Challenging Conditions**|Patrick Wenzel et.al.|[2301.01147v1](http://arxiv.org/abs/2301.01147v1)|null|
 |**2023-01-03**|**BS3D: Building-scale 3D Reconstruction from RGB-D Images**|Janne Mustaniemi et.al.|[2301.01057v1](http://arxiv.org/abs/2301.01057v1)|null|
 |**2023-01-02**|**An Event-based Algorithm for Simultaneous 6-DOF Camera Pose Tracking and Mapping**|Masoud Dayani Najafabadi et.al.|[2301.00618v1](http://arxiv.org/abs/2301.00618v1)|null|
@@ -390,6 +390,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-09**|**Colmap-PCD: An Open-source Tool for Fine Image-to-point cloud Registration**|Chunge Bai et.al.|[2310.05504v1](http://arxiv.org/abs/2310.05504v1)|null|
+|**2023-10-08**|**LocoNeRF: A NeRF-based Approach for Local Structure from Motion for Precise Localization**|Artem Nenashev et.al.|[2310.05134v1](http://arxiv.org/abs/2310.05134v1)|null|
 |**2023-10-02**|**Leveraging Cutting Edge Deep Learning Based Image Matching for Reconstructing a Large Scene from Sparse Images**|Georg Bökman et.al.|[2310.01092v1](http://arxiv.org/abs/2310.01092v1)|null|
 |**2023-10-01**|**Propagating Semantic Labels in Video Data**|David Balaban et.al.|[2310.00783v1](http://arxiv.org/abs/2310.00783v1)|null|
 |**2023-09-22**|**Scalable Semantic 3D Mapping of Coral Reefs with Deep Learning**|Jonathan Sauder et.al.|[2309.12804v1](http://arxiv.org/abs/2309.12804v1)|null|
@@ -398,8 +400,6 @@
 |**2023-09-16**|**DynaMoN: Motion-Aware Fast And Robust Camera Localization for Dynamic NeRF**|Mert Asim Karaoglu et.al.|[2309.08927v1](http://arxiv.org/abs/2309.08927v1)|null|
 |**2023-09-08**|**Robot Localization and Mapping Final Report -- Sequential Adversarial Learning for Self-Supervised Deep Visual Odometry**|Akankshya Kar et.al.|[2309.04147v1](http://arxiv.org/abs/2309.04147v1)|null|
 |**2023-09-01**|**SQLdepth: Generalizable Self-Supervised Fine-Structured Monocular Depth Estimation**|Youhong Wang et.al.|[2309.00526v1](http://arxiv.org/abs/2309.00526v1)|null|
-|**2023-09-01**|**Dense Voxel 3D Reconstruction Using a Monocular Event Camera**|Haodong Chen et.al.|[2309.00385v1](http://arxiv.org/abs/2309.00385v1)|null|
-|**2023-08-30**|**Learning Structure-from-Motion with Graph Attention Networks**|Lucas Brynte et.al.|[2308.15984v1](http://arxiv.org/abs/2308.15984v1)|null|
 |**2023-01-05**|**Robust Dynamic Radiance Fields**|Yu-Lun Liu et.al.|[2301.02239v1](http://arxiv.org/abs/2301.02239v1)|**[link](https://github.com/facebookresearch/robust-dynrf)**|
 |**2022-12-24**|**Polarimetric Multi-View Inverse Rendering**|Jinyu Zhao et.al.|[2212.12721v1](http://arxiv.org/abs/2212.12721v1)|null|
 |**2022-12-13**|**Accidental Turntables: Learning 3D Pose by Watching Objects Turn**|Zezhou Cheng et.al.|[2212.06300v1](http://arxiv.org/abs/2212.06300v1)|null|
@@ -481,16 +481,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-09**|**Collaborative Visual Place Recognition**|Yiming Li et.al.|[2310.05541v1](http://arxiv.org/abs/2310.05541v1)|null|
+|**2023-10-09**|**Sentence-level Prompts Benefit Composed Image Retrieval**|Yang Bai et.al.|[2310.05473v1](http://arxiv.org/abs/2310.05473v1)|**[link](https://github.com/chunmeifeng/sprc)**|
+|**2023-10-08**|**AANet: Aggregation and Alignment Network with Semi-hard Positive Sample Mining for Hierarchical Place Recognition**|Feng Lu et.al.|[2310.05184v1](http://arxiv.org/abs/2310.05184v1)|**[link](https://github.com/Lu-Feng/AANet)**|
+|**2023-10-08**|**LocoNeRF: A NeRF-based Approach for Local Structure from Motion for Precise Localization**|Artem Nenashev et.al.|[2310.05134v1](http://arxiv.org/abs/2310.05134v1)|null|
 |**2023-10-06**|**ClusVPR: Efficient Visual Place Recognition with Clustering-based Weighted Transformer**|Yifan Xu et.al.|[2310.04099v1](http://arxiv.org/abs/2310.04099v1)|null|
 |**2023-10-06**|**Sub-token ViT Embedding via Stochastic Resonance Transformers**|Dong Lao et.al.|[2310.03967v1](http://arxiv.org/abs/2310.03967v1)|null|
 |**2023-10-04**|**Active Visual Localization for Multi-Agent Collaboration: A Data-Driven Approach**|Matthew Hanlon et.al.|[2310.02650v1](http://arxiv.org/abs/2310.02650v1)|null|
 |**2023-10-02**|**NEUCORE: Neural Concept Reasoning for Composed Image Retrieval**|Shu Zhao et.al.|[2310.01358v1](http://arxiv.org/abs/2310.01358v1)|null|
 |**2023-10-02**|**Leveraging Cutting Edge Deep Learning Based Image Matching for Reconstructing a Large Scene from Sparse Images**|Georg Bökman et.al.|[2310.01092v1](http://arxiv.org/abs/2310.01092v1)|null|
 |**2023-10-05**|**PlaceNav: Topological Navigation through Place Recognition**|Lauri Suomela et.al.|[2309.17260v3](http://arxiv.org/abs/2309.17260v3)|null|
-|**2023-09-29**|**Segment Anything Model is a Good Teacher for Local Feature Learning**|Jingqian Wu et.al.|[2309.16992v1](http://arxiv.org/abs/2309.16992v1)|**[link](https://github.com/vignywang/samfeat)**|
-|**2023-09-28**|**Dark Side Augmentation: Generating Diverse Night Examples for Metric Learning**|Albert Mohwald et.al.|[2309.16351v1](http://arxiv.org/abs/2309.16351v1)|**[link](https://github.com/mohwald/gandtr)**|
-|**2023-09-28**|**FORB: A Flat Object Retrieval Benchmark for Universal Image Embedding**|Pengxiang Wu et.al.|[2309.16249v1](http://arxiv.org/abs/2309.16249v1)|**[link](https://github.com/pxiangwu/forb)**|
-|**2023-09-28**|**Context-I2W: Mapping Images to Context-dependent Words for Accurate Zero-Shot Composed Image Retrieval**|Yuanmin Tang et.al.|[2309.16137v1](http://arxiv.org/abs/2309.16137v1)|null|
 |**2023-01-05**|**A Probabilistic Framework for Visual Localization in Ambiguous Scenes**|Fereidoon Zangeneh et.al.|[2301.02086v1](http://arxiv.org/abs/2301.02086v1)|**[link](https://github.com/efreidun/vapor)**|
 |**2022-12-31**|**4Seasons: Benchmarking Visual SLAM and Long-Term Localization for Autonomous Driving in Challenging Conditions**|Patrick Wenzel et.al.|[2301.01147v1](http://arxiv.org/abs/2301.01147v1)|null|
 |**2022-12-30**|**HPointLoc: Point-based Indoor Place Recognition using Synthetic RGB-D Images**|Dmitry Yudin et.al.|[2212.14649v1](http://arxiv.org/abs/2212.14649v1)|**[link](https://github.com/metra4ok/hpointloc)**|
@@ -771,6 +771,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-08**|**Language-driven Open-Vocabulary Keypoint Detection for Animal Body and Face**|Hao Zhang et.al.|[2310.05056v1](http://arxiv.org/abs/2310.05056v1)|null|
 |**2023-10-02**|**H-InDex: Visual Reinforcement Learning with Hand-Informed Representations for Dexterous Manipulation**|Yanjie Ze et.al.|[2310.01404v1](http://arxiv.org/abs/2310.01404v1)|**[link](https://github.com/YanjieZe/H-InDex)**|
 |**2023-10-04**|**Self-supervised Learning of Contextualized Local Visual Embeddings**|Thalles Santos Silva et.al.|[2310.00527v3](http://arxiv.org/abs/2310.00527v3)|**[link](https://github.com/sthalles/clove)**|
 |**2023-09-26**|**ObVi-SLAM: Long-Term Object-Visual SLAM**|Amanda Adkins et.al.|[2309.15268v1](http://arxiv.org/abs/2309.15268v1)|null|
@@ -780,7 +781,6 @@
 |**2023-09-14**|**EP2P-Loc: End-to-End 3D Point to 2D Pixel Localization for Large-Scale Visual Localization**|Minjung Kim et.al.|[2309.07471v1](http://arxiv.org/abs/2309.07471v1)|**[link](https://github.com/minnjung/ep2p-loc)**|
 |**2023-09-09**|**Mirror-Aware Neural Humans**|Daniel Ajisafe et.al.|[2309.04750v1](http://arxiv.org/abs/2309.04750v1)|null|
 |**2023-09-07**|**InstructDiffusion: A Generalist Modeling Interface for Vision Tasks**|Zigang Geng et.al.|[2309.03895v1](http://arxiv.org/abs/2309.03895v1)|null|
-|**2023-09-04**|**SKoPe3D: A Synthetic Dataset for Vehicle Keypoint Perception in 3D from Traffic Monitoring Cameras**|Himanshu Pahadia et.al.|[2309.01324v1](http://arxiv.org/abs/2309.01324v1)|null|
 |**2022-12-31**|**Rethinking Rotation Invariance with Point Cloud Registration**|Jianhui Yu et.al.|[2301.00149v1](http://arxiv.org/abs/2301.00149v1)|null|
 |**2022-12-29**|**Fruit Ripeness Classification: a Survey**|Matteo Rizzo et.al.|[2212.14441v1](http://arxiv.org/abs/2212.14441v1)|null|
 |**2022-12-28**|**NeMo: 3D Neural Motion Fields from Multiple Video Instances of the Same Action**|Kuan-Chieh Wang et.al.|[2212.13660v1](http://arxiv.org/abs/2212.13660v1)|**[link](https://github.com/wangkua1/nemo-cvpr2023)**|
@@ -895,6 +895,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-07**|**UFD-PRiME: Unsupervised Joint Learning of Optical Flow and Stereo Depth through Pixel-Level Rigid Motion Estimation**|Shuai Yuan et.al.|[2310.04712v1](http://arxiv.org/abs/2310.04712v1)|null|
 |**2023-10-02**|**Leveraging Cutting Edge Deep Learning Based Image Matching for Reconstructing a Large Scene from Sparse Images**|Georg Bökman et.al.|[2310.01092v1](http://arxiv.org/abs/2310.01092v1)|null|
 |**2023-09-29**|**Segment Anything Model is a Good Teacher for Local Feature Learning**|Jingqian Wu et.al.|[2309.16992v1](http://arxiv.org/abs/2309.16992v1)|**[link](https://github.com/vignywang/samfeat)**|
 |**2023-09-27**|**KDD-LOAM: Jointly Learned Keypoint Detector and Descriptors Assisted LiDAR Odometry and Mapping**|Renlang Huang et.al.|[2309.15394v1](http://arxiv.org/abs/2309.15394v1)|null|
@@ -904,7 +905,6 @@
 |**2023-09-05**|**Doppelgangers: Learning to Disambiguate Images of Similar Structures**|Ruojin Cai et.al.|[2309.02420v1](http://arxiv.org/abs/2309.02420v1)|**[link](https://github.com/RuojinCai/Doppelgangers)**|
 |**2023-08-14**|**Occ $^2$ Net: Robust Image Matching Based on 3D Occupancy Estimation for Occluded Regions**|Miao Fan et.al.|[2308.16160v1](http://arxiv.org/abs/2308.16160v1)|null|
 |**2023-08-22**|**Scene-Aware Feature Matching**|Xiaoyong Lu et.al.|[2308.09949v2](http://arxiv.org/abs/2308.09949v2)|null|
-|**2023-08-02**|**ZRIGF: An Innovative Multimodal Framework for Zero-Resource Image-Grounded Dialogue Generation**|Bo Zhang et.al.|[2308.00400v2](http://arxiv.org/abs/2308.00400v2)|**[link](https://github.com/zhangbo-nlp/zrigf)**|
 |**2022-12-31**|**Translating Text Synopses to Video Storyboards**|Xu Gu et.al.|[2301.00135v1](http://arxiv.org/abs/2301.00135v1)|null|
 |**2022-12-23**|**SuperGF: Unifying Local and Global Features for Visual Localization**|Wenzheng Song et.al.|[2212.13105v1](http://arxiv.org/abs/2212.13105v1)|null|
 |**2022-12-26**|**Transformer and GAN Based Super-Resolution Reconstruction Network for Medical Images**|Weizhi Du et.al.|[2212.13068v1](http://arxiv.org/abs/2212.13068v1)|null|
@@ -1006,16 +1006,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-09**|**A Real-time Method for Inserting Virtual Objects into Neural Radiance Fields**|Keyang Ye et.al.|[2310.05837v1](http://arxiv.org/abs/2310.05837v1)|null|
+|**2023-10-09**|**Neural Impostor: Editing Neural Radiance Fields with Explicit Shape Manipulation**|Ruiyang Liu et.al.|[2310.05391v1](http://arxiv.org/abs/2310.05391v1)|null|
+|**2023-10-08**|**LocoNeRF: A NeRF-based Approach for Local Structure from Motion for Precise Localization**|Artem Nenashev et.al.|[2310.05134v1](http://arxiv.org/abs/2310.05134v1)|null|
+|**2023-10-08**|**Geometry Aware Field-to-field Transformations for 3D Semantic Segmentation**|Dominik Hollidt et.al.|[2310.05133v1](http://arxiv.org/abs/2310.05133v1)|null|
 |**2023-10-06**|**Improving Neural Radiance Field using Near-Surface Sampling with Point Cloud Generation**|Hye Bin Yoo et.al.|[2310.04152v1](http://arxiv.org/abs/2310.04152v1)|null|
 |**2023-10-05**|**Drag View: Generalizable Novel View Synthesis with Unposed Imagery**|Zhiwen Fan et.al.|[2310.03704v1](http://arxiv.org/abs/2310.03704v1)|null|
 |**2023-10-05**|**Targeted Adversarial Attacks on Generalizable Neural Radiance Fields**|Andras Horvath et.al.|[2310.03578v1](http://arxiv.org/abs/2310.03578v1)|null|
 |**2023-10-05**|**BID-NeRF: RGB-D image pose estimation with inverted Neural Radiance Fields**|Ágoston István Csehi et.al.|[2310.03563v1](http://arxiv.org/abs/2310.03563v1)|null|
 |**2023-10-04**|**Shielding the Unseen: Privacy Protection through Poisoning NeRF with Spatial Deformation**|Yihan Wu et.al.|[2310.03125v1](http://arxiv.org/abs/2310.03125v1)|null|
 |**2023-10-04**|**T $^3$ Bench: Benchmarking Current Progress in Text-to-3D Generation**|Yuze He et.al.|[2310.02977v1](http://arxiv.org/abs/2310.02977v1)|**[link](https://github.com/THU-LYJ-Lab/T3Bench)**|
-|**2023-10-04**|**ED-NeRF: Efficient Text-Guided Editing of 3D Scene using Latent Space NeRF**|Jangho Park et.al.|[2310.02712v1](http://arxiv.org/abs/2310.02712v1)|null|
-|**2023-10-05**|**USB-NeRF: Unrolling Shutter Bundle Adjusted Neural Radiance Fields**|Moyang Li et.al.|[2310.02687v2](http://arxiv.org/abs/2310.02687v2)|null|
-|**2023-10-03**|**EvDNeRF: Reconstructing Event Data with Dynamic Neural Radiance Fields**|Anish Bhattacharya et.al.|[2310.02437v1](http://arxiv.org/abs/2310.02437v1)|**[link](https://github.com/anish-bhattacharya/evdnerf)**|
-|**2023-10-03**|**Adaptive Multi-NeRF: Exploit Efficient Parallelism in Adaptive Multiple Scale Neural Radiance Field Rendering**|Tong Wang et.al.|[2310.01881v1](http://arxiv.org/abs/2310.01881v1)|null|
 |**2023-01-03**|**Class-Continuous Conditional Generative Neural Radiance Field**|Jiwook Kim et.al.|[2301.00950v1](http://arxiv.org/abs/2301.00950v1)|**[link](https://github.com/tom919654/C3G-NeRF)**|
 |**2023-01-01**|**Detachable Novel Views Synthesis of Dynamic Scenes Using Distribution-Driven Neural Radiance Fields**|Boyu Zhang et.al.|[2301.00411v1](http://arxiv.org/abs/2301.00411v1)|**[link](https://github.com/luciferbobo/d4nerf)**|
 |**2022-12-26**|**MonoNeRF: Learning a Generalizable Dynamic Radiance Field from Monocular Videos**|Fengrui Tian et.al.|[2212.13056v1](http://arxiv.org/abs/2212.13056v1)|**[link](https://github.com/tianfr/mononerf)**|
