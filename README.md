@@ -481,6 +481,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-19**|**Representation Learning via Consistent Assignment of Views over Random Partitions**|Thalles Silva et.al.|[2310.12692v1](http://arxiv.org/abs/2310.12692v1)|**[link](https://github.com/sthalles/carp)**|
 |**2023-10-18**|**Evaluating the Fairness of Discriminative Foundation Models in Computer Vision**|Junaid Ali et.al.|[2310.11867v1](http://arxiv.org/abs/2310.11867v1)|null|
 |**2023-10-17**|**Learning Comprehensive Representations with Richer Self for Text-to-Image Person Re-Identification**|Shuanglin Yan et.al.|[2310.11210v1](http://arxiv.org/abs/2310.11210v1)|null|
 |**2023-10-16**|**Autonomous Mapping and Navigation using Fiducial Markers and Pan-Tilt Camera for Assisting Indoor Mobility of Blind and Visually Impaired People**|Dharmateja Adapa et.al.|[2310.10290v1](http://arxiv.org/abs/2310.10290v1)|null|
@@ -490,7 +491,6 @@
 |**2023-10-13**|**Vision-by-Language for Training-Free Compositional Image Retrieval**|Shyamgopal Karthik et.al.|[2310.09291v1](http://arxiv.org/abs/2310.09291v1)|null|
 |**2023-10-12**|**Hyp-UML: Hyperbolic Image Retrieval with Uncertainty-aware Metric Learning**|Shiyang Yan et.al.|[2310.08390v1](http://arxiv.org/abs/2310.08390v1)|null|
 |**2023-10-12**|**Jointly Optimized Global-Local Visual Localization of UAVs**|Haoling Li et.al.|[2310.08082v1](http://arxiv.org/abs/2310.08082v1)|null|
-|**2023-10-10**|**Leveraging Neural Radiance Fields for Uncertainty-Aware Visual Localization**|Le Chen et.al.|[2310.06984v1](http://arxiv.org/abs/2310.06984v1)|null|
 |**2023-01-05**|**A Probabilistic Framework for Visual Localization in Ambiguous Scenes**|Fereidoon Zangeneh et.al.|[2301.02086v1](http://arxiv.org/abs/2301.02086v1)|**[link](https://github.com/efreidun/vapor)**|
 |**2022-12-31**|**4Seasons: Benchmarking Visual SLAM and Long-Term Localization for Autonomous Driving in Challenging Conditions**|Patrick Wenzel et.al.|[2301.01147v1](http://arxiv.org/abs/2301.01147v1)|null|
 |**2022-12-30**|**HPointLoc: Point-based Indoor Place Recognition using Synthetic RGB-D Images**|Dmitry Yudin et.al.|[2212.14649v1](http://arxiv.org/abs/2212.14649v1)|**[link](https://github.com/metra4ok/hpointloc)**|
