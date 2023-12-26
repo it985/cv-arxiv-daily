@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.12.25
+## Updated on 2023.12.26
 
 <details>
   <summary>Table of Contents</summary>
@@ -668,7 +668,7 @@ layout: default
 |**2021-10-03**|**Quadrotor Control on $SU(2)\times R^3$ with SLAM Integration**|Marcus Greiff et.al.|[2110.01099v1](http://arxiv.org/abs/2110.01099v1)|null|
 |**2021-10-02**|**Online Incremental Non-Gaussian Inference for SLAM Using Normalizing Flows**|Qiangqiang Huang et.al.|[2110.00876v1](http://arxiv.org/abs/2110.00876v1)|**[link](https://github.com/marineroboticsgroup/nf-isam)**|
 
-<p align=right>(<a href=#Updated-on-20231225>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231226>back to top</a>)</p>
 
 ## SFM
 
@@ -822,7 +822,7 @@ layout: default
 |**2021-08-29**|**Solving Viewing Graph Optimization for Simultaneous Position and Rotation Registration**|Seyed-Mahdi Nasiri et.al.|[2108.12876v1](http://arxiv.org/abs/2108.12876v1)|null|
 |**2021-08-23**|**Burst Imaging for Light-Constrained Structure-From-Motion**|Ahalya Ravendran et.al.|[2108.09895v1](http://arxiv.org/abs/2108.09895v1)|null|
 
-<p align=right>(<a href=#Updated-on-20231225>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231226>back to top</a>)</p>
 
 ## Visual Localization
 
@@ -1435,12 +1435,13 @@ layout: default
 |**2021-09-09**|**CrowdDriven: A New Challenging Dataset for Outdoor Visual Localization**|Ara Jafarzadeh et.al.|[2109.04527v1](http://arxiv.org/abs/2109.04527v1)|null|
 |**2021-09-09**|**Keeping an Eye on Things: Deep Learned Features for Long-Term Visual Localization**|Mona Gridseth et.al.|[2109.04041v1](http://arxiv.org/abs/2109.04041v1)|**[link](https://github.com/utiasasrl/deep_learned_visual_features)**|
 
-<p align=right>(<a href=#Updated-on-20231225>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231226>back to top</a>)</p>
 
 ## Keypoint Detection
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-22**|**BonnBeetClouds3D: A Dataset Towards Point Cloud-based Organ-level Phenotyping of Sugar Beet Plants under Field Conditions**|Elias Marks et.al.|[2312.14706v1](http://arxiv.org/abs/2312.14706v1)|null|
 |**2023-12-19**|**Adaptive Distribution Masked Autoencoders for Continual Test-Time Adaptation**|Jiaming Liu et.al.|[2312.12480v1](http://arxiv.org/abs/2312.12480v1)|null|
 |**2023-12-19**|**An effective image copy-move forgery detection using entropy image**|Zhaowei Lu et.al.|[2312.11793v1](http://arxiv.org/abs/2312.11793v1)|null|
 |**2023-12-11**|**VoxelKP: A Voxel-based Network Architecture for Human Keypoint Estimation in LiDAR Data**|Jian Shi et.al.|[2312.08871v1](http://arxiv.org/abs/2312.08871v1)|**[link](https://github.com/shijianjian/voxelkp)**|
@@ -1635,12 +1636,13 @@ layout: default
 |**2021-08-31**|**A Novel Dataset for Keypoint Detection of quadruped Animals from Images**|Prianka Banik et.al.|[2108.13958v1](http://arxiv.org/abs/2108.13958v1)|**[link](https://github.com/prinik/awa-pose)**|
 |**2021-08-27**|**A Matching Algorithm based on Image Attribute Transfer and Local Features for Underwater Acoustic and Optical Images**|Xiaoteng Zhou et.al.|[2108.12151v1](http://arxiv.org/abs/2108.12151v1)|null|
 
-<p align=right>(<a href=#Updated-on-20231225>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231226>back to top</a>)</p>
 
 ## Image Matching
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-22**|**Harnessing Diffusion Models for Visual Perception with Meta Prompts**|Qiang Wan et.al.|[2312.14733v1](http://arxiv.org/abs/2312.14733v1)|**[link](https://github.com/fudan-zvg/meta-prompts)**|
 |**2023-12-18**|**MatchDet: A Collaborative Framework for Image Matching and Object Detection**|Jinxiang Lai et.al.|[2312.10983v1](http://arxiv.org/abs/2312.10983v1)|null|
 |**2023-12-07**|**Visual Geometry Grounded Deep Structure From Motion**|Jianyuan Wang et.al.|[2312.04563v1](http://arxiv.org/abs/2312.04563v1)|null|
 |**2023-12-04**|**Steerers: A framework for rotation equivariant keypoint descriptors**|Georg Bökman et.al.|[2312.02152v1](http://arxiv.org/abs/2312.02152v1)|**[link](https://github.com/georg-bn/rotation-steerers)**|
@@ -1811,16 +1813,19 @@ layout: default
 |**2021-08-27**|**Matching Underwater Sonar Images by the Learned Descriptor Based on Style Transfer Method**|Xiaoteng Zhou et.al.|[2108.12072v1](http://arxiv.org/abs/2108.12072v1)|null|
 |**2021-08-26**|**Efficient Joint Object Matching via Linear Programming**|Antonio De Rosa et.al.|[2108.11911v1](http://arxiv.org/abs/2108.11911v1)|null|
 
-<p align=right>(<a href=#Updated-on-20231225>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231226>back to top</a>)</p>
 
 ## NeRF
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-22**|**PoseGen: Learning to Generate 3D Human Pose Dataset with NeRF**|Mohsen Gholami et.al.|[2312.14915v1](http://arxiv.org/abs/2312.14915v1)|null|
+|**2023-12-22**|**Density Uncertainty Quantification with NeRF-Ensembles: Impact of Data and Scene Constraints**|Miriam Jäger et.al.|[2312.14664v1](http://arxiv.org/abs/2312.14664v1)|null|
+|**2023-12-21**|**PlatoNeRF: 3D Reconstruction in Plato's Cave via Single-View Two-Bounce Lidar**|Tzofi Klinghoffer et.al.|[2312.14239v1](http://arxiv.org/abs/2312.14239v1)|null|
 |**2023-12-21**|**Virtual Pets: Animatable Animal Generation in 3D Scenes**|Yen-Chi Cheng et.al.|[2312.14154v1](http://arxiv.org/abs/2312.14154v1)|null|
 |**2023-12-21**|**Carve3D: Improving Multi-view Reconstruction Consistency for Diffusion Models with RL Finetuning**|Desai Xie et.al.|[2312.13980v1](http://arxiv.org/abs/2312.13980v1)|null|
 |**2023-12-21**|**SyncDreamer for 3D Reconstruction of Endangered Animal Species with NeRF and NeuS**|Ahmet Haydar Ornek et.al.|[2312.13832v1](http://arxiv.org/abs/2312.13832v1)|null|
-|**2023-12-21**|**Gaussian Splitting Algorithm with Color and Opacity Depended on Viewing Direction**|Dawid Malarz et.al.|[2312.13729v1](http://arxiv.org/abs/2312.13729v1)|**[link](https://github.com/gmum/ViewingDirectionGaussianSplatting)**|
+|**2023-12-22**|**Gaussian Splatting with NeRF-based Color and Opacity**|Dawid Malarz et.al.|[2312.13729v2](http://arxiv.org/abs/2312.13729v2)|**[link](https://github.com/gmum/ViewingDirectionGaussianSplatting)**|
 |**2023-12-21**|**DyBluRF: Dynamic Deblurring Neural Radiance Fields for Blurry Monocular Video**|Minh-Quan Viet Bui et.al.|[2312.13528v1](http://arxiv.org/abs/2312.13528v1)|null|
 |**2023-12-21**|**Visual Tomography: Physically Faithful Volumetric Models of Partially Translucent Objects**|David Nakath et.al.|[2312.13494v1](http://arxiv.org/abs/2312.13494v1)|null|
 |**2023-12-20**|**NeRF-VO: Real-Time Sparse Visual Odometry with Neural Radiance Fields**|Jens Naumann et.al.|[2312.13471v1](http://arxiv.org/abs/2312.13471v1)|null|
@@ -2518,7 +2523,7 @@ layout: default
 |**2022-07-29**|**Neural Density-Distance Fields**|Itsuki Ueda et.al.|[2207.14455v1](http://arxiv.org/abs/2207.14455v1)|**[link](https://github.com/ueda0319/neddf)**|
 |**2022-07-27**|**Is Attention All NeRF Needs?**|Mukund Varma T et.al.|[2207.13298v1](http://arxiv.org/abs/2207.13298v1)|null|
 
-<p align=right>(<a href=#Updated-on-20231225>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231226>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
