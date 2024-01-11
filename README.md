@@ -21,16 +21,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-10**|**Multi S-Graphs: an Efficient Real-time Distributed Semantic-Relational Collaborative SLAM**|Miguel Fernandez-Cortizas et.al.|[2401.05152v1](http://arxiv.org/abs/2401.05152v1)|null|
+|**2024-01-09**|**SOS-SLAM: Segmentation for Open-Set SLAM in Unstructured Environments**|Jouko Kinnari et.al.|[2401.04791v1](http://arxiv.org/abs/2401.04791v1)|null|
 |**2024-01-07**|**Reconfigurable Holographic Surface Aided Wireless Simultaneous Localization and Mapping**|Haobo Zhang et.al.|[2401.03453v1](http://arxiv.org/abs/2401.03453v1)|null|
 |**2024-01-09**|**Amplifying robotics capacities with a human touch: An immersive low-latency panoramic remote system**|Junjie Li et.al.|[2401.03398v2](http://arxiv.org/abs/2401.03398v2)|null|
 |**2024-01-05**|**Comparative Evaluation of RGB-D SLAM Methods for Humanoid Robot Localization and Mapping**|Amirhosein Vedadi et.al.|[2401.02816v1](http://arxiv.org/abs/2401.02816v1)|null|
-|**2024-01-03**|**Distributed Pose-graph Optimization with Multi-level Partitioning for Collaborative SLAM**|Cunhao Li et.al.|[2401.01657v1](http://arxiv.org/abs/2401.01657v1)|**[link](https://github.com/tjcunhao/distributed-pose-graph)**|
+|**2024-01-10**|**Distributed Pose-graph Optimization with Multi-level Partitioning for Collaborative SLAM**|Cunhao Li et.al.|[2401.01657v2](http://arxiv.org/abs/2401.01657v2)|**[link](https://github.com/tjcunhao/distributed-pose-graph)**|
 |**2024-01-03**|**DDN-SLAM: Real-time Dense Dynamic Neural Implicit SLAM with Joint Semantic Encoding**|Mingrui Li et.al.|[2401.01545v1](http://arxiv.org/abs/2401.01545v1)|null|
 |**2024-01-02**|**NID-SLAM: Neural Implicit Representation-based RGB-D SLAM in dynamic environments**|Ziheng Xu et.al.|[2401.01189v1](http://arxiv.org/abs/2401.01189v1)|null|
 |**2024-01-05**|**PLE-SLAM: A Visual-Inertial SLAM Based on Point-Line Features and Efficient IMU Initialization**|Jiaming He et.al.|[2401.01081v2](http://arxiv.org/abs/2401.01081v2)|**[link](https://github.com/hjmgarmin/ple-slam)**|
 |**2023-12-28**|**Toward Semantic Scene Understanding for Fine-Grained 3D Modeling of Plants**|Mohamad Qadri et.al.|[2312.17110v1](http://arxiv.org/abs/2312.17110v1)|null|
-|**2023-12-28**|**SR-LIVO: LiDAR-Inertial-Visual Odometry and Mapping with Sweep Reconstruction**|Zikang Yuan et.al.|[2312.16800v1](http://arxiv.org/abs/2312.16800v1)|**[link](https://github.com/ZikangYuan/sr_livo)**|
-|**2023-12-25**|**BDIS-SLAM: A lightweight CPU-based dense stereo SLAM for surgery**|Jingwei Song et.al.|[2312.15679v1](http://arxiv.org/abs/2312.15679v1)|**[link](https://github.com/jingweisong/bdis-slam)**|
 |**2022-12-31**|**4Seasons: Benchmarking Visual SLAM and Long-Term Localization for Autonomous Driving in Challenging Conditions**|Patrick Wenzel et.al.|[2301.01147v1](http://arxiv.org/abs/2301.01147v1)|null|
 |**2023-01-03**|**BS3D: Building-scale 3D Reconstruction from RGB-D Images**|Janne Mustaniemi et.al.|[2301.01057v1](http://arxiv.org/abs/2301.01057v1)|null|
 |**2023-01-02**|**An Event-based Algorithm for Simultaneous 6-DOF Camera Pose Tracking and Mapping**|Masoud Dayani Najafabadi et.al.|[2301.00618v1](http://arxiv.org/abs/2301.00618v1)|null|
@@ -390,7 +390,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-01-07**|**A Classification of Critical Configurations for any Number of Projective Views**|Martin Bråtelund et.al.|[2401.03450v1](http://arxiv.org/abs/2401.03450v1)|null|
+|**2024-01-10**|**Structure from Duplicates: Neural Inverse Graphics from a Pile of Objects**|Tianhang Cheng et.al.|[2401.05236v1](http://arxiv.org/abs/2401.05236v1)|**[link](https://github.com/tianhang-cheng/sfd)**|
+|**2024-01-07**|**A Classification of Critical Configurations for any Number of Projective Views**|Martin Bråtelund et.al.|[2401.03450v1](http://arxiv.org/abs/2401.03450v1)|**[link](https://github.com/mabraate/critical-configurations)**|
 |**2023-12-24**|**Residual Learning for Image Point Descriptors**|Rashik Shrestha et.al.|[2312.15471v1](http://arxiv.org/abs/2312.15471v1)|null|
 |**2023-12-16**|**Transformers in Unsupervised Structure-from-Motion**|Hemang Chawla et.al.|[2312.10529v1](http://arxiv.org/abs/2312.10529v1)|**[link](https://github.com/neurai-lab/mt-sfmlearner)**|
 |**2023-12-14**|**HeadRecon: High-Fidelity 3D Head Reconstruction from Monocular Video**|Xueying Wang et.al.|[2312.08863v1](http://arxiv.org/abs/2312.08863v1)|null|
@@ -399,7 +400,6 @@
 |**2023-12-11**|**Gaussian Splatting SLAM**|Hidenobu Matsuki et.al.|[2312.06741v1](http://arxiv.org/abs/2312.06741v1)|null|
 |**2023-12-10**|**SuperPrimitive: Scene Reconstruction at a Primitive Level**|Kirill Mazur et.al.|[2312.05889v1](http://arxiv.org/abs/2312.05889v1)|null|
 |**2023-12-07**|**Visual Geometry Grounded Deep Structure From Motion**|Jianyuan Wang et.al.|[2312.04563v1](http://arxiv.org/abs/2312.04563v1)|null|
-|**2023-11-30**|**Distributed Global Structure-from-Motion with a Deep Front-End**|Ayush Baid et.al.|[2311.18801v1](http://arxiv.org/abs/2311.18801v1)|**[link](https://github.com/borglab/gtsfm)**|
 |**2023-01-05**|**Robust Dynamic Radiance Fields**|Yu-Lun Liu et.al.|[2301.02239v1](http://arxiv.org/abs/2301.02239v1)|**[link](https://github.com/facebookresearch/robust-dynrf)**|
 |**2022-12-24**|**Polarimetric Multi-View Inverse Rendering**|Jinyu Zhao et.al.|[2212.12721v1](http://arxiv.org/abs/2212.12721v1)|null|
 |**2022-12-13**|**Accidental Turntables: Learning 3D Pose by Watching Objects Turn**|Zezhou Cheng et.al.|[2212.06300v1](http://arxiv.org/abs/2212.06300v1)|null|
@@ -481,6 +481,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-10**|**Modality-Aware Representation Learning for Zero-shot Sketch-based Image Retrieval**|Eunyi Lyou et.al.|[2401.04860v1](http://arxiv.org/abs/2401.04860v1)|null|
 |**2024-01-05**|**Benchmarking PathCLIP for Pathology Image Analysis**|Sunyi Zheng et.al.|[2401.02651v1](http://arxiv.org/abs/2401.02651v1)|null|
 |**2024-01-03**|**DDN-SLAM: Real-time Dense Dynamic Neural Implicit SLAM with Joint Semantic Encoding**|Mingrui Li et.al.|[2401.01545v1](http://arxiv.org/abs/2401.01545v1)|null|
 |**2024-01-02**|**BEV-CLIP: Multi-modal BEV Retrieval Methodology for Complex Scene in Autonomous Driving**|Dafeng Wei et.al.|[2401.01065v1](http://arxiv.org/abs/2401.01065v1)|null|
@@ -490,7 +491,6 @@
 |**2023-12-26**|**Recursive Distillation for Open-Set Distributed Robot Localization**|Kenta Tsukahara et.al.|[2312.15897v1](http://arxiv.org/abs/2312.15897v1)|null|
 |**2023-12-24**|**Residual Learning for Image Point Descriptors**|Rashik Shrestha et.al.|[2312.15471v1](http://arxiv.org/abs/2312.15471v1)|null|
 |**2023-12-23**|**CaLDiff: Camera Localization in NeRF via Pose Diffusion**|Rashik Shrestha et.al.|[2312.15242v1](http://arxiv.org/abs/2312.15242v1)|null|
-|**2023-12-20**|**Aggregating Multiple Bio-Inspired Image Region Classifiers For Effective And Lightweight Visual Place Recognition**|Bruno Arcanjo et.al.|[2312.12995v1](http://arxiv.org/abs/2312.12995v1)|null|
 |**2023-01-05**|**A Probabilistic Framework for Visual Localization in Ambiguous Scenes**|Fereidoon Zangeneh et.al.|[2301.02086v1](http://arxiv.org/abs/2301.02086v1)|**[link](https://github.com/efreidun/vapor)**|
 |**2022-12-31**|**4Seasons: Benchmarking Visual SLAM and Long-Term Localization for Autonomous Driving in Challenging Conditions**|Patrick Wenzel et.al.|[2301.01147v1](http://arxiv.org/abs/2301.01147v1)|null|
 |**2022-12-30**|**HPointLoc: Point-based Indoor Place Recognition using Synthetic RGB-D Images**|Dmitry Yudin et.al.|[2212.14649v1](http://arxiv.org/abs/2212.14649v1)|**[link](https://github.com/metra4ok/hpointloc)**|
@@ -1006,6 +1006,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-10**|**InseRF: Text-Driven Generative Object Insertion in Neural 3D Scenes**|Mohamad Shahbazi et.al.|[2401.05335v1](http://arxiv.org/abs/2401.05335v1)|null|
+|**2024-01-10**|**CTNeRF: Cross-Time Transformer for Dynamic Neural Radiance Field from Monocular Video**|Xingyu Miao et.al.|[2401.04861v1](http://arxiv.org/abs/2401.04861v1)|null|
 |**2024-01-08**|**A Survey on 3D Gaussian Splatting**|Guikun Chen et.al.|[2401.03890v1](http://arxiv.org/abs/2401.03890v1)|null|
 |**2024-01-08**|**NeRFmentation: NeRF-based Augmentation for Monocular Depth Estimation**|Casimir Feldmann et.al.|[2401.03771v1](http://arxiv.org/abs/2401.03771v1)|null|
 |**2024-01-06**|**RustNeRF: Robust Neural Radiance Field with Low-Quality Images**|Mengfei Li et.al.|[2401.03257v1](http://arxiv.org/abs/2401.03257v1)|null|
@@ -1014,8 +1016,6 @@
 |**2024-01-05**|**FED-NeRF: Achieve High 3D Consistency and Temporal Coherence for Face Video Editing on Dynamic NeRF**|Hao Zhang et.al.|[2401.02616v1](http://arxiv.org/abs/2401.02616v1)|**[link](https://github.com/zhang1023/fed-nerf)**|
 |**2024-01-05**|**Characterizing Satellite Geometry via Accelerated 3D Gaussian Splatting**|Van Minh Nguyen et.al.|[2401.02588v1](http://arxiv.org/abs/2401.02588v1)|null|
 |**2024-01-03**|**SIGNeRF: Scene Integrated Generation for Neural Radiance Fields**|Jan-Niklas Dihlmann et.al.|[2401.01647v1](http://arxiv.org/abs/2401.01647v1)|null|
-|**2024-01-02**|**Street Gaussians for Modeling Dynamic Urban Scenes**|Yunzhi Yan et.al.|[2401.01339v1](http://arxiv.org/abs/2401.01339v1)|null|
-|**2024-01-02**|**Noise-NeRF: Hide Information in Neural Radiance Fields using Trainable Noise**|Qinglong Huang et.al.|[2401.01216v1](http://arxiv.org/abs/2401.01216v1)|null|
 |**2023-01-03**|**Class-Continuous Conditional Generative Neural Radiance Field**|Jiwook Kim et.al.|[2301.00950v1](http://arxiv.org/abs/2301.00950v1)|**[link](https://github.com/tom919654/C3G-NeRF)**|
 |**2023-01-01**|**Detachable Novel Views Synthesis of Dynamic Scenes Using Distribution-Driven Neural Radiance Fields**|Boyu Zhang et.al.|[2301.00411v1](http://arxiv.org/abs/2301.00411v1)|**[link](https://github.com/luciferbobo/d4nerf)**|
 |**2022-12-26**|**MonoNeRF: Learning a Generalizable Dynamic Radiance Field from Monocular Videos**|Fengrui Tian et.al.|[2212.13056v1](http://arxiv.org/abs/2212.13056v1)|**[link](https://github.com/tianfr/mononerf)**|
