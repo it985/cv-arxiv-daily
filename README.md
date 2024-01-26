@@ -21,6 +21,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-25**|**AscDAMs: Advanced SLAM-based channel detection and mapping system**|Tengfei Wang et.al.|[2401.13877v1](http://arxiv.org/abs/2401.13877v1)|null|
+|**2024-01-24**|**Multi-Object Navigation in real environments using hybrid policies**|Assem Sadek et.al.|[2401.13800v1](http://arxiv.org/abs/2401.13800v1)|null|
 |**2024-01-19**|**360ORB-SLAM: A Visual SLAM System for Panoramic Images with Depth Completion Network**|Yichen Chen et.al.|[2401.10560v1](http://arxiv.org/abs/2401.10560v1)|null|
 |**2024-01-17**|**CognitiveDog: Large Multimodal Model Based System to Translate Vision and Language into Action of Quadruped Robot**|Artem Lykov et.al.|[2401.09388v1](http://arxiv.org/abs/2401.09388v1)|null|
 |**2024-01-17**|**FIT-SLAM -- Fisher Information and Traversability estimation-based Active SLAM for exploration in 3D environments**|Suchetan Saravanan et.al.|[2401.09322v1](http://arxiv.org/abs/2401.09322v1)|null|
@@ -29,8 +31,6 @@
 |**2024-01-16**|**S3M: Semantic Segmentation Sparse Mapping for UAVs with RGB-D Camera**|Thanh Nguyen Canh et.al.|[2401.08134v1](http://arxiv.org/abs/2401.08134v1)|null|
 |**2024-01-16**|**Object-Oriented Semantic Mapping for Reliable UAVs Navigation**|Thanh Nguyen Canh et.al.|[2401.08132v1](http://arxiv.org/abs/2401.08132v1)|null|
 |**2024-01-16**|**Cross-Modal Semi-Dense 6-DoF Tracking of an Event Camera in Challenging Conditions**|Yi-Fan Zuo et.al.|[2401.08043v1](http://arxiv.org/abs/2401.08043v1)|**[link](https://github.com/zyfff/canny-evt)**|
-|**2024-01-15**|**Cesium Tiles for High-realism Simulation and Comparing SLAM Results in Corresponding Virtual and Real-world Environments**|Chris Beam et.al.|[2401.07962v1](http://arxiv.org/abs/2401.07962v1)|null|
-|**2024-01-15**|**Robustness Evaluation of Localization Techniques for Autonomous Racing**|Tian Yi Lim et.al.|[2401.07658v1](http://arxiv.org/abs/2401.07658v1)|null|
 |**2022-12-31**|**4Seasons: Benchmarking Visual SLAM and Long-Term Localization for Autonomous Driving in Challenging Conditions**|Patrick Wenzel et.al.|[2301.01147v1](http://arxiv.org/abs/2301.01147v1)|null|
 |**2023-01-03**|**BS3D: Building-scale 3D Reconstruction from RGB-D Images**|Janne Mustaniemi et.al.|[2301.01057v1](http://arxiv.org/abs/2301.01057v1)|null|
 |**2023-01-02**|**An Event-based Algorithm for Simultaneous 6-DOF Camera Pose Tracking and Mapping**|Masoud Dayani Najafabadi et.al.|[2301.00618v1](http://arxiv.org/abs/2301.00618v1)|null|
@@ -484,7 +484,7 @@
 |**2024-01-24**|**Enhancing Image Retrieval : A Comprehensive Study on Photo Search using the CLIP Mode**|Naresh Kumar Lahajal et.al.|[2401.13613v1](http://arxiv.org/abs/2401.13613v1)|null|
 |**2024-01-23**|**PlaceFormer: Transformer-based Visual Place Recognition using Multi-Scale Patch Selection and Fusion**|Shyam Sundar Kannan et.al.|[2401.13082v1](http://arxiv.org/abs/2401.13082v1)|null|
 |**2024-01-23**|**SemanticSLAM: Learning based Semantic Map Construction and Robust Camera Localization**|Mingyang Li et.al.|[2401.13076v1](http://arxiv.org/abs/2401.13076v1)|**[link](https://github.com/leomingyangli/semanticslam)**|
-|**2024-01-19**|**CBVS: A Large-Scale Chinese Image-Text Benchmark for Real-World Short Video Search Scenarios**|Xiangshuo Qiao et.al.|[2401.10475v1](http://arxiv.org/abs/2401.10475v1)|**[link](https://github.com/QQBrowserVideoSearch/CBVS-UniCLIP)**|
+|**2024-01-25**|**CBVS: A Large-Scale Chinese Image-Text Benchmark for Real-World Short Video Search Scenarios**|Xiangshuo Qiao et.al.|[2401.10475v2](http://arxiv.org/abs/2401.10475v2)|**[link](https://github.com/QQBrowserVideoSearch/CBVS-UniCLIP)**|
 |**2024-01-19**|**PhotoScout: Synthesis-Powered Multi-Modal Image Search**|Celeste Barnaby et.al.|[2401.10464v1](http://arxiv.org/abs/2401.10464v1)|null|
 |**2024-01-19**|**Cross-Modality Perturbation Synergy Attack for Person Re-identification**|Yunpeng Gong et.al.|[2401.10090v2](http://arxiv.org/abs/2401.10090v2)|null|
 |**2024-01-16**|**Siamese Content-based Search Engine for a More Transparent Skin and Breast Cancer Diagnosis through Histological Imaging**|Zahra Tabatabaei et.al.|[2401.08272v1](http://arxiv.org/abs/2401.08272v1)|null|
@@ -1006,6 +1006,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-25**|**Learning Robust Generalizable Radiance Field with Visibility and Feature Augmented Point Representation**|Jiaxu Wang et.al.|[2401.14354v1](http://arxiv.org/abs/2401.14354v1)|null|
+|**2024-01-25**|**Sketch2NeRF: Multi-view Sketch-guided Text-to-3D Generation**|Minglin Chen et.al.|[2401.14257v1](http://arxiv.org/abs/2401.14257v1)|null|
 |**2024-01-24**|**EndoGaussians: Single View Dynamic Gaussian Splatting for Deformable Endoscopic Tissues Reconstruction**|Yangsen Chen et.al.|[2401.13352v1](http://arxiv.org/abs/2401.13352v1)|null|
 |**2024-01-23**|**NeRF-AD: Neural Radiance Field with Attention-based Disentanglement for Talking Face Synthesis**|Chongke Bi et.al.|[2401.12568v1](http://arxiv.org/abs/2401.12568v1)|null|
 |**2024-01-23**|**Exploration and Improvement of Nerf-based 3D Scene Editing Techniques**|Shun Fang et.al.|[2401.12456v1](http://arxiv.org/abs/2401.12456v1)|null|
@@ -1013,9 +1015,7 @@
 |**2024-01-22**|**Single-View 3D Human Digitalization with Large Reconstruction Models**|Zhenzhen Weng et.al.|[2401.12175v1](http://arxiv.org/abs/2401.12175v1)|null|
 |**2024-01-22**|**Scaling Face Interaction Graph Networks to Real World Scenes**|Tatiana Lopez-Guevara et.al.|[2401.11985v1](http://arxiv.org/abs/2401.11985v1)|null|
 |**2024-01-22**|**HG3-NeRF: Hierarchical Geometric, Semantic, and Photometric Guided Neural Radiance Fields for Sparse View Inputs**|Zelin Gao et.al.|[2401.11711v1](http://arxiv.org/abs/2401.11711v1)|null|
-|**2024-01-23**|**IPR-NeRF: Ownership Verification meets Neural Radiance Field**|Win Kent Ong et.al.|[2401.09495v4](http://arxiv.org/abs/2401.09495v4)|null|
 |**2024-01-17**|**ICON: Incremental CONfidence for Joint Pose and Radiance Field Optimization**|Weiyao Wang et.al.|[2401.08937v1](http://arxiv.org/abs/2401.08937v1)|null|
-|**2024-01-18**|**ProvNeRF: Modeling per Point Provenance in NeRFs as a Stochastic Process**|Kiyohiro Nakayama et.al.|[2401.08140v2](http://arxiv.org/abs/2401.08140v2)|null|
 |**2023-01-03**|**Class-Continuous Conditional Generative Neural Radiance Field**|Jiwook Kim et.al.|[2301.00950v1](http://arxiv.org/abs/2301.00950v1)|**[link](https://github.com/tom919654/C3G-NeRF)**|
 |**2023-01-01**|**Detachable Novel Views Synthesis of Dynamic Scenes Using Distribution-Driven Neural Radiance Fields**|Boyu Zhang et.al.|[2301.00411v1](http://arxiv.org/abs/2301.00411v1)|**[link](https://github.com/luciferbobo/d4nerf)**|
 |**2022-12-26**|**MonoNeRF: Learning a Generalizable Dynamic Radiance Field from Monocular Videos**|Fengrui Tian et.al.|[2212.13056v1](http://arxiv.org/abs/2212.13056v1)|**[link](https://github.com/tianfr/mononerf)**|
