@@ -21,6 +21,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-12**|**Customizable Perturbation Synthesis for Robust SLAM Benchmarking**|Xiaohao Xu et.al.|[2402.08125v1](http://arxiv.org/abs/2402.08125v1)|**[link](https://github.com/xiaohao-xu/slam-under-perturbation)**|
 |**2024-02-12**|**UAV-assisted Visual SLAM Generating Reconstructed 3D Scene Graphs in GPS-denied Environments**|Ahmed Radwan et.al.|[2402.07537v1](http://arxiv.org/abs/2402.07537v1)|null|
 |**2024-02-12**|**Particle Filter SLAM for Vehicle Localization**|Tianrui Liu et.al.|[2402.07429v1](http://arxiv.org/abs/2402.07429v1)|null|
 |**2024-02-10**|**Semantic Object-level Modeling for Robust Visual Camera Relocalization**|Yifan Zhu et.al.|[2402.06951v1](http://arxiv.org/abs/2402.06951v1)|null|
@@ -28,7 +29,6 @@
 |**2024-02-07**|**Efficient Invariant Kalman Filter for Inertial-based Odometry with Large-sample Environmental Measurements**|Xinghan Li et.al.|[2402.05003v1](http://arxiv.org/abs/2402.05003v1)|null|
 |**2024-02-06**|**YOLOPoint Joint Keypoint and Object Detection**|Anton Backhaus et.al.|[2402.03989v1](http://arxiv.org/abs/2402.03989v1)|**[link](https://github.com/unibwtas/yolopoint)**|
 |**2024-02-09**|**MoD-SLAM: Monocular Dense Mapping for Unbounded 3D Scene Reconstruction**|Heng Zhou et.al.|[2402.03762v2](http://arxiv.org/abs/2402.03762v2)|null|
-|**2024-02-03**|**Weighted Conformal LiDAR-Mapping for Structured SLAM**|Natalia Prieto-Fernández et.al.|[2402.03376v1](http://arxiv.org/abs/2402.03376v1)|null|
 |**2024-02-05**|**SGS-SLAM: Semantic Gaussian Splatting For Neural Dense SLAM**|Mingrui Li et.al.|[2402.03246v1](http://arxiv.org/abs/2402.03246v1)|null|
 |**2024-02-03**|**Simultaneous Calibration and Navigation (SCAN) of Multiple Ultrasonic Local Positioning Systems**|David Gualda et.al.|[2402.02241v1](http://arxiv.org/abs/2402.02241v1)|null|
 |**2022-12-31**|**4Seasons: Benchmarking Visual SLAM and Long-Term Localization for Autonomous Driving in Challenging Conditions**|Patrick Wenzel et.al.|[2301.01147v1](http://arxiv.org/abs/2301.01147v1)|null|
@@ -481,6 +481,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-13**|**Agent Smith: A Single Image Can Jailbreak One Million Multimodal LLM Agents Exponentially Fast**|Xiangming Gu et.al.|[2402.08567v1](http://arxiv.org/abs/2402.08567v1)|**[link](https://github.com/sail-sg/agent-smith)**|
+|**2024-02-13**|**Learning to Produce Semi-dense Correspondences for Visual Localization**|Khang Truong Giang et.al.|[2402.08359v1](http://arxiv.org/abs/2402.08359v1)|**[link](https://github.com/truongkhang/deviloc)**|
 |**2024-02-10**|**Semantic Object-level Modeling for Robust Visual Camera Relocalization**|Yifan Zhu et.al.|[2402.06951v1](http://arxiv.org/abs/2402.06951v1)|null|
 |**2024-02-09**|**Large Language Models for Captioning and Retrieving Remote Sensing Images**|João Daniel Silva et.al.|[2402.06475v1](http://arxiv.org/abs/2402.06475v1)|null|
 |**2024-02-09**|**PAS-SLAM: A Visual SLAM System for Planar Ambiguous Scenes**|Xinggang Hu et.al.|[2402.06131v1](http://arxiv.org/abs/2402.06131v1)|null|
@@ -489,8 +491,6 @@
 |**2024-02-03**|**Zero-shot sketch-based remote sensing image retrieval based on multi-level and attention-guided tokenization**|Bo Yang et.al.|[2402.02141v1](http://arxiv.org/abs/2402.02141v1)|null|
 |**2024-02-01**|**BrainSLAM: SLAM on Neural Population Activity Data**|Kipp Freud et.al.|[2402.00588v1](http://arxiv.org/abs/2402.00588v1)|null|
 |**2024-02-01**|**Night-Rider: Nocturnal Vision-aided Localization in Streetlight Maps Using Invariant Extended Kalman Filtering**|Tianxiao Gao et.al.|[2402.00330v1](http://arxiv.org/abs/2402.00330v1)|**[link](https://github.com/imrl/night-rider)**|
-|**2024-01-31**|**Improved Scene Landmark Detection for Camera Localization**|Tien Do et.al.|[2401.18083v1](http://arxiv.org/abs/2401.18083v1)|**[link](https://github.com/microsoft/scenelandmarklocalization)**|
-|**2024-01-31**|**Local Feature Matching Using Deep Learning: A Survey**|Shibiao Xu et.al.|[2401.17592v1](http://arxiv.org/abs/2401.17592v1)|null|
 |**2023-01-05**|**A Probabilistic Framework for Visual Localization in Ambiguous Scenes**|Fereidoon Zangeneh et.al.|[2301.02086v1](http://arxiv.org/abs/2301.02086v1)|**[link](https://github.com/efreidun/vapor)**|
 |**2022-12-31**|**4Seasons: Benchmarking Visual SLAM and Long-Term Localization for Autonomous Driving in Challenging Conditions**|Patrick Wenzel et.al.|[2301.01147v1](http://arxiv.org/abs/2301.01147v1)|null|
 |**2022-12-30**|**HPointLoc: Point-based Indoor Place Recognition using Synthetic RGB-D Images**|Dmitry Yudin et.al.|[2212.14649v1](http://arxiv.org/abs/2212.14649v1)|**[link](https://github.com/metra4ok/hpointloc)**|
@@ -895,6 +895,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-13**|**Are Semi-Dense Detector-Free Methods Good at Matching Local Features?**|Matthieu Vilain et.al.|[2402.08671v1](http://arxiv.org/abs/2402.08671v1)|null|
+|**2024-02-13**|**Learning to Produce Semi-dense Correspondences for Visual Localization**|Khang Truong Giang et.al.|[2402.08359v1](http://arxiv.org/abs/2402.08359v1)|**[link](https://github.com/truongkhang/deviloc)**|
 |**2024-01-24**|**Linear Relative Pose Estimation Founded on Pose-only Imaging Geometry**|Qi Cai et.al.|[2401.13357v1](http://arxiv.org/abs/2401.13357v1)|null|
 |**2024-01-18**|**Question-Answer Cross Language Image Matching for Weakly Supervised Semantic Segmentation**|Songhe Deng et.al.|[2401.09883v1](http://arxiv.org/abs/2401.09883v1)|**[link](https://github.com/cvi-szu/qa-clims)**|
 |**2024-01-26**|**RomniStereo: Recurrent Omnidirectional Stereo Matching**|Hualie Jiang et.al.|[2401.04345v2](http://arxiv.org/abs/2401.04345v2)|**[link](https://github.com/halleyjiang/romnistereo)**|
@@ -903,8 +905,6 @@
 |**2024-01-03**|**A Transformer-Based Adaptive Semantic Aggregation Method for UAV Visual Geo-Localization**|Shishen Li et.al.|[2401.01574v1](http://arxiv.org/abs/2401.01574v1)|null|
 |**2023-12-23**|**BEV-CV: Birds-Eye-View Transform for Cross-View Geo-Localisation**|Tavis Shore et.al.|[2312.15363v1](http://arxiv.org/abs/2312.15363v1)|null|
 |**2023-12-22**|**Harnessing Diffusion Models for Visual Perception with Meta Prompts**|Qiang Wan et.al.|[2312.14733v1](http://arxiv.org/abs/2312.14733v1)|**[link](https://github.com/fudan-zvg/meta-prompts)**|
-|**2024-01-05**|**MatchDet: A Collaborative Framework for Image Matching and Object Detection**|Jinxiang Lai et.al.|[2312.10983v2](http://arxiv.org/abs/2312.10983v2)|null|
-|**2023-12-07**|**Visual Geometry Grounded Deep Structure From Motion**|Jianyuan Wang et.al.|[2312.04563v1](http://arxiv.org/abs/2312.04563v1)|null|
 |**2022-12-31**|**Translating Text Synopses to Video Storyboards**|Xu Gu et.al.|[2301.00135v1](http://arxiv.org/abs/2301.00135v1)|null|
 |**2022-12-23**|**SuperGF: Unifying Local and Global Features for Visual Localization**|Wenzheng Song et.al.|[2212.13105v1](http://arxiv.org/abs/2212.13105v1)|null|
 |**2022-12-26**|**Transformer and GAN Based Super-Resolution Reconstruction Network for Medical Images**|Weizhi Du et.al.|[2212.13068v1](http://arxiv.org/abs/2212.13068v1)|null|
@@ -1006,6 +1006,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-13**|**NeRF Analogies: Example-Based Visual Attribute Transfer for NeRFs**|Michael Fischer et.al.|[2402.08622v1](http://arxiv.org/abs/2402.08622v1)|null|
+|**2024-02-13**|**H2O-SDF: Two-phase Learning for 3D Indoor Reconstruction using Object Surface Fields**|Minyoung Park et.al.|[2402.08138v1](http://arxiv.org/abs/2402.08138v1)|null|
 |**2024-02-12**|**DeformNet: Latent Space Modeling and Dynamics Prediction for Deformable Object Manipulation**|Chenchang Li et.al.|[2402.07648v1](http://arxiv.org/abs/2402.07648v1)|null|
 |**2024-02-11**|**BioNeRF: Biologically Plausible Neural Radiance Fields for View Synthesis**|Leandro A. Passos et.al.|[2402.07310v1](http://arxiv.org/abs/2402.07310v1)|null|
 |**2024-02-11**|**3D Gaussian as a New Vision Era: A Survey**|Ben Fei et.al.|[2402.07181v1](http://arxiv.org/abs/2402.07181v1)|null|
@@ -1014,8 +1016,6 @@
 |**2024-02-07**|**OV-NeRF: Open-vocabulary Neural Radiance Fields with Vision and Language Foundation Models for 3D Semantic Understanding**|Guibiao Liao et.al.|[2402.04648v1](http://arxiv.org/abs/2402.04648v1)|null|
 |**2024-02-11**|**BirdNeRF: Fast Neural Reconstruction of Large-Scale Scenes From Aerial Imagery**|Huiqing Zhang et.al.|[2402.04554v2](http://arxiv.org/abs/2402.04554v2)|null|
 |**2024-02-06**|**Improved Generalization of Weight Space Networks via Augmentations**|Aviv Shamsian et.al.|[2402.04081v1](http://arxiv.org/abs/2402.04081v1)|null|
-|**2024-02-05**|**ViewFusion: Learning Composable Diffusion Models for Novel View Synthesis**|Bernard Spiegl et.al.|[2402.02906v1](http://arxiv.org/abs/2402.02906v1)|**[link](https://github.com/bronemos/view-fusion)**|
-|**2024-02-02**|**ConRF: Zero-shot Stylization of 3D Scenes with Conditioned Radiation Fields**|Xingyu Miao et.al.|[2402.01950v1](http://arxiv.org/abs/2402.01950v1)|**[link](https://github.com/xingy038/conrf)**|
 |**2023-01-03**|**Class-Continuous Conditional Generative Neural Radiance Field**|Jiwook Kim et.al.|[2301.00950v1](http://arxiv.org/abs/2301.00950v1)|**[link](https://github.com/tom919654/C3G-NeRF)**|
 |**2023-01-01**|**Detachable Novel Views Synthesis of Dynamic Scenes Using Distribution-Driven Neural Radiance Fields**|Boyu Zhang et.al.|[2301.00411v1](http://arxiv.org/abs/2301.00411v1)|**[link](https://github.com/luciferbobo/d4nerf)**|
 |**2022-12-26**|**MonoNeRF: Learning a Generalizable Dynamic Radiance Field from Monocular Videos**|Fengrui Tian et.al.|[2212.13056v1](http://arxiv.org/abs/2212.13056v1)|**[link](https://github.com/tianfr/mononerf)**|
