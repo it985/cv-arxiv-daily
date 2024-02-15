@@ -21,6 +21,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-14**|**RB5 Low-Cost Explorer: Implementing Autonomous Long-Term Exploration on Low-Cost Robotic Hardware**|Adam Seewald et.al.|[2402.08897v1](http://arxiv.org/abs/2402.08897v1)|**[link](https://github.com/adamseew/rb5)**|
+|**2024-02-13**|**An Embarrassingly Simple Approach for LLM with Strong ASR Capacity**|Ziyang Ma et.al.|[2402.08846v1](http://arxiv.org/abs/2402.08846v1)|null|
 |**2024-02-12**|**Customizable Perturbation Synthesis for Robust SLAM Benchmarking**|Xiaohao Xu et.al.|[2402.08125v1](http://arxiv.org/abs/2402.08125v1)|**[link](https://github.com/xiaohao-xu/slam-under-perturbation)**|
 |**2024-02-12**|**UAV-assisted Visual SLAM Generating Reconstructed 3D Scene Graphs in GPS-denied Environments**|Ahmed Radwan et.al.|[2402.07537v1](http://arxiv.org/abs/2402.07537v1)|null|
 |**2024-02-12**|**Particle Filter SLAM for Vehicle Localization**|Tianrui Liu et.al.|[2402.07429v1](http://arxiv.org/abs/2402.07429v1)|null|
@@ -29,8 +31,6 @@
 |**2024-02-07**|**Efficient Invariant Kalman Filter for Inertial-based Odometry with Large-sample Environmental Measurements**|Xinghan Li et.al.|[2402.05003v1](http://arxiv.org/abs/2402.05003v1)|null|
 |**2024-02-06**|**YOLOPoint Joint Keypoint and Object Detection**|Anton Backhaus et.al.|[2402.03989v1](http://arxiv.org/abs/2402.03989v1)|**[link](https://github.com/unibwtas/yolopoint)**|
 |**2024-02-09**|**MoD-SLAM: Monocular Dense Mapping for Unbounded 3D Scene Reconstruction**|Heng Zhou et.al.|[2402.03762v2](http://arxiv.org/abs/2402.03762v2)|null|
-|**2024-02-05**|**SGS-SLAM: Semantic Gaussian Splatting For Neural Dense SLAM**|Mingrui Li et.al.|[2402.03246v1](http://arxiv.org/abs/2402.03246v1)|null|
-|**2024-02-03**|**Simultaneous Calibration and Navigation (SCAN) of Multiple Ultrasonic Local Positioning Systems**|David Gualda et.al.|[2402.02241v1](http://arxiv.org/abs/2402.02241v1)|null|
 |**2022-12-31**|**4Seasons: Benchmarking Visual SLAM and Long-Term Localization for Autonomous Driving in Challenging Conditions**|Patrick Wenzel et.al.|[2301.01147v1](http://arxiv.org/abs/2301.01147v1)|null|
 |**2023-01-03**|**BS3D: Building-scale 3D Reconstruction from RGB-D Images**|Janne Mustaniemi et.al.|[2301.01057v1](http://arxiv.org/abs/2301.01057v1)|null|
 |**2023-01-02**|**An Event-based Algorithm for Simultaneous 6-DOF Camera Pose Tracking and Mapping**|Masoud Dayani Najafabadi et.al.|[2301.00618v1](http://arxiv.org/abs/2301.00618v1)|null|
@@ -481,6 +481,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-14**|**Weatherproofing Retrieval for Localization with Generative AI and Geometric Consistency**|Yannis Kalantidis et.al.|[2402.09237v1](http://arxiv.org/abs/2402.09237v1)|null|
 |**2024-02-13**|**Agent Smith: A Single Image Can Jailbreak One Million Multimodal LLM Agents Exponentially Fast**|Xiangming Gu et.al.|[2402.08567v1](http://arxiv.org/abs/2402.08567v1)|**[link](https://github.com/sail-sg/agent-smith)**|
 |**2024-02-13**|**Learning to Produce Semi-dense Correspondences for Visual Localization**|Khang Truong Giang et.al.|[2402.08359v1](http://arxiv.org/abs/2402.08359v1)|**[link](https://github.com/truongkhang/deviloc)**|
 |**2024-02-10**|**Semantic Object-level Modeling for Robust Visual Camera Relocalization**|Yifan Zhu et.al.|[2402.06951v1](http://arxiv.org/abs/2402.06951v1)|null|
@@ -490,7 +491,6 @@
 |**2024-02-04**|**Region-Based Representations Revisited**|Michal Shlapentokh-Rothman et.al.|[2402.02352v1](http://arxiv.org/abs/2402.02352v1)|null|
 |**2024-02-03**|**Zero-shot sketch-based remote sensing image retrieval based on multi-level and attention-guided tokenization**|Bo Yang et.al.|[2402.02141v1](http://arxiv.org/abs/2402.02141v1)|null|
 |**2024-02-01**|**BrainSLAM: SLAM on Neural Population Activity Data**|Kipp Freud et.al.|[2402.00588v1](http://arxiv.org/abs/2402.00588v1)|null|
-|**2024-02-01**|**Night-Rider: Nocturnal Vision-aided Localization in Streetlight Maps Using Invariant Extended Kalman Filtering**|Tianxiao Gao et.al.|[2402.00330v1](http://arxiv.org/abs/2402.00330v1)|**[link](https://github.com/imrl/night-rider)**|
 |**2023-01-05**|**A Probabilistic Framework for Visual Localization in Ambiguous Scenes**|Fereidoon Zangeneh et.al.|[2301.02086v1](http://arxiv.org/abs/2301.02086v1)|**[link](https://github.com/efreidun/vapor)**|
 |**2022-12-31**|**4Seasons: Benchmarking Visual SLAM and Long-Term Localization for Autonomous Driving in Challenging Conditions**|Patrick Wenzel et.al.|[2301.01147v1](http://arxiv.org/abs/2301.01147v1)|null|
 |**2022-12-30**|**HPointLoc: Point-based Indoor Place Recognition using Synthetic RGB-D Images**|Dmitry Yudin et.al.|[2212.14649v1](http://arxiv.org/abs/2212.14649v1)|**[link](https://github.com/metra4ok/hpointloc)**|
@@ -1006,6 +1006,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-14**|**PC-NeRF: Parent-Child Neural Radiance Fields Using Sparse LiDAR Frames in Autonomous Driving Environments**|Xiuzhong Hu et.al.|[2402.09325v1](http://arxiv.org/abs/2402.09325v1)|**[link](https://github.com/biter0088/pc-nerf)**|
+|**2024-02-13**|**Preconditioners for the Stochastic Training of Implicit Neural Representations**|Shin-Fang Chng et.al.|[2402.08784v1](http://arxiv.org/abs/2402.08784v1)|null|
 |**2024-02-13**|**NeRF Analogies: Example-Based Visual Attribute Transfer for NeRFs**|Michael Fischer et.al.|[2402.08622v1](http://arxiv.org/abs/2402.08622v1)|null|
 |**2024-02-13**|**H2O-SDF: Two-phase Learning for 3D Indoor Reconstruction using Object Surface Fields**|Minyoung Park et.al.|[2402.08138v1](http://arxiv.org/abs/2402.08138v1)|null|
 |**2024-02-12**|**DeformNet: Latent Space Modeling and Dynamics Prediction for Deformable Object Manipulation**|Chenchang Li et.al.|[2402.07648v1](http://arxiv.org/abs/2402.07648v1)|null|
@@ -1014,8 +1016,6 @@
 |**2024-02-09**|**ImplicitDeepfake: Plausible Face-Swapping through Implicit Deepfake Generation using NeRF and Gaussian Splatting**|Georgii Stanishevskii et.al.|[2402.06390v1](http://arxiv.org/abs/2402.06390v1)|**[link](https://github.com/quereste/implicit-deepfake)**|
 |**2024-02-07**|**NeRF as Non-Distant Environment Emitter in Physics-based Inverse Rendering**|Jingwang Ling et.al.|[2402.04829v1](http://arxiv.org/abs/2402.04829v1)|null|
 |**2024-02-07**|**OV-NeRF: Open-vocabulary Neural Radiance Fields with Vision and Language Foundation Models for 3D Semantic Understanding**|Guibiao Liao et.al.|[2402.04648v1](http://arxiv.org/abs/2402.04648v1)|null|
-|**2024-02-11**|**BirdNeRF: Fast Neural Reconstruction of Large-Scale Scenes From Aerial Imagery**|Huiqing Zhang et.al.|[2402.04554v2](http://arxiv.org/abs/2402.04554v2)|null|
-|**2024-02-06**|**Improved Generalization of Weight Space Networks via Augmentations**|Aviv Shamsian et.al.|[2402.04081v1](http://arxiv.org/abs/2402.04081v1)|null|
 |**2023-01-03**|**Class-Continuous Conditional Generative Neural Radiance Field**|Jiwook Kim et.al.|[2301.00950v1](http://arxiv.org/abs/2301.00950v1)|**[link](https://github.com/tom919654/C3G-NeRF)**|
 |**2023-01-01**|**Detachable Novel Views Synthesis of Dynamic Scenes Using Distribution-Driven Neural Radiance Fields**|Boyu Zhang et.al.|[2301.00411v1](http://arxiv.org/abs/2301.00411v1)|**[link](https://github.com/luciferbobo/d4nerf)**|
 |**2022-12-26**|**MonoNeRF: Learning a Generalizable Dynamic Radiance Field from Monocular Videos**|Fengrui Tian et.al.|[2212.13056v1](http://arxiv.org/abs/2212.13056v1)|**[link](https://github.com/tianfr/mononerf)**|
