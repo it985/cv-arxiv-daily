@@ -21,6 +21,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-21**|**Evaluation and Deployment of LiDAR-based Place Recognition in Dense Forests**|Haedam Oh et.al.|[2403.14326v1](http://arxiv.org/abs/2403.14326v1)|null|
+|**2024-03-21**|**Exosense: A Vision-Centric Scene Understanding System For Safe Exoskeleton Navigation**|Jianeng Wang et.al.|[2403.14320v1](http://arxiv.org/abs/2403.14320v1)|null|
 |**2024-03-20**|**Mobile Robot Localization: a Modular, Odometry-Improving Approach**|Luca Mozzarelli et.al.|[2403.13452v1](http://arxiv.org/abs/2403.13452v1)|null|
 |**2024-03-20**|**Unifying Local and Global Multimodal Features for Place Recognition in Aliased and Low-Texture Environments**|Alberto García-Hernández et.al.|[2403.13395v1](http://arxiv.org/abs/2403.13395v1)|null|
 |**2024-03-20**|**Tuning body shape and stiffness to mitigate water-entry forces**|Bart Boom et.al.|[2403.13262v1](http://arxiv.org/abs/2403.13262v1)|null|
@@ -29,8 +31,6 @@
 |**2024-03-19**|**High-Fidelity SLAM Using Gaussian Splatting with Rendering-Guided Densification and Regularized Optimization**|Shuo Sun et.al.|[2403.12535v1](http://arxiv.org/abs/2403.12535v1)|null|
 |**2024-03-18**|**DVN-SLAM: Dynamic Visual Neural SLAM Based on Local-Global Encoding**|Wenhua Wu et.al.|[2403.11776v1](http://arxiv.org/abs/2403.11776v1)|null|
 |**2024-03-18**|**NEDS-SLAM: A Novel Neural Explicit Dense Semantic SLAM Framework using 3D Gaussian Splatting**|Yiming Ji et.al.|[2403.11679v1](http://arxiv.org/abs/2403.11679v1)|null|
-|**2024-03-18**|**MCD: Diverse Large-Scale Multi-Campus Dataset for Robot Perception**|Thien-Minh Nguyen et.al.|[2403.11496v1](http://arxiv.org/abs/2403.11496v1)|null|
-|**2024-03-19**|**DynamicGlue: Epipolar and Time-Informed Data Association in Dynamic Environments using Graph Neural Networks**|Theresa Huber et.al.|[2403.11370v2](http://arxiv.org/abs/2403.11370v2)|null|
 |**2022-12-31**|**4Seasons: Benchmarking Visual SLAM and Long-Term Localization for Autonomous Driving in Challenging Conditions**|Patrick Wenzel et.al.|[2301.01147v1](http://arxiv.org/abs/2301.01147v1)|null|
 |**2023-01-03**|**BS3D: Building-scale 3D Reconstruction from RGB-D Images**|Janne Mustaniemi et.al.|[2301.01057v1](http://arxiv.org/abs/2301.01057v1)|null|
 |**2023-01-02**|**An Event-based Algorithm for Simultaneous 6-DOF Camera Pose Tracking and Mapping**|Masoud Dayani Najafabadi et.al.|[2301.00618v1](http://arxiv.org/abs/2301.00618v1)|null|
@@ -481,6 +481,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-21**|**Enhancing Historical Image Retrieval with Compositional Cues**|Tingyu Lin et.al.|[2403.14287v1](http://arxiv.org/abs/2403.14287v1)|**[link](https://github.com/linty5/ccbir)**|
 |**2024-03-20**|**Leveraging High-Resolution Features for Improved Deep Hashing-based Image Retrieval**|Aymene Berriche et.al.|[2403.13747v1](http://arxiv.org/abs/2403.13747v1)|null|
 |**2024-03-20**|**Flickr30K-CFQ: A Compact and Fragmented Query Dataset for Text-image Retrieval**|Haoyu Liu et.al.|[2403.13317v1](http://arxiv.org/abs/2403.13317v1)|null|
 |**2024-03-19**|**Learning Neural Volumetric Pose Features for Camera Localization**|Jingyu Lin et.al.|[2403.12800v1](http://arxiv.org/abs/2403.12800v1)|null|
@@ -490,7 +491,6 @@
 |**2024-03-16**|**Refining Knowledge Transfer on Audio-Image Temporal Agreement for Audio-Text Cross Retrieval**|Shunsuke Tsubaki et.al.|[2403.10756v1](http://arxiv.org/abs/2403.10756v1)|null|
 |**2024-03-16**|**Vector search with small radiuses**|Gergely Szilvasy et.al.|[2403.10746v1](http://arxiv.org/abs/2403.10746v1)|null|
 |**2024-03-20**|**Leveraging Neural Radiance Field in Descriptor Synthesis for Keypoints Scene Coordinate Regression**|Huy-Hoang Bui et.al.|[2403.10297v2](http://arxiv.org/abs/2403.10297v2)|**[link](https://github.com/ais-lab/descriptorsynthesis4feat2map)**|
-|**2024-03-15**|**Local positional graphs and attentive local features for a data and runtime-efficient hierarchical place recognition pipeline**|Fangming Yuan et.al.|[2403.10283v1](http://arxiv.org/abs/2403.10283v1)|null|
 |**2023-01-05**|**A Probabilistic Framework for Visual Localization in Ambiguous Scenes**|Fereidoon Zangeneh et.al.|[2301.02086v1](http://arxiv.org/abs/2301.02086v1)|**[link](https://github.com/efreidun/vapor)**|
 |**2022-12-31**|**4Seasons: Benchmarking Visual SLAM and Long-Term Localization for Autonomous Driving in Challenging Conditions**|Patrick Wenzel et.al.|[2301.01147v1](http://arxiv.org/abs/2301.01147v1)|null|
 |**2022-12-30**|**HPointLoc: Point-based Indoor Place Recognition using Synthetic RGB-D Images**|Dmitry Yudin et.al.|[2212.14649v1](http://arxiv.org/abs/2212.14649v1)|**[link](https://github.com/metra4ok/hpointloc)**|
@@ -1006,16 +1006,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-21**|**ClusteringSDF: Self-Organized Neural Implicit Surfaces for 3D Decomposition**|Tianhao Wu et.al.|[2403.14619v1](http://arxiv.org/abs/2403.14619v1)|null|
+|**2024-03-21**|**CombiNeRF: A Combination of Regularization Techniques for Few-Shot Neural Radiance Field View Synthesis**|Matteo Bonotto et.al.|[2403.14412v1](http://arxiv.org/abs/2403.14412v1)|**[link](https://github.com/sarroccoluigi/combinerf)**|
+|**2024-03-21**|**InfNeRF: Towards Infinite Scale NeRF Rendering with O(log n) Space Complexity**|Jiabin Liang et.al.|[2403.14376v1](http://arxiv.org/abs/2403.14376v1)|null|
+|**2024-03-21**|**Leveraging Thermal Modality to Enhance Reconstruction in Low-Light Conditions**|Jiacong Xu et.al.|[2403.14053v1](http://arxiv.org/abs/2403.14053v1)|null|
 |**2024-03-20**|**MULAN-WC: Multi-Robot Localization Uncertainty-aware Active NeRF with Wireless Coordination**|Weiying Wang et.al.|[2403.13348v1](http://arxiv.org/abs/2403.13348v1)|null|
 |**2024-03-19**|**Depth-guided NeRF Training via Earth Mover's Distance**|Anita Rau et.al.|[2403.13206v1](http://arxiv.org/abs/2403.13206v1)|null|
 |**2024-03-19**|**DecentNeRFs: Decentralized Neural Radiance Fields from Crowdsourced Images**|Zaid Tasneem et.al.|[2403.13199v1](http://arxiv.org/abs/2403.13199v1)|null|
 |**2024-03-19**|**Global-guided Focal Neural Radiance Field for Large-scale Scene Rendering**|Mingqi Shao et.al.|[2403.12839v1](http://arxiv.org/abs/2403.12839v1)|null|
 |**2024-03-19**|**Learning Neural Volumetric Pose Features for Camera Localization**|Jingyu Lin et.al.|[2403.12800v1](http://arxiv.org/abs/2403.12800v1)|null|
 |**2024-03-19**|**IFFNeRF: Initialisation Free and Fast 6DoF pose estimation from a single image and a NeRF model**|Matteo Bortolon et.al.|[2403.12682v1](http://arxiv.org/abs/2403.12682v1)|null|
-|**2024-03-18**|**FLex: Joint Pose and Dynamic Radiance Fields Optimization for Stereo Endoscopic Videos**|Florian Philipp Stilz et.al.|[2403.12198v1](http://arxiv.org/abs/2403.12198v1)|null|
-|**2024-03-18**|**ThermoNeRF: Multimodal Neural Radiance Fields for Thermal Novel View Synthesis**|Mariam Hassan et.al.|[2403.12154v1](http://arxiv.org/abs/2403.12154v1)|**[link](https://github.com/schindlerepfl/thermo-nerf)**|
-|**2024-03-18**|**RoGUENeRF: A Robust Geometry-Consistent Universal Enhancer for NeRF**|Sibi Catley-Chandar et.al.|[2403.11909v1](http://arxiv.org/abs/2403.11909v1)|null|
-|**2024-03-18**|**GNeRP: Gaussian-guided Neural Reconstruction of Reflective Objects with Noisy Polarization Priors**|LI Yang et.al.|[2403.11899v1](http://arxiv.org/abs/2403.11899v1)|null|
 |**2023-01-03**|**Class-Continuous Conditional Generative Neural Radiance Field**|Jiwook Kim et.al.|[2301.00950v1](http://arxiv.org/abs/2301.00950v1)|**[link](https://github.com/tom919654/C3G-NeRF)**|
 |**2023-01-01**|**Detachable Novel Views Synthesis of Dynamic Scenes Using Distribution-Driven Neural Radiance Fields**|Boyu Zhang et.al.|[2301.00411v1](http://arxiv.org/abs/2301.00411v1)|**[link](https://github.com/luciferbobo/d4nerf)**|
 |**2022-12-26**|**MonoNeRF: Learning a Generalizable Dynamic Radiance Field from Monocular Videos**|Fengrui Tian et.al.|[2212.13056v1](http://arxiv.org/abs/2212.13056v1)|**[link](https://github.com/tianfr/mononerf)**|
