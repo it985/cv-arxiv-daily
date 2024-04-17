@@ -21,16 +21,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-16**|**Robust Snapshot Radio SLAM**|Ossi Kaltiokallio et.al.|[2404.10291v1](http://arxiv.org/abs/2404.10291v1)|null|
+|**2024-04-15**|**A Probabilistic-based Drift Correction Module for Visual Inertial SLAMs**|Pouyan Navard et.al.|[2404.10140v1](http://arxiv.org/abs/2404.10140v1)|null|
+|**2024-04-15**|**Hilti SLAM Challenge 2023: Benchmarking Single + Multi-session SLAM across Sensor Constellations in Construction**|Ashish Devadas Nair et.al.|[2404.09765v1](http://arxiv.org/abs/2404.09765v1)|null|
 |**2024-04-15**|**DIDLM:A Comprehensive Multi-Sensor Dataset with Infrared Cameras, Depth Cameras, LiDAR, and 4D Millimeter-Wave Radar in Challenging Scenarios for 3D Mapping**|WeiSheng Gong et.al.|[2404.09622v1](http://arxiv.org/abs/2404.09622v1)|null|
 |**2024-04-14**|**Increasing SLAM Pose Accuracy by Ground-to-Satellite Image Registration**|Yanhao Zhang et.al.|[2404.09169v1](http://arxiv.org/abs/2404.09169v1)|null|
 |**2024-04-12**|**FusionPortableV2: A Unified Multi-Sensor Dataset for Generalized SLAM Across Diverse Platforms and Scalable Environments**|Hexiang Wei et.al.|[2404.08563v1](http://arxiv.org/abs/2404.08563v1)|null|
 |**2024-04-16**|**2DLIW-SLAM:2D LiDAR-Inertial-Wheel Odometry with Real-Time Loop Closure**|Bin Zhang et.al.|[2404.07644v4](http://arxiv.org/abs/2404.07644v4)|**[link](https://github.com/littledang/2dliw-slam)**|
 |**2024-04-10**|**Gaussian-LIC: Photo-realistic LiDAR-Inertial-Camera SLAM with 3D Gaussian Splatting**|Xiaolei Lang et.al.|[2404.06926v1](http://arxiv.org/abs/2404.06926v1)|null|
-|**2024-04-10**|**Deep Generative Data Assimilation in Multimodal Setting**|Yongquan Qu et.al.|[2404.06665v1](http://arxiv.org/abs/2404.06665v1)|**[link](https://github.com/yongquan-qu/slams)**|
+|**2024-04-16**|**Deep Generative Data Assimilation in Multimodal Setting**|Yongquan Qu et.al.|[2404.06665v2](http://arxiv.org/abs/2404.06665v2)|**[link](https://github.com/yongquan-qu/slams)**|
 |**2024-04-06**|**Automated Lane Change Behavior Prediction and Environmental Perception Based on SLAM Technology**|Han Lei et.al.|[2404.04492v1](http://arxiv.org/abs/2404.04492v1)|null|
-|**2024-04-05**|**LOSS-SLAM: Lightweight Open-Set Semantic Simultaneous Localization and Mapping**|Kurran Singh et.al.|[2404.04377v1](http://arxiv.org/abs/2404.04377v1)|null|
-|**2024-04-05**|**Towards introspective loop closure in 4D radar SLAM**|Maximilian Hilger et.al.|[2404.03940v1](http://arxiv.org/abs/2404.03940v1)|null|
-|**2024-04-03**|**Language, Environment, and Robotic Navigation**|Johnathan E. Avery et.al.|[2404.03049v1](http://arxiv.org/abs/2404.03049v1)|null|
 |**2022-12-31**|**4Seasons: Benchmarking Visual SLAM and Long-Term Localization for Autonomous Driving in Challenging Conditions**|Patrick Wenzel et.al.|[2301.01147v1](http://arxiv.org/abs/2301.01147v1)|null|
 |**2023-01-03**|**BS3D: Building-scale 3D Reconstruction from RGB-D Images**|Janne Mustaniemi et.al.|[2301.01057v1](http://arxiv.org/abs/2301.01057v1)|null|
 |**2023-01-02**|**An Event-based Algorithm for Simultaneous 6-DOF Camera Pose Tracking and Mapping**|Masoud Dayani Najafabadi et.al.|[2301.00618v1](http://arxiv.org/abs/2301.00618v1)|null|
@@ -481,6 +481,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-16**|**SPVLoc: Semantic Panoramic Viewport Matching for 6D Camera Localization in Unseen Environments**|Niklas Gard et.al.|[2404.10527v1](http://arxiv.org/abs/2404.10527v1)|null|
 |**2024-04-16**|**CREST: Cross-modal Resonance through Evidential Deep Learning for Enhanced Zero-Shot Learning**|Haojian Huang et.al.|[2404.09640v2](http://arxiv.org/abs/2404.09640v2)|**[link](https://github.com/JethroJames/CREST)**|
 |**2024-04-11**|**PRAM: Place Recognition Anywhere Model for Efficient Visual Localization**|Fei Xue et.al.|[2404.07785v1](http://arxiv.org/abs/2404.07785v1)|null|
 |**2024-04-16**|**2DLIW-SLAM:2D LiDAR-Inertial-Wheel Odometry with Real-Time Loop Closure**|Bin Zhang et.al.|[2404.07644v4](http://arxiv.org/abs/2404.07644v4)|**[link](https://github.com/littledang/2dliw-slam)**|
@@ -490,7 +491,6 @@
 |**2024-04-07**|**Weakly Supervised Deep Hyperspherical Quantization for Image Retrieval**|Jinpeng Wang et.al.|[2404.04998v1](http://arxiv.org/abs/2404.04998v1)|**[link](https://github.com/gimpong/AAAI21-WSDHQ)**|
 |**2024-04-06**|**Soft-Prompting with Graph-of-Thought for Multi-modal Representation Learning**|Juncheng Yang et.al.|[2404.04538v1](http://arxiv.org/abs/2404.04538v1)|null|
 |**2024-04-05**|**Towards introspective loop closure in 4D radar SLAM**|Maximilian Hilger et.al.|[2404.03940v1](http://arxiv.org/abs/2404.03940v1)|null|
-|**2024-04-02**|**TSCM: A Teacher-Student Model for Vision Place Recognition Using Cross-Metric Knowledge Distillation**|Yehui Shen et.al.|[2404.01587v1](http://arxiv.org/abs/2404.01587v1)|**[link](https://github.com/nubot-nudt/tscm)**|
 |**2023-01-05**|**A Probabilistic Framework for Visual Localization in Ambiguous Scenes**|Fereidoon Zangeneh et.al.|[2301.02086v1](http://arxiv.org/abs/2301.02086v1)|**[link](https://github.com/efreidun/vapor)**|
 |**2022-12-31**|**4Seasons: Benchmarking Visual SLAM and Long-Term Localization for Autonomous Driving in Challenging Conditions**|Patrick Wenzel et.al.|[2301.01147v1](http://arxiv.org/abs/2301.01147v1)|null|
 |**2022-12-30**|**HPointLoc: Point-based Indoor Place Recognition using Synthetic RGB-D Images**|Dmitry Yudin et.al.|[2212.14649v1](http://arxiv.org/abs/2212.14649v1)|**[link](https://github.com/metra4ok/hpointloc)**|
@@ -895,6 +895,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-16**|**Exploring selective image matching methods for zero-shot and few-sample unsupervised domain adaptation of urban canopy prediction**|John Francis et.al.|[2404.10626v1](http://arxiv.org/abs/2404.10626v1)|null|
 |**2024-04-15**|**XoFTR: Cross-modal Feature Matching Transformer**|Önder Tuzcuoğlu et.al.|[2404.09692v1](http://arxiv.org/abs/2404.09692v1)|null|
 |**2024-04-13**|**DeDoDe v2: Analyzing and Improving the DeDoDe Keypoint Detector**|Johan Edstedt et.al.|[2404.08928v1](http://arxiv.org/abs/2404.08928v1)|**[link](https://github.com/parskatt/dedode)**|
 |**2024-04-09**|**Matching 2D Images in 3D: Metric Relative Pose from Metric Correspondences**|Axel Barroso-Laguna et.al.|[2404.06337v1](http://arxiv.org/abs/2404.06337v1)|**[link](https://github.com/nianticlabs/mickey)**|
@@ -904,7 +905,6 @@
 |**2024-03-30**|**Image-to-Image Matching via Foundation Models: A New Perspective for Open-Vocabulary Semantic Segmentation**|Yuan Wang et.al.|[2404.00262v1](http://arxiv.org/abs/2404.00262v1)|null|
 |**2024-03-26**|**Staircase Localization for Autonomous Exploration in Urban Environments**|Jinrae Kim et.al.|[2403.17330v1](http://arxiv.org/abs/2403.17330v1)|null|
 |**2024-03-23**|**MatchSeg: Towards Better Segmentation via Reference Image Matching**|Ruiqiang Xiao et.al.|[2403.15901v1](http://arxiv.org/abs/2403.15901v1)|**[link](https://github.com/keeplearning-again/matchseg)**|
-|**2024-03-19**|**HCPM: Hierarchical Candidates Pruning for Efficient Detector-Free Matching**|Ying Chen et.al.|[2403.12543v1](http://arxiv.org/abs/2403.12543v1)|null|
 |**2022-12-31**|**Translating Text Synopses to Video Storyboards**|Xu Gu et.al.|[2301.00135v1](http://arxiv.org/abs/2301.00135v1)|null|
 |**2022-12-23**|**SuperGF: Unifying Local and Global Features for Visual Localization**|Wenzheng Song et.al.|[2212.13105v1](http://arxiv.org/abs/2212.13105v1)|null|
 |**2022-12-26**|**Transformer and GAN Based Super-Resolution Reconstruction Network for Medical Images**|Weizhi Du et.al.|[2212.13068v1](http://arxiv.org/abs/2212.13068v1)|null|
@@ -1006,16 +1006,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-16**|**Gaussian Splatting Decoder for 3D-aware Generative Adversarial Networks**|Florian Barthel et.al.|[2404.10625v1](http://arxiv.org/abs/2404.10625v1)|null|
+|**2024-04-16**|**Enhancing 3D Fidelity of Text-to-3D using Cross-View Correspondences**|Seungwook Kim et.al.|[2404.10603v1](http://arxiv.org/abs/2404.10603v1)|null|
+|**2024-04-16**|**1st Place Solution for ICCV 2023 OmniObject3D Challenge: Sparse-View Reconstruction**|Hang Du et.al.|[2404.10441v1](http://arxiv.org/abs/2404.10441v1)|null|
+|**2024-04-16**|**SRGS: Super-Resolution 3D Gaussian Splatting**|Xiang Feng et.al.|[2404.10318v1](http://arxiv.org/abs/2404.10318v1)|null|
+|**2024-04-16**|**Plug-and-Play Acceleration of Occupancy Grid-based NeRF Rendering using VDB Grid and Hierarchical Ray Traversal**|Yoshio Kato et.al.|[2404.10272v1](http://arxiv.org/abs/2404.10272v1)|**[link](https://github.com/yosshi999/faster-occgrid)**|
+|**2024-04-15**|**Taming Latent Diffusion Model for Neural Radiance Field Inpainting**|Chieh Hubert Lin et.al.|[2404.09995v1](http://arxiv.org/abs/2404.09995v1)|null|
+|**2024-04-15**|**Video2Game: Real-time, Interactive, Realistic and Browser-Compatible Environment from a Single Video**|Hongchi Xia et.al.|[2404.09833v1](http://arxiv.org/abs/2404.09833v1)|null|
 |**2024-04-15**|**DeferredGS: Decoupled and Editable Gaussian Splatting with Deferred Shading**|Tong Wu et.al.|[2404.09412v1](http://arxiv.org/abs/2404.09412v1)|null|
 |**2024-04-14**|**VRS-NeRF: Visual Relocalization with Sparse Neural Radiance Field**|Fei Xue et.al.|[2404.09271v1](http://arxiv.org/abs/2404.09271v1)|**[link](https://github.com/feixue94/vrs-nerf)**|
 |**2024-04-15**|**OccGaussian: 3D Gaussian Splatting for Occluded Human Rendering**|Jingrui Ye et.al.|[2404.08449v2](http://arxiv.org/abs/2404.08449v2)|null|
-|**2024-04-12**|**GPN: Generative Point-based NeRF**|Haipeng Wang et.al.|[2404.08312v1](http://arxiv.org/abs/2404.08312v1)|**[link](https://github.com/forestsen/GPN)**|
-|**2024-04-12**|**MonoPatchNeRF: Improving Neural Radiance Fields with Patch-based Monocular Guidance**|Yuqun Wu et.al.|[2404.08252v1](http://arxiv.org/abs/2404.08252v1)|null|
-|**2024-04-11**|**Connecting NeRFs, Images, and Text**|Francesco Ballerini et.al.|[2404.07993v1](http://arxiv.org/abs/2404.07993v1)|null|
-|**2024-04-11**|**Boosting Self-Supervision for Single-View Scene Completion via Knowledge Distillation**|Keonhee Han et.al.|[2404.07933v1](http://arxiv.org/abs/2404.07933v1)|**[link](https://github.com/keonhee-han/KDBTS)**|
-|**2024-04-12**|**NeuroNCAP: Photorealistic Closed-loop Safety Testing for Autonomous Driving**|William Ljungbergh et.al.|[2404.07762v2](http://arxiv.org/abs/2404.07762v2)|**[link](https://github.com/wljungbergh/neuroncap)**|
-|**2024-04-11**|**G-NeRF: Geometry-enhanced Novel View Synthesis from Single-View Images**|Zixiong Huang et.al.|[2404.07474v1](http://arxiv.org/abs/2404.07474v1)|**[link](https://github.com/llrtt/G-NeRF)**|
-|**2024-04-10**|**SplatPose & Detect: Pose-Agnostic 3D Anomaly Detection**|Mathis Kruse et.al.|[2404.06832v1](http://arxiv.org/abs/2404.06832v1)|**[link](https://github.com/m-kruse98/splatpose)**|
 |**2023-01-03**|**Class-Continuous Conditional Generative Neural Radiance Field**|Jiwook Kim et.al.|[2301.00950v1](http://arxiv.org/abs/2301.00950v1)|**[link](https://github.com/tom919654/C3G-NeRF)**|
 |**2023-01-01**|**Detachable Novel Views Synthesis of Dynamic Scenes Using Distribution-Driven Neural Radiance Fields**|Boyu Zhang et.al.|[2301.00411v1](http://arxiv.org/abs/2301.00411v1)|**[link](https://github.com/luciferbobo/d4nerf)**|
 |**2022-12-26**|**MonoNeRF: Learning a Generalizable Dynamic Radiance Field from Monocular Videos**|Fengrui Tian et.al.|[2212.13056v1](http://arxiv.org/abs/2212.13056v1)|**[link](https://github.com/tianfr/mononerf)**|
