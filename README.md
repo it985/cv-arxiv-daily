@@ -481,6 +481,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-16**|**FFF: Fixing Flawed Foundations in contrastive pre-training results in very strong Vision-Language models**|Adrian Bulat et.al.|[2405.10286v1](http://arxiv.org/abs/2405.10286v1)|null|
 |**2024-05-15**|**Content-Based Image Retrieval for Multi-Class Volumetric Radiology Images: A Benchmark Study**|Farnaz Khun Jush et.al.|[2405.09334v1](http://arxiv.org/abs/2405.09334v1)|null|
 |**2024-05-14**|**BEVRender: Vision-based Cross-view Vehicle Registration in Off-road GNSS-denied Environment**|Lihong Jin et.al.|[2405.09001v1](http://arxiv.org/abs/2405.09001v1)|null|
 |**2024-05-14**|**TP3M: Transformer-based Pseudo 3D Image Matching with Reference**|Liming Han et.al.|[2405.08434v1](http://arxiv.org/abs/2405.08434v1)|null|
@@ -490,7 +491,6 @@
 |**2024-05-12**|**BoQ: A Place is Worth a Bag of Learnable Queries**|Amar Ali-bey et.al.|[2405.07364v1](http://arxiv.org/abs/2405.07364v1)|**[link](https://github.com/amaralibey/bag-of-queries)**|
 |**2024-05-07**|**Breast Histopathology Image Retrieval by Attention-based Adversarially Regularized Variational Graph Autoencoder with Contrastive Learning-Based Feature Extraction**|Nematollah Saeidi et.al.|[2405.04211v1](http://arxiv.org/abs/2405.04211v1)|null|
 |**2024-05-06**|**A New Robust Partial $p$ -Wasserstein-Based Metric for Comparing Distributions**|Sharath Raghvendra et.al.|[2405.03664v1](http://arxiv.org/abs/2405.03664v1)|null|
-|**2024-05-06**|**Knowledge-aware Text-Image Retrieval for Remote Sensing Images**|Li Mi et.al.|[2405.03373v1](http://arxiv.org/abs/2405.03373v1)|null|
 |**2023-01-05**|**A Probabilistic Framework for Visual Localization in Ambiguous Scenes**|Fereidoon Zangeneh et.al.|[2301.02086v1](http://arxiv.org/abs/2301.02086v1)|**[link](https://github.com/efreidun/vapor)**|
 |**2022-12-31**|**4Seasons: Benchmarking Visual SLAM and Long-Term Localization for Autonomous Driving in Challenging Conditions**|Patrick Wenzel et.al.|[2301.01147v1](http://arxiv.org/abs/2301.01147v1)|null|
 |**2022-12-30**|**HPointLoc: Point-based Indoor Place Recognition using Synthetic RGB-D Images**|Dmitry Yudin et.al.|[2212.14649v1](http://arxiv.org/abs/2212.14649v1)|**[link](https://github.com/metra4ok/hpointloc)**|
@@ -1006,6 +1006,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-16**|**When LLMs step into the 3D World: A Survey and Meta-Analysis of 3D Tasks via Multi-modal Large Language Models**|Xianzheng Ma et.al.|[2405.10255v1](http://arxiv.org/abs/2405.10255v1)|null|
+|**2024-05-15**|**From NeRFs to Gaussian Splats, and Back**|Siming He et.al.|[2405.09717v1](http://arxiv.org/abs/2405.09717v1)|**[link](https://github.com/grasp-lyrl/nerftogsandback)**|
 |**2024-05-14**|**Dynamic NeRF: A Review**|Jinwei Lin et.al.|[2405.08609v1](http://arxiv.org/abs/2405.08609v1)|null|
 |**2024-05-13**|**Synergistic Integration of Coordinate Network and Tensorial Feature for Improving Neural Radiance Fields from Sparse Inputs**|Mingyu Kim et.al.|[2405.07857v1](http://arxiv.org/abs/2405.07857v1)|**[link](https://github.com/mingyukim87/synergynerf)**|
 |**2024-05-12**|**Point Resampling and Ray Transformation Aid to Editable NeRF Models**|Zhenyang Li et.al.|[2405.07306v1](http://arxiv.org/abs/2405.07306v1)|null|
@@ -1014,8 +1016,6 @@
 |**2024-05-10**|**LIVE: LaTex Interactive Visual Editing**|Jinwei Lin et.al.|[2405.06762v1](http://arxiv.org/abs/2405.06762v1)|null|
 |**2024-05-14**|**SketchDream: Sketch-based Text-to-3D Generation and Editing**|Feng-Lin Liu et.al.|[2405.06461v2](http://arxiv.org/abs/2405.06461v2)|null|
 |**2024-05-10**|**Aerial-NeRF: Adaptive Spatial Partitioning and Sampling for Large-Scale Aerial Rendering**|Xiaohan Zhang et.al.|[2405.06214v1](http://arxiv.org/abs/2405.06214v1)|null|
-|**2024-05-10**|**Residual-NeRF: Learning Residual NeRFs for Transparent Object Manipulation**|Bardienus P. Duisterhof et.al.|[2405.06181v1](http://arxiv.org/abs/2405.06181v1)|null|
-|**2024-05-09**|**DragGaussian: Enabling Drag-style Manipulation on 3D Gaussian Representation**|Sitian Shen et.al.|[2405.05800v1](http://arxiv.org/abs/2405.05800v1)|null|
 |**2023-01-03**|**Class-Continuous Conditional Generative Neural Radiance Field**|Jiwook Kim et.al.|[2301.00950v1](http://arxiv.org/abs/2301.00950v1)|**[link](https://github.com/tom919654/C3G-NeRF)**|
 |**2023-01-01**|**Detachable Novel Views Synthesis of Dynamic Scenes Using Distribution-Driven Neural Radiance Fields**|Boyu Zhang et.al.|[2301.00411v1](http://arxiv.org/abs/2301.00411v1)|**[link](https://github.com/luciferbobo/d4nerf)**|
 |**2022-12-26**|**MonoNeRF: Learning a Generalizable Dynamic Radiance Field from Monocular Videos**|Fengrui Tian et.al.|[2212.13056v1](http://arxiv.org/abs/2212.13056v1)|**[link](https://github.com/tianfr/mononerf)**|
