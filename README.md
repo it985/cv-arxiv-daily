@@ -481,6 +481,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-05**|**Interactive Text-to-Image Retrieval with Large Language Models: A Plug-and-Play Approach**|Saehyung Lee et.al.|[2406.03411v1](http://arxiv.org/abs/2406.03411v1)|**[link](https://github.com/saehyung-lee/plugir)**|
+|**2024-06-04**|**MeshVPR: Citywide Visual Place Recognition Using 3D Meshes**|Gabriele Berton et.al.|[2406.02776v1](http://arxiv.org/abs/2406.02776v1)|null|
 |**2024-06-04**|**Can CLIP help CLIP in learning 3D?**|Cristian Sbrolli et.al.|[2406.02202v1](http://arxiv.org/abs/2406.02202v1)|null|
 |**2024-06-03**|**Decomposing and Interpreting Image Representations via Text in ViTs Beyond CLIP**|Sriram Balasubramanian et.al.|[2406.01583v1](http://arxiv.org/abs/2406.01583v1)|null|
 |**2024-06-03**|**Scale-Free Image Keypoints Using Differentiable Persistent Homology**|Giovanni Barbarani et.al.|[2406.01315v1](http://arxiv.org/abs/2406.01315v1)|**[link](https://github.com/gbarbarani/MorseDet)**|
@@ -489,8 +491,6 @@
 |**2024-05-31**|**DeCo: Decoupling Token Compression from Semantic Abstraction in Multimodal Large Language Models**|Linli Yao et.al.|[2405.20985v1](http://arxiv.org/abs/2405.20985v1)|null|
 |**2024-05-29**|**Multi-Modal Generative Embedding Model**|Feipeng Ma et.al.|[2405.19333v1](http://arxiv.org/abs/2405.19333v1)|null|
 |**2024-05-29**|**ContextBLIP: Doubly Contextual Alignment for Contrastive Image Retrieval from Linguistically Complex Descriptions**|Honglin Lin et.al.|[2405.19226v1](http://arxiv.org/abs/2405.19226v1)|null|
-|**2024-05-30**|**CaLa: Complementary Association Learning for Augmenting Composed Image Retrieval**|Xintong Jiang et.al.|[2405.19149v2](http://arxiv.org/abs/2405.19149v2)|null|
-|**2024-05-29**|**SketchTriplet: Self-Supervised Scenarized Sketch-Text-Image Triplet Generation**|Zhenbei Wu et.al.|[2405.18801v1](http://arxiv.org/abs/2405.18801v1)|null|
 |**2023-01-05**|**A Probabilistic Framework for Visual Localization in Ambiguous Scenes**|Fereidoon Zangeneh et.al.|[2301.02086v1](http://arxiv.org/abs/2301.02086v1)|**[link](https://github.com/efreidun/vapor)**|
 |**2022-12-31**|**4Seasons: Benchmarking Visual SLAM and Long-Term Localization for Autonomous Driving in Challenging Conditions**|Patrick Wenzel et.al.|[2301.01147v1](http://arxiv.org/abs/2301.01147v1)|null|
 |**2022-12-30**|**HPointLoc: Point-based Indoor Place Recognition using Synthetic RGB-D Images**|Dmitry Yudin et.al.|[2212.14649v1](http://arxiv.org/abs/2212.14649v1)|**[link](https://github.com/metra4ok/hpointloc)**|
@@ -1006,6 +1006,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-04**|**3D-HGS: 3D Half-Gaussian Splatting**|Haolin Li et.al.|[2406.02720v1](http://arxiv.org/abs/2406.02720v1)|null|
 |**2024-06-05**|**Enhancing Temporal Consistency in Video Editing by Reconstructing Videos with 3D Gaussian Splatting**|Inkyu Shin et.al.|[2406.02541v2](http://arxiv.org/abs/2406.02541v2)|null|
 |**2024-06-04**|**Query-based Semantic Gaussian Field for Scene Representation in Reinforcement Learning**|Jiaxu Wang et.al.|[2406.02370v1](http://arxiv.org/abs/2406.02370v1)|null|
 |**2024-06-03**|**Reconstructing and Simulating Dynamic 3D Objects with Mesh-adsorbed Gaussian Splatting**|Shaojie Ma et.al.|[2406.01593v1](http://arxiv.org/abs/2406.01593v1)|null|
@@ -1015,7 +1016,6 @@
 |**2024-06-02**|**Representing Animatable Avatar via Factorized Neural Fields**|Chunjin Song et.al.|[2406.00637v1](http://arxiv.org/abs/2406.00637v1)|null|
 |**2024-06-04**|**SuperGaussian: Repurposing Video Models for 3D Super Resolution**|Yuan Shen et.al.|[2406.00609v2](http://arxiv.org/abs/2406.00609v2)|null|
 |**2024-06-02**|**Efficient Neural Light Fields (ENeLF) for Mobile Devices**|Austin Peng et.al.|[2406.00598v1](http://arxiv.org/abs/2406.00598v1)|null|
-|**2024-06-01**|**Bilateral Guided Radiance Field Processing**|Yuehao Wang et.al.|[2406.00448v1](http://arxiv.org/abs/2406.00448v1)|null|
 |**2023-01-03**|**Class-Continuous Conditional Generative Neural Radiance Field**|Jiwook Kim et.al.|[2301.00950v1](http://arxiv.org/abs/2301.00950v1)|**[link](https://github.com/tom919654/C3G-NeRF)**|
 |**2023-01-01**|**Detachable Novel Views Synthesis of Dynamic Scenes Using Distribution-Driven Neural Radiance Fields**|Boyu Zhang et.al.|[2301.00411v1](http://arxiv.org/abs/2301.00411v1)|**[link](https://github.com/luciferbobo/d4nerf)**|
 |**2022-12-26**|**MonoNeRF: Learning a Generalizable Dynamic Radiance Field from Monocular Videos**|Fengrui Tian et.al.|[2212.13056v1](http://arxiv.org/abs/2212.13056v1)|**[link](https://github.com/tianfr/mononerf)**|
