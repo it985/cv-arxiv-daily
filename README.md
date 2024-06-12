@@ -481,6 +481,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-11**|**Image Textualization: An Automatic Framework for Creating Accurate and Detailed Image Descriptions**|Renjie Pi et.al.|[2406.07502v1](http://arxiv.org/abs/2406.07502v1)|**[link](https://github.com/sterzhang/image-textualization)**|
+|**2024-06-11**|**Benchmarking Vision-Language Contrastive Methods for Medical Representation Learning**|Shuvendu Roy et.al.|[2406.07450v1](http://arxiv.org/abs/2406.07450v1)|**[link](https://github.com/shuvenduroy/multimodal)**|
+|**2024-06-11**|**Fetch-A-Set: A Large-Scale OCR-Free Benchmark for Historical Document Retrieval**|Adrià Molina et.al.|[2406.07315v1](http://arxiv.org/abs/2406.07315v1)|null|
 |**2024-06-10**|**Multicam-SLAM: Non-overlapping Multi-camera SLAM for Indirect Visual Localization and Navigation**|Shenghao Li et.al.|[2406.06374v1](http://arxiv.org/abs/2406.06374v1)|**[link](https://github.com/alterpang/multi_orb_slam)**|
 |**2024-06-09**|**Unified Text-to-Image Generation and Retrieval**|Leigang Qu et.al.|[2406.05814v1](http://arxiv.org/abs/2406.05814v1)|null|
 |**2024-06-07**|**The Unmet Promise of Synthetic Training Images: Using Retrieved Real Images Performs Better**|Scott Geng et.al.|[2406.05184v1](http://arxiv.org/abs/2406.05184v1)|**[link](https://github.com/scottgeng00/unmet-promise)**|
@@ -488,9 +491,6 @@
 |**2024-06-06**|**GLACE: Global Local Accelerated Coordinate Encoding**|Fangjinhua Wang et.al.|[2406.04340v1](http://arxiv.org/abs/2406.04340v1)|**[link](https://github.com/cvg/glace)**|
 |**2024-06-06**|**Monocular Localization with Semantics Map for Autonomous Vehicles**|Jixiang Wan et.al.|[2406.03835v1](http://arxiv.org/abs/2406.03835v1)|null|
 |**2024-06-05**|**Interactive Text-to-Image Retrieval with Large Language Models: A Plug-and-Play Approach**|Saehyung Lee et.al.|[2406.03411v1](http://arxiv.org/abs/2406.03411v1)|**[link](https://github.com/saehyung-lee/plugir)**|
-|**2024-06-04**|**MeshVPR: Citywide Visual Place Recognition Using 3D Meshes**|Gabriele Berton et.al.|[2406.02776v1](http://arxiv.org/abs/2406.02776v1)|null|
-|**2024-06-04**|**Can CLIP help CLIP in learning 3D?**|Cristian Sbrolli et.al.|[2406.02202v1](http://arxiv.org/abs/2406.02202v1)|null|
-|**2024-06-03**|**Decomposing and Interpreting Image Representations via Text in ViTs Beyond CLIP**|Sriram Balasubramanian et.al.|[2406.01583v1](http://arxiv.org/abs/2406.01583v1)|null|
 |**2023-01-05**|**A Probabilistic Framework for Visual Localization in Ambiguous Scenes**|Fereidoon Zangeneh et.al.|[2301.02086v1](http://arxiv.org/abs/2301.02086v1)|**[link](https://github.com/efreidun/vapor)**|
 |**2022-12-31**|**4Seasons: Benchmarking Visual SLAM and Long-Term Localization for Autonomous Driving in Challenging Conditions**|Patrick Wenzel et.al.|[2301.01147v1](http://arxiv.org/abs/2301.01147v1)|null|
 |**2022-12-30**|**HPointLoc: Point-based Indoor Place Recognition using Synthetic RGB-D Images**|Dmitry Yudin et.al.|[2212.14649v1](http://arxiv.org/abs/2212.14649v1)|**[link](https://github.com/metra4ok/hpointloc)**|
@@ -1006,6 +1006,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-11**|**Active Scout: Multi-Target Tracking Using Neural Radiance Fields in Dense Urban Environments**|Christopher D. Hsu et.al.|[2406.07431v1](http://arxiv.org/abs/2406.07431v1)|null|
+|**2024-06-11**|**Generative Lifting of Multiview to 3D from Unknown Pose: Wrapping NeRF inside Diffusion**|Xin Yuan et.al.|[2406.06972v1](http://arxiv.org/abs/2406.06972v1)|null|
+|**2024-06-11**|**Neural Visibility Field for Uncertainty-Driven Active Mapping**|Shangjie Xue et.al.|[2406.06948v1](http://arxiv.org/abs/2406.06948v1)|null|
 |**2024-06-10**|**IllumiNeRF: 3D Relighting without Inverse Rendering**|Xiaoming Zhao et.al.|[2406.06527v1](http://arxiv.org/abs/2406.06527v1)|null|
 |**2024-06-10**|**GaussianCity: Generative Gaussian Splatting for Unbounded 3D City Generation**|Haozhe Xie et.al.|[2406.06526v1](http://arxiv.org/abs/2406.06526v1)|null|
 |**2024-06-10**|**PGSR: Planar-based Gaussian Splatting for Efficient and High-Fidelity Surface Reconstruction**|Danpeng Chen et.al.|[2406.06521v1](http://arxiv.org/abs/2406.06521v1)|null|
@@ -1013,9 +1016,6 @@
 |**2024-06-10**|**ExtraNeRF: Visibility-Aware View Extrapolation of Neural Radiance Fields with Diffusion Models**|Meng-Li Shih et.al.|[2406.06133v1](http://arxiv.org/abs/2406.06133v1)|null|
 |**2024-06-09**|**GTR: Improving Large 3D Reconstruction Models through Geometry and Texture Refinement**|Peiye Zhuang et.al.|[2406.05649v1](http://arxiv.org/abs/2406.05649v1)|null|
 |**2024-06-07**|**Multiplane Prior Guided Few-Shot Aerial Scene Rendering**|Zihan Gao et.al.|[2406.04961v1](http://arxiv.org/abs/2406.04961v1)|null|
-|**2024-06-07**|**Multi-style Neural Radiance Field with AdaIN**|Yu-Wen Pao et.al.|[2406.04960v1](http://arxiv.org/abs/2406.04960v1)|**[link](https://github.com/vppyw/Stylized-NeRF-with-AdaIN)**|
-|**2024-06-06**|**Improving Physics-Augmented Continuum Neural Radiance Field-Based Geometry-Agnostic System Identification with Lagrangian Particle Optimization**|Takuhiro Kaneko et.al.|[2406.04155v1](http://arxiv.org/abs/2406.04155v1)|null|
-|**2024-06-06**|**How Far Can We Compress Instant-NGP-Based NeRF?**|Yihang Chen et.al.|[2406.04101v1](http://arxiv.org/abs/2406.04101v1)|**[link](https://github.com/yihangchen-ee/cnc)**|
 |**2023-01-03**|**Class-Continuous Conditional Generative Neural Radiance Field**|Jiwook Kim et.al.|[2301.00950v1](http://arxiv.org/abs/2301.00950v1)|**[link](https://github.com/tom919654/C3G-NeRF)**|
 |**2023-01-01**|**Detachable Novel Views Synthesis of Dynamic Scenes Using Distribution-Driven Neural Radiance Fields**|Boyu Zhang et.al.|[2301.00411v1](http://arxiv.org/abs/2301.00411v1)|**[link](https://github.com/luciferbobo/d4nerf)**|
 |**2022-12-26**|**MonoNeRF: Learning a Generalizable Dynamic Radiance Field from Monocular Videos**|Fengrui Tian et.al.|[2212.13056v1](http://arxiv.org/abs/2212.13056v1)|**[link](https://github.com/tianfr/mononerf)**|
