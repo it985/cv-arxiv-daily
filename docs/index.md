@@ -171,7 +171,7 @@ layout: default
 |**2024-02-18**|**3D Point Cloud Compression with Recurrent Neural Network and Image Compression Methods**|Till Beemelmanns et.al.|[2402.11680v1](http://arxiv.org/abs/2402.11680v1)|**[link](https://github.com/ika-rwth-aachen/point-cloud-compression)**|
 |**2024-02-14**|**Loopy-SLAM: Dense Neural SLAM with Loop Closures**|Lorenzo Liso et.al.|[2402.09944v1](http://arxiv.org/abs/2402.09944v1)|null|
 |**2024-02-14**|**RB5 Low-Cost Explorer: Implementing Autonomous Long-Term Exploration on Low-Cost Robotic Hardware**|Adam Seewald et.al.|[2402.08897v1](http://arxiv.org/abs/2402.08897v1)|**[link](https://github.com/adamseew/rb5)**|
-|**2024-02-13**|**An Embarrassingly Simple Approach for LLM with Strong ASR Capacity**|Ziyang Ma et.al.|[2402.08846v1](http://arxiv.org/abs/2402.08846v1)|null|
+|**2024-02-13**|**An Embarrassingly Simple Approach for LLM with Strong ASR Capacity**|Ziyang Ma et.al.|[2402.08846v1](http://arxiv.org/abs/2402.08846v1)|**[link](https://github.com/X-LANCE/SLAM-LLM)**|
 |**2024-02-12**|**Customizable Perturbation Synthesis for Robust SLAM Benchmarking**|Xiaohao Xu et.al.|[2402.08125v1](http://arxiv.org/abs/2402.08125v1)|**[link](https://github.com/xiaohao-xu/slam-under-perturbation)**|
 |**2024-02-12**|**UAV-assisted Visual SLAM Generating Reconstructed 3D Scene Graphs in GPS-denied Environments**|Ahmed Radwan et.al.|[2402.07537v1](http://arxiv.org/abs/2402.07537v1)|null|
 |**2024-02-12**|**Particle Filter SLAM for Vehicle Localization**|Tianrui Liu et.al.|[2402.07429v1](http://arxiv.org/abs/2402.07429v1)|null|
@@ -2329,7 +2329,7 @@ layout: default
 |**2024-06-06**|**How Far Can We Compress Instant-NGP-Based NeRF?**|Yihang Chen et.al.|[2406.04101v1](http://arxiv.org/abs/2406.04101v1)|**[link](https://github.com/yihangchen-ee/cnc)**|
 |**2024-06-06**|**Gear-NeRF: Free-Viewpoint Rendering and Tracking with Motion-aware Spatio-Temporal Sampling**|Xinhang Liu et.al.|[2406.03723v1](http://arxiv.org/abs/2406.03723v1)|null|
 |**2024-06-06**|**Superpoint Gaussian Splatting for Real-Time High-Fidelity Dynamic Scene Reconstruction**|Diwen Wan et.al.|[2406.03697v1](http://arxiv.org/abs/2406.03697v1)|null|
-|**2024-06-04**|**3D-HGS: 3D Half-Gaussian Splatting**|Haolin Li et.al.|[2406.02720v1](http://arxiv.org/abs/2406.02720v1)|null|
+|**2024-06-04**|**3D-HGS: 3D Half-Gaussian Splatting**|Haolin Li et.al.|[2406.02720v1](http://arxiv.org/abs/2406.02720v1)|**[link](https://github.com/lihaolin88/3d-half-gaussian-splatting)**|
 |**2024-06-06**|**Enhancing Temporal Consistency in Video Editing by Reconstructing Videos with 3D Gaussian Splatting**|Inkyu Shin et.al.|[2406.02541v3](http://arxiv.org/abs/2406.02541v3)|null|
 |**2024-06-04**|**Query-based Semantic Gaussian Field for Scene Representation in Reinforcement Learning**|Jiaxu Wang et.al.|[2406.02370v1](http://arxiv.org/abs/2406.02370v1)|null|
 |**2024-06-03**|**Reconstructing and Simulating Dynamic 3D Objects with Mesh-adsorbed Gaussian Splatting**|Shaojie Ma et.al.|[2406.01593v1](http://arxiv.org/abs/2406.01593v1)|null|
@@ -2619,7 +2619,7 @@ layout: default
 |**2024-02-06**|**Improved Generalization of Weight Space Networks via Augmentations**|Aviv Shamsian et.al.|[2402.04081v1](http://arxiv.org/abs/2402.04081v1)|null|
 |**2024-02-05**|**ViewFusion: Learning Composable Diffusion Models for Novel View Synthesis**|Bernard Spiegl et.al.|[2402.02906v1](http://arxiv.org/abs/2402.02906v1)|**[link](https://github.com/bronemos/view-fusion)**|
 |**2024-02-02**|**ConRF: Zero-shot Stylization of 3D Scenes with Conditioned Radiation Fields**|Xingyu Miao et.al.|[2402.01950v1](http://arxiv.org/abs/2402.01950v1)|**[link](https://github.com/xingy038/conrf)**|
-|**2024-02-02**|**Robust Inverse Graphics via Probabilistic Inference**|Tuan Anh Le et.al.|[2402.01915v1](http://arxiv.org/abs/2402.01915v1)|null|
+|**2024-02-02**|**Robust Inverse Graphics via Probabilistic Inference**|Tuan Anh Le et.al.|[2402.01915v1](http://arxiv.org/abs/2402.01915v1)|**[link](https://github.com/tensorflow/probability)**|
 |**2024-02-02**|**HyperPlanes: Hypernetwork Approach to Rapid NeRF Adaptation**|Paweł Batorski et.al.|[2402.01524v1](http://arxiv.org/abs/2402.01524v1)|**[link](https://github.com/gmum/hyperplanes)**|
 |**2024-02-02**|**Di-NeRF: Distributed NeRF for Collaborative Learning with Unknown Relative Poses**|Mahboubeh Asadi et.al.|[2402.01485v1](http://arxiv.org/abs/2402.01485v1)|null|
 |**2024-02-06**|**GaMeS: Mesh-Based Adapting and Modification of Gaussian Splatting**|Joanna Waczyńska et.al.|[2402.01459v2](http://arxiv.org/abs/2402.01459v2)|**[link](https://github.com/waczjoan/gaussian-mesh-splatting)**|
@@ -2705,7 +2705,7 @@ layout: default
 |**2023-12-15**|**SlimmeRF: Slimmable Radiance Fields**|Shiran Yuan et.al.|[2312.10034v1](http://arxiv.org/abs/2312.10034v1)|**[link](https://github.com/shiran-yuan/slimmerf)**|
 |**2023-12-15**|**LAENeRF: Local Appearance Editing for Neural Radiance Fields**|Lukas Radl et.al.|[2312.09913v1](http://arxiv.org/abs/2312.09913v1)|null|
 |**2023-12-15**|**SLS4D: Sparse Latent Space for 4D Novel View Synthesis**|Qi-Yuan Feng et.al.|[2312.09743v1](http://arxiv.org/abs/2312.09743v1)|null|
-|**2023-12-15**|**Towards Transferable Targeted 3D Adversarial Attack in the Physical World**|Yao Huang et.al.|[2312.09558v1](http://arxiv.org/abs/2312.09558v1)|null|
+|**2023-12-15**|**Towards Transferable Targeted 3D Adversarial Attack in the Physical World**|Yao Huang et.al.|[2312.09558v1](http://arxiv.org/abs/2312.09558v1)|**[link](https://github.com/aries-iai/tt3d)**|
 |**2023-12-14**|**LatentEditor: Text Driven Local Editing of 3D Scenes**|Umar Khalid et.al.|[2312.09313v1](http://arxiv.org/abs/2312.09313v1)|**[link](https://github.com/umarkhalidAI/LatentEditor)**|
 |**2023-12-14**|**Stable Score Distillation for High-Quality 3D Generation**|Boshi Tang et.al.|[2312.09305v1](http://arxiv.org/abs/2312.09305v1)|null|
 |**2023-12-14**|**ZeroRF: Fast Sparse View 360° Reconstruction with Zero Pretraining**|Ruoxi Shi et.al.|[2312.09249v1](http://arxiv.org/abs/2312.09249v1)|null|
