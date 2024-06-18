@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.17
+## Updated on 2024.06.18
 
 <details>
   <summary>Table of Contents</summary>
@@ -28,7 +28,7 @@ layout: default
 |**2024-06-10**|**Notes on Kalman Filter (KF, EKF, ESKF, IEKF, IESKF)**|Gyubeom Im et.al.|[2406.06427v1](http://arxiv.org/abs/2406.06427v1)|null|
 |**2024-06-10**|**Notes on Various Errors and Jacobian Derivations for SLAM**|Gyubeom Im et.al.|[2406.06422v1](http://arxiv.org/abs/2406.06422v1)|null|
 |**2024-06-10**|**Multicam-SLAM: Non-overlapping Multi-camera SLAM for Indirect Visual Localization and Navigation**|Shenghao Li et.al.|[2406.06374v1](http://arxiv.org/abs/2406.06374v1)|**[link](https://github.com/alterpang/multi_orb_slam)**|
-|**2024-06-10**|**Visual-Inertial SLAM as Simple as A, B, VINS**|Nathaniel Merrill et.al.|[2406.05969v1](http://arxiv.org/abs/2406.05969v1)|null|
+|**2024-06-15**|**Visual-Inertial SLAM as Simple as A, B, VINS**|Nathaniel Merrill et.al.|[2406.05969v2](http://arxiv.org/abs/2406.05969v2)|null|
 |**2024-06-09**|**MAP-ADAPT: Real-Time Quality-Adaptive Semantic 3D Maps**|Jianhao Zheng et.al.|[2406.05849v1](http://arxiv.org/abs/2406.05849v1)|null|
 |**2024-06-06**|**Open Problem: Active Representation Learning**|Nikola Milosevic et.al.|[2406.03845v1](http://arxiv.org/abs/2406.03845v1)|null|
 |**2024-06-04**|**ProGEO: Generating Prompts through Image-Text Contrastive Learning for Visual Geo-localization**|Chen Mao et.al.|[2406.01906v1](http://arxiv.org/abs/2406.01906v1)|**[link](https://github.com/chain-mao/progeo)**|
@@ -863,7 +863,7 @@ layout: default
 |**2021-10-03**|**Quadrotor Control on $SU(2)\times R^3$ with SLAM Integration**|Marcus Greiff et.al.|[2110.01099v1](http://arxiv.org/abs/2110.01099v1)|null|
 |**2021-10-02**|**Online Incremental Non-Gaussian Inference for SLAM Using Normalizing Flows**|Qiangqiang Huang et.al.|[2110.00876v1](http://arxiv.org/abs/2110.00876v1)|**[link](https://github.com/marineroboticsgroup/nf-isam)**|
 
-<p align=right>(<a href=#Updated-on-20240617>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240618>back to top</a>)</p>
 
 ## SFM
 
@@ -1060,12 +1060,14 @@ layout: default
 |**2021-08-29**|**Solving Viewing Graph Optimization for Simultaneous Position and Rotation Registration**|Seyed-Mahdi Nasiri et.al.|[2108.12876v1](http://arxiv.org/abs/2108.12876v1)|null|
 |**2021-08-23**|**Burst Imaging for Light-Constrained Structure-From-Motion**|Ahalya Ravendran et.al.|[2108.09895v1](http://arxiv.org/abs/2108.09895v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240617>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240618>back to top</a>)</p>
 
 ## Visual Localization
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-14**|**Annotation Cost-Efficient Active Learning for Deep Metric Learning Driven Remote Sensing Image Retrieval**|Genc Hoxha et.al.|[2406.10107v1](http://arxiv.org/abs/2406.10107v1)|null|
+|**2024-06-14**|**BiVLC: Extending Vision-Language Compositionality Evaluation with Text-to-Image Retrieval**|Imanol Miranda et.al.|[2406.09952v1](http://arxiv.org/abs/2406.09952v1)|**[link](https://github.com/imirandam/bivlc)**|
 |**2024-06-13**|**Common and Rare Fundus Diseases Identification Using Vision-Language Foundation Model with Knowledge of Over 400 Diseases**|Meng Wang et.al.|[2406.09317v1](http://arxiv.org/abs/2406.09317v1)|null|
 |**2024-06-13**|**Reducing Task Discrepancy of Text Encoders for Zero-Shot Composed Image Retrieval**|Jaeseok Byun et.al.|[2406.09188v1](http://arxiv.org/abs/2406.09188v1)|null|
 |**2024-06-13**|**DenoiseReID: Denoising Model for Representation Learning of Person Re-Identification**|Zhengrui Xu et.al.|[2406.08773v1](http://arxiv.org/abs/2406.08773v1)|null|
@@ -1853,7 +1855,7 @@ layout: default
 |**2021-09-09**|**CrowdDriven: A New Challenging Dataset for Outdoor Visual Localization**|Ara Jafarzadeh et.al.|[2109.04527v1](http://arxiv.org/abs/2109.04527v1)|null|
 |**2021-09-09**|**Keeping an Eye on Things: Deep Learned Features for Long-Term Visual Localization**|Mona Gridseth et.al.|[2109.04041v1](http://arxiv.org/abs/2109.04041v1)|**[link](https://github.com/utiasasrl/deep_learned_visual_features)**|
 
-<p align=right>(<a href=#Updated-on-20240617>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240618>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -2082,12 +2084,13 @@ layout: default
 |**2021-08-31**|**A Novel Dataset for Keypoint Detection of quadruped Animals from Images**|Prianka Banik et.al.|[2108.13958v1](http://arxiv.org/abs/2108.13958v1)|**[link](https://github.com/prinik/awa-pose)**|
 |**2021-08-27**|**A Matching Algorithm based on Image Attribute Transfer and Local Features for Underwater Acoustic and Optical Images**|Xiaoteng Zhou et.al.|[2108.12151v1](http://arxiv.org/abs/2108.12151v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240617>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240618>back to top</a>)</p>
 
 ## Image Matching
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-14**|**Grounding Image Matching in 3D with MASt3R**|Vincent Leroy et.al.|[2406.09756v1](http://arxiv.org/abs/2406.09756v1)|null|
 |**2024-05-22**|**Affine-based Deformable Attention and Selective Fusion for Semi-dense Matching**|Hongkai Chen et.al.|[2405.13874v1](http://arxiv.org/abs/2405.13874v1)|null|
 |**2024-05-21**|**OmniGlue: Generalizable Feature Matching with Foundation Model Guidance**|Hanwen Jiang et.al.|[2405.12979v1](http://arxiv.org/abs/2405.12979v1)|**[link](https://github.com/google-research/omniglue)**|
 |**2024-05-14**|**Shape-aware synthesis of pathological lung CT scans using CycleGAN for enhanced semi-supervised lung segmentation**|Rezkellah Noureddine Khiati et.al.|[2405.08556v1](http://arxiv.org/abs/2405.08556v1)|**[link](https://github.com/noureddinekhiati/semi-supervised-lung-segmentation)**|
@@ -2298,12 +2301,17 @@ layout: default
 |**2021-08-27**|**Matching Underwater Sonar Images by the Learned Descriptor Based on Style Transfer Method**|Xiaoteng Zhou et.al.|[2108.12072v1](http://arxiv.org/abs/2108.12072v1)|null|
 |**2021-08-26**|**Efficient Joint Object Matching via Linear Programming**|Antonio De Rosa et.al.|[2108.11911v1](http://arxiv.org/abs/2108.11911v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240617>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240618>back to top</a>)</p>
 
 ## NeRF
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-14**|**PUP 3D-GS: Principled Uncertainty Pruning for 3D Gaussian Splatting**|Alex Hanson et.al.|[2406.10219v1](http://arxiv.org/abs/2406.10219v1)|null|
+|**2024-06-14**|**GaussianSR: 3D Gaussian Super-Resolution with 2D Diffusion Priors**|Xiqian Yu et.al.|[2406.10111v1](http://arxiv.org/abs/2406.10111v1)|null|
+|**2024-06-14**|**OrientDream: Streamlining Text-to-3D Generation with Explicit Orientation Control**|Yuzhong Huang et.al.|[2406.10000v1](http://arxiv.org/abs/2406.10000v1)|null|
+|**2024-06-14**|**dGrasp: NeRF-Informed Implicit Grasp Policies with Supervised Optimization Slopes**|Gergely Sóti et.al.|[2406.09939v1](http://arxiv.org/abs/2406.09939v1)|null|
+|**2024-06-14**|**RaNeuS: Ray-adaptive Neural Surface Reconstruction**|Yida Wang et.al.|[2406.09801v1](http://arxiv.org/abs/2406.09801v1)|**[link](https://github.com/wangyida/ra-neus)**|
 |**2024-06-13**|**Rethinking Score Distillation as a Bridge Between Image Distributions**|David McAllister et.al.|[2406.09417v1](http://arxiv.org/abs/2406.09417v1)|null|
 |**2024-06-13**|**Preserving Identity with Variational Score for General-purpose 3D Editing**|Duong H. Le et.al.|[2406.08953v1](http://arxiv.org/abs/2406.08953v1)|null|
 |**2024-06-13**|**Neural NeRF Compression**|Tuan Pham et.al.|[2406.08943v1](http://arxiv.org/abs/2406.08943v1)|null|
@@ -3383,7 +3391,7 @@ layout: default
 |**2022-07-29**|**Neural Density-Distance Fields**|Itsuki Ueda et.al.|[2207.14455v1](http://arxiv.org/abs/2207.14455v1)|**[link](https://github.com/ueda0319/neddf)**|
 |**2022-07-27**|**Is Attention All NeRF Needs?**|Mukund Varma T et.al.|[2207.13298v1](http://arxiv.org/abs/2207.13298v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240617>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240618>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
