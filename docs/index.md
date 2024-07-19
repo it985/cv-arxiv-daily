@@ -25,6 +25,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-18**|**Learn to Memorize and to Forget: A Continual Learning Perspective of Dynamic SLAM**|Baicheng Li et.al.|[2407.13338v1](http://arxiv.org/abs/2407.13338v1)|null|
 |**2024-07-17**|**Towards Revisiting Visual Place Recognition for Joining Submaps in Multimap SLAM**|Markus Weißflog et.al.|[2407.12408v1](http://arxiv.org/abs/2407.12408v1)|null|
 |**2024-07-17**|**Fisheye-Calib-Adapter: An Easy Tool for Fisheye Camera Model Conversion**|Sangjun Lee et.al.|[2407.12405v1](http://arxiv.org/abs/2407.12405v1)|null|
 |**2024-07-17**|**Fusion LiDAR-Inertial-Encoder data for High-Accuracy SLAM**|Manh Do Duc et.al.|[2407.11870v2](http://arxiv.org/abs/2407.11870v2)|null|
@@ -1114,6 +1115,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-18**|**Visual Haystacks: Answering Harder Questions About Sets of Images**|Tsung-Han Wu et.al.|[2407.13766v1](http://arxiv.org/abs/2407.13766v1)|null|
 |**2024-07-17**|**Towards Revisiting Visual Place Recognition for Joining Submaps in Multimap SLAM**|Markus Weißflog et.al.|[2407.12408v1](http://arxiv.org/abs/2407.12408v1)|null|
 |**2024-07-17**|**GV-Bench: Benchmarking Local Feature Matching for Geometric Verification of Long-term Loop Closure Detection**|Jingwen Yu et.al.|[2407.11736v2](http://arxiv.org/abs/2407.11736v2)|**[link](https://github.com/jarvisyjw/gv-bench)**|
 |**2024-07-16**|**EndoFinder: Online Image Retrieval for Explainable Colorectal Polyp Diagnosis**|Ruijie Yang et.al.|[2407.11401v1](http://arxiv.org/abs/2407.11401v1)|null|
@@ -2406,6 +2408,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-18**|**EaDeblur-GS: Event assisted 3D Deblur Reconstruction with Gaussian Splatting**|Yuchen Weng et.al.|[2407.13520v1](http://arxiv.org/abs/2407.13520v1)|null|
+|**2024-07-18**|**GeometrySticker: Enabling Ownership Claim of Recolorized Neural Radiance Fields**|Xiufeng Huang et.al.|[2407.13390v1](http://arxiv.org/abs/2407.13390v1)|null|
+|**2024-07-18**|**KFD-NeRF: Rethinking Dynamic NeRF with Kalman Filter**|Yifan Zhan et.al.|[2407.13185v1](http://arxiv.org/abs/2407.13185v1)|null|
 |**2024-07-17**|**Generalizable Human Gaussians for Sparse View Synthesis**|Youngjoong Kwon et.al.|[2407.12777v1](http://arxiv.org/abs/2407.12777v1)|null|
 |**2024-07-17**|**SG-NeRF: Neural Surface Reconstruction with Scene Graph Optimization**|Yiyang Chen et.al.|[2407.12667v1](http://arxiv.org/abs/2407.12667v1)|**[link](https://github.com/iris-cyy/sg-nerf)**|
 |**2024-07-17**|**InfoNorm: Mutual Information Shaping of Normals for Sparse-View Reconstruction**|Xulong Wang et.al.|[2407.12661v1](http://arxiv.org/abs/2407.12661v1)|**[link](https://github.com/muliphein/infonorm)**|

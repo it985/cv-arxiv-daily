@@ -21,6 +21,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-18**|**Learn to Memorize and to Forget: A Continual Learning Perspective of Dynamic SLAM**|Baicheng Li et.al.|[2407.13338v1](http://arxiv.org/abs/2407.13338v1)|null|
 |**2024-07-17**|**Towards Revisiting Visual Place Recognition for Joining Submaps in Multimap SLAM**|Markus Weißflog et.al.|[2407.12408v1](http://arxiv.org/abs/2407.12408v1)|null|
 |**2024-07-17**|**Fisheye-Calib-Adapter: An Easy Tool for Fisheye Camera Model Conversion**|Sangjun Lee et.al.|[2407.12405v1](http://arxiv.org/abs/2407.12405v1)|null|
 |**2024-07-17**|**Fusion LiDAR-Inertial-Encoder data for High-Accuracy SLAM**|Manh Do Duc et.al.|[2407.11870v2](http://arxiv.org/abs/2407.11870v2)|null|
@@ -30,7 +31,6 @@
 |**2024-07-16**|**I $^2$ -SLAM: Inverting Imaging Process for Robust Photorealistic Dense SLAM**|Gwangtak Bae et.al.|[2407.11347v1](http://arxiv.org/abs/2407.11347v1)|null|
 |**2024-07-16**|**FR-SLAM: A SLAM Improvement Method Based on Floor Plan Registration**|Jiantao Feng et.al.|[2407.11299v1](http://arxiv.org/abs/2407.11299v1)|null|
 |**2024-07-15**|**Evaluating geometric accuracy of NeRF reconstructions compared to SLAM method**|Adam Korycki et.al.|[2407.11238v1](http://arxiv.org/abs/2407.11238v1)|null|
-|**2024-07-12**|**An Adaptive Indoor Localization Approach Using WiFi RSSI Fingerprinting with SLAM-Enabled Robotic Platform and Deep Neural Networks**|Seyed Alireza Rahimi Azghadi et.al.|[2407.09242v1](http://arxiv.org/abs/2407.09242v1)|null|
 |**2022-12-31**|**4Seasons: Benchmarking Visual SLAM and Long-Term Localization for Autonomous Driving in Challenging Conditions**|Patrick Wenzel et.al.|[2301.01147v1](http://arxiv.org/abs/2301.01147v1)|null|
 |**2023-01-03**|**BS3D: Building-scale 3D Reconstruction from RGB-D Images**|Janne Mustaniemi et.al.|[2301.01057v1](http://arxiv.org/abs/2301.01057v1)|null|
 |**2023-01-02**|**An Event-based Algorithm for Simultaneous 6-DOF Camera Pose Tracking and Mapping**|Masoud Dayani Najafabadi et.al.|[2301.00618v1](http://arxiv.org/abs/2301.00618v1)|**[link](https://github.com/m-dayani/eorb_slam)**|
@@ -481,6 +481,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-18**|**Visual Haystacks: Answering Harder Questions About Sets of Images**|Tsung-Han Wu et.al.|[2407.13766v1](http://arxiv.org/abs/2407.13766v1)|null|
 |**2024-07-17**|**Towards Revisiting Visual Place Recognition for Joining Submaps in Multimap SLAM**|Markus Weißflog et.al.|[2407.12408v1](http://arxiv.org/abs/2407.12408v1)|null|
 |**2024-07-17**|**GV-Bench: Benchmarking Local Feature Matching for Geometric Verification of Long-term Loop Closure Detection**|Jingwen Yu et.al.|[2407.11736v2](http://arxiv.org/abs/2407.11736v2)|**[link](https://github.com/jarvisyjw/gv-bench)**|
 |**2024-07-16**|**EndoFinder: Online Image Retrieval for Explainable Colorectal Polyp Diagnosis**|Ruijie Yang et.al.|[2407.11401v1](http://arxiv.org/abs/2407.11401v1)|null|
@@ -490,7 +491,6 @@
 |**2024-07-15**|**An evaluation of CNN models and data augmentation techniques in hierarchical localization of mobile robots**|J. J. Cabrera et.al.|[2407.10596v1](http://arxiv.org/abs/2407.10596v1)|**[link](https://github.com/juanjo-cabrera/indoorlocalizationsinglecnn)**|
 |**2024-07-15**|**An experimental evaluation of Siamese Neural Networks for robot localization using omnidirectional imaging in indoor environments**|J. J. Cabrera et.al.|[2407.10536v1](http://arxiv.org/abs/2407.10536v1)|null|
 |**2024-07-12**|**Are They the Same Picture? Adapting Concept Bottleneck Models for Human-AI Collaboration in Image Retrieval**|Vaibhav Balloli et.al.|[2407.08908v1](http://arxiv.org/abs/2407.08908v1)|**[link](https://github.com/realize-lab/chair)**|
-|**2024-07-11**|**Improving Visual Place Recognition Based Robot Navigation Through Verification of Localization Estimates**|Owen Claxton et.al.|[2407.08162v1](http://arxiv.org/abs/2407.08162v1)|**[link](https://github.com/QVPR/aarapsiproject)**|
 |**2023-01-05**|**A Probabilistic Framework for Visual Localization in Ambiguous Scenes**|Fereidoon Zangeneh et.al.|[2301.02086v1](http://arxiv.org/abs/2301.02086v1)|**[link](https://github.com/efreidun/vapor)**|
 |**2022-12-31**|**4Seasons: Benchmarking Visual SLAM and Long-Term Localization for Autonomous Driving in Challenging Conditions**|Patrick Wenzel et.al.|[2301.01147v1](http://arxiv.org/abs/2301.01147v1)|null|
 |**2022-12-30**|**HPointLoc: Point-based Indoor Place Recognition using Synthetic RGB-D Images**|Dmitry Yudin et.al.|[2212.14649v1](http://arxiv.org/abs/2212.14649v1)|**[link](https://github.com/metra4ok/hpointloc)**|
@@ -1006,6 +1006,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-18**|**EaDeblur-GS: Event assisted 3D Deblur Reconstruction with Gaussian Splatting**|Yuchen Weng et.al.|[2407.13520v1](http://arxiv.org/abs/2407.13520v1)|null|
+|**2024-07-18**|**GeometrySticker: Enabling Ownership Claim of Recolorized Neural Radiance Fields**|Xiufeng Huang et.al.|[2407.13390v1](http://arxiv.org/abs/2407.13390v1)|null|
+|**2024-07-18**|**KFD-NeRF: Rethinking Dynamic NeRF with Kalman Filter**|Yifan Zhan et.al.|[2407.13185v1](http://arxiv.org/abs/2407.13185v1)|null|
 |**2024-07-17**|**Generalizable Human Gaussians for Sparse View Synthesis**|Youngjoong Kwon et.al.|[2407.12777v1](http://arxiv.org/abs/2407.12777v1)|null|
 |**2024-07-17**|**SG-NeRF: Neural Surface Reconstruction with Scene Graph Optimization**|Yiyang Chen et.al.|[2407.12667v1](http://arxiv.org/abs/2407.12667v1)|**[link](https://github.com/iris-cyy/sg-nerf)**|
 |**2024-07-17**|**InfoNorm: Mutual Information Shaping of Normals for Sparse-View Reconstruction**|Xulong Wang et.al.|[2407.12661v1](http://arxiv.org/abs/2407.12661v1)|**[link](https://github.com/muliphein/infonorm)**|
@@ -1013,9 +1016,6 @@
 |**2024-07-17**|**Splatfacto-W: A Nerfstudio Implementation of Gaussian Splatting for Unconstrained Photo Collections**|Congrong Xu et.al.|[2407.12306v1](http://arxiv.org/abs/2407.12306v1)|null|
 |**2024-07-18**|**Motion-Oriented Compositional Neural Radiance Fields for Monocular Dynamic Human Modeling**|Jaehyeok Kim et.al.|[2407.11962v2](http://arxiv.org/abs/2407.11962v2)|null|
 |**2024-07-18**|**IPA-NeRF: Illusory Poisoning Attack Against Neural Radiance Fields**|Wenxiang Jiang et.al.|[2407.11921v2](http://arxiv.org/abs/2407.11921v2)|**[link](https://github.com/jiang-wenxiang/ipa-nerf)**|
-|**2024-07-16**|**DreamCatalyst: Fast and High-Quality 3D Editing via Controlling Editability and Identity Preservation**|Jiwook Kim et.al.|[2407.11394v1](http://arxiv.org/abs/2407.11394v1)|**[link](https://github.com/kaist-cvml-lab/DreamCatalyst)**|
-|**2024-07-15**|**Evaluating geometric accuracy of NeRF reconstructions compared to SLAM method**|Adam Korycki et.al.|[2407.11238v1](http://arxiv.org/abs/2407.11238v1)|null|
-|**2024-07-15**|**AirNeRF: 3D Reconstruction of Human with Drone and NeRF for Future Communication Systems**|Alexey Kotcov et.al.|[2407.10865v1](http://arxiv.org/abs/2407.10865v1)|null|
 |**2023-01-03**|**Class-Continuous Conditional Generative Neural Radiance Field**|Jiwook Kim et.al.|[2301.00950v1](http://arxiv.org/abs/2301.00950v1)|**[link](https://github.com/tom919654/C3G-NeRF)**|
 |**2023-01-01**|**Detachable Novel Views Synthesis of Dynamic Scenes Using Distribution-Driven Neural Radiance Fields**|Boyu Zhang et.al.|[2301.00411v1](http://arxiv.org/abs/2301.00411v1)|**[link](https://github.com/luciferbobo/d4nerf)**|
 |**2022-12-26**|**MonoNeRF: Learning a Generalizable Dynamic Radiance Field from Monocular Videos**|Fengrui Tian et.al.|[2212.13056v1](http://arxiv.org/abs/2212.13056v1)|**[link](https://github.com/tianfr/mononerf)**|
