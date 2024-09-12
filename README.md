@@ -22,6 +22,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-11**|**Equivariant Filter for Tightly Coupled LiDAR-Inertial Odometry**|Anbo Tao et.al.|[2409.06948](http://arxiv.org/abs/2409.06948)|null|
 |**2024-09-10**|**Technical Report of Mobile Manipulator Robot for Industrial Environments**|Erfan Amoozad Khalili et.al.|[2409.06693](http://arxiv.org/abs/2409.06693)|null|
 |**2024-09-10**|**Heterogeneous LiDAR Dataset for Benchmarking Robust Localization in Diverse Degenerate Scenarios**|Zhiqiang Chen et.al.|[2409.04961](http://arxiv.org/abs/2409.04961)|null|
 |**2024-09-08**|**FLAF: Focal Line and Feature-constrained Active View Planning for Visual Teach and Repeat**|Changfei Fu et.al.|[2409.03457](http://arxiv.org/abs/2409.03457)|null|
@@ -31,7 +32,6 @@
 |**2024-09-02**|**Online One-Dimensional Magnetic Field SLAM with Loop-Closure Detection**|Manon Kok et.al.|[2409.01091](http://arxiv.org/abs/2409.01091)|null|
 |**2024-08-31**|**UDGS-SLAM : UniDepth Assisted Gaussian Splatting for Monocular SLAM**|Mostafa Mansour et.al.|[2409.00362](http://arxiv.org/abs/2409.00362)|null|
 |**2024-09-04**|**Augmented Reality without Borders: Achieving Precise Localization Without Maps**|Albert Gassol Puigjaner et.al.|[2408.17373](http://arxiv.org/abs/2408.17373)|null|
-|**2024-08-28**|**BIM-SLAM: Integrating BIM Models in Multi-session SLAM for Lifelong Mapping using 3D LiDAR**|Miguel Arturo Vega Torres et.al.|[2408.15870](http://arxiv.org/abs/2408.15870)|**[link](https://github.com/MigVega/SLAM2REF)**|
 |**2022-12-31**|**4Seasons: Benchmarking Visual SLAM and Long-Term Localization for Autonomous Driving in Challenging Conditions**|Patrick Wenzel et.al.|[2301.01147](http://arxiv.org/abs/2301.01147)|null|
 |**2023-01-03**|**BS3D: Building-scale 3D Reconstruction from RGB-D Images**|Janne Mustaniemi et.al.|[2301.01057](http://arxiv.org/abs/2301.01057)|null|
 |**2023-01-02**|**An Event-based Algorithm for Simultaneous 6-DOF Camera Pose Tracking and Mapping**|Masoud Dayani Najafabadi et.al.|[2301.00618](http://arxiv.org/abs/2301.00618)|**[link](https://github.com/m-dayani/eorb_slam)**|
@@ -1007,6 +1007,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-11**|**DreamMesh: Jointly Manipulating and Texturing Triangle Meshes for Text-to-3D Generation**|Haibo Yang et.al.|[2409.07454](http://arxiv.org/abs/2409.07454)|null|
+|**2024-09-11**|**ThermalGaussian: Thermal 3D Gaussian Splatting**|Rongfeng Lu et.al.|[2409.07200](http://arxiv.org/abs/2409.07200)|null|
 |**2024-09-10**|**LEIA: Latent View-invariant Embeddings for Implicit 3D Articulation**|Archana Swaminathan et.al.|[2409.06703](http://arxiv.org/abs/2409.06703)|null|
 |**2024-09-10**|**Sources of Uncertainty in 3D Scene Reconstruction**|Marcus Klasson et.al.|[2409.06407](http://arxiv.org/abs/2409.06407)|**[link](https://github.com/aaltoml/uncertainty-nerf-gs)**|
 |**2024-09-09**|**LSE-NeRF: Learning Sensor Modeling Errors for Deblured Neural Radiance Fields with RGB-Event Stereo**|Wei Zhi Tang et.al.|[2409.06104](http://arxiv.org/abs/2409.06104)|null|
@@ -1015,8 +1017,6 @@
 |**2024-09-09**|**KRONC: Keypoint-based Robust Camera Optimization for 3D Car Reconstruction**|Davide Di Nucci et.al.|[2409.05407](http://arxiv.org/abs/2409.05407)|null|
 |**2024-09-09**|**Lagrangian Hashing for Compressed Neural Field Representations**|Shrisudhan Govindarajan et.al.|[2409.05334](http://arxiv.org/abs/2409.05334)|null|
 |**2024-09-09**|**Neural Surface Reconstruction and Rendering for LiDAR-Visual Systems**|Jianheng Liu et.al.|[2409.05310](http://arxiv.org/abs/2409.05310)|null|
-|**2024-09-06**|**SCARF: Scalable Continual Learning Framework for Memory-efficient Multiple Neural Radiance Fields**|Yuze Wang et.al.|[2409.04482](http://arxiv.org/abs/2409.04482)|null|
-|**2024-09-05**|**Weight Conditioning for Smooth Optimization of Neural Networks**|Hemanth Saratchandran et.al.|[2409.03424](http://arxiv.org/abs/2409.03424)|null|
 |**2023-01-03**|**Class-Continuous Conditional Generative Neural Radiance Field**|Jiwook Kim et.al.|[2301.00950](http://arxiv.org/abs/2301.00950)|**[link](https://github.com/tom919654/C3G-NeRF)**|
 |**2023-01-01**|**Detachable Novel Views Synthesis of Dynamic Scenes Using Distribution-Driven Neural Radiance Fields**|Boyu Zhang et.al.|[2301.00411](http://arxiv.org/abs/2301.00411)|**[link](https://github.com/luciferbobo/d4nerf)**|
 |**2022-12-26**|**MonoNeRF: Learning a Generalizable Dynamic Radiance Field from Monocular Videos**|Fengrui Tian et.al.|[2212.13056](http://arxiv.org/abs/2212.13056)|**[link](https://github.com/tianfr/mononerf)**|
