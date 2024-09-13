@@ -22,6 +22,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-11**|**Object Depth and Size Estimation using Stereo-vision and Integration with SLAM**|Layth Hamad et.al.|[2409.07623](http://arxiv.org/abs/2409.07623)|null|
 |**2024-09-11**|**Equivariant Filter for Tightly Coupled LiDAR-Inertial Odometry**|Anbo Tao et.al.|[2409.06948](http://arxiv.org/abs/2409.06948)|null|
 |**2024-09-10**|**Technical Report of Mobile Manipulator Robot for Industrial Environments**|Erfan Amoozad Khalili et.al.|[2409.06693](http://arxiv.org/abs/2409.06693)|null|
 |**2024-09-10**|**Heterogeneous LiDAR Dataset for Benchmarking Robust Localization in Diverse Degenerate Scenarios**|Zhiqiang Chen et.al.|[2409.04961](http://arxiv.org/abs/2409.04961)|null|
@@ -31,7 +32,6 @@
 |**2024-09-02**|**Saying goodbyes to rotating your phone: Magnetometer calibration during SLAM**|Ilari Vallivaara et.al.|[2409.01242](http://arxiv.org/abs/2409.01242)|null|
 |**2024-09-02**|**Online One-Dimensional Magnetic Field SLAM with Loop-Closure Detection**|Manon Kok et.al.|[2409.01091](http://arxiv.org/abs/2409.01091)|null|
 |**2024-08-31**|**UDGS-SLAM : UniDepth Assisted Gaussian Splatting for Monocular SLAM**|Mostafa Mansour et.al.|[2409.00362](http://arxiv.org/abs/2409.00362)|null|
-|**2024-09-04**|**Augmented Reality without Borders: Achieving Precise Localization Without Maps**|Albert Gassol Puigjaner et.al.|[2408.17373](http://arxiv.org/abs/2408.17373)|null|
 |**2022-12-31**|**4Seasons: Benchmarking Visual SLAM and Long-Term Localization for Autonomous Driving in Challenging Conditions**|Patrick Wenzel et.al.|[2301.01147](http://arxiv.org/abs/2301.01147)|null|
 |**2023-01-03**|**BS3D: Building-scale 3D Reconstruction from RGB-D Images**|Janne Mustaniemi et.al.|[2301.01057](http://arxiv.org/abs/2301.01057)|null|
 |**2023-01-02**|**An Event-based Algorithm for Simultaneous 6-DOF Camera Pose Tracking and Mapping**|Masoud Dayani Najafabadi et.al.|[2301.00618](http://arxiv.org/abs/2301.00618)|**[link](https://github.com/m-dayani/eorb_slam)**|
@@ -482,16 +482,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-12**|**Structured Pruning for Efficient Visual Place Recognition**|Oliver Grainge et.al.|[2409.07834](http://arxiv.org/abs/2409.07834)|null|
 |**2024-09-10**|**GeoCalib: Learning Single-image Calibration with Geometric Optimization**|Alexander Veicht et.al.|[2409.06704](http://arxiv.org/abs/2409.06704)|**[link](https://github.com/cvg/geocalib)**|
 |**2024-09-10**|**Weakly-supervised Camera Localization by Ground-to-satellite Image Registration**|Yujiao Shi et.al.|[2409.06471](http://arxiv.org/abs/2409.06471)|**[link](https://github.com/yujiaoshi/g2sweakly)**|
 |**2024-09-10**|**A Cross-Font Image Retrieval Network for Recognizing Undeciphered Oracle Bone Inscriptions**|Zhicong Wu et.al.|[2409.06381](http://arxiv.org/abs/2409.06381)|null|
 |**2024-09-09**|**Referring Expression Generation in Visually Grounded Dialogue with Discourse-aware Comprehension Guiding**|Bram Willemsen et.al.|[2409.05721](http://arxiv.org/abs/2409.05721)|**[link](https://github.com/willemsenbram/reg-with-guiding)**|
 |**2024-09-09**|**Open-World Dynamic Prompt and Continual Visual Representation Learning**|Youngeun Kim et.al.|[2409.05312](http://arxiv.org/abs/2409.05312)|null|
 |**2024-09-12**|**Training-free ZS-CIR via Weighted Modality Fusion and Similarity**|Ren-Di Wu et.al.|[2409.04918](http://arxiv.org/abs/2409.04918)|null|
-|**2024-09-06**|**Zero-Shot Whole Slide Image Retrieval in Histopathology Using Embeddings of Foundation Models**|Saghir Alfasly et.al.|[2409.04631](http://arxiv.org/abs/2409.04631)|null|
+|**2024-09-12**|**Zero-Shot Whole Slide Image Retrieval in Histopathology Using Embeddings of Foundation Models**|Saghir Alfasly et.al.|[2409.04631](http://arxiv.org/abs/2409.04631)|null|
 |**2024-09-06**|**Reprojection Errors as Prompts for Efficient Scene Coordinate Regression**|Ting-Ru Liu et.al.|[2409.04178](http://arxiv.org/abs/2409.04178)|null|
 |**2024-09-06**|**Matched Filtering based LiDAR Place Recognition for Urban and Natural Environments**|Therese Joseph et.al.|[2409.03998](http://arxiv.org/abs/2409.03998)|null|
-|**2024-09-04**|**Design and Evaluation of Camera-Centric Mobile Crowdsourcing Applications**|Abby Stylianou et.al.|[2409.03012](http://arxiv.org/abs/2409.03012)|null|
 |**2023-01-05**|**A Probabilistic Framework for Visual Localization in Ambiguous Scenes**|Fereidoon Zangeneh et.al.|[2301.02086](http://arxiv.org/abs/2301.02086)|**[link](https://github.com/efreidun/vapor)**|
 |**2022-12-31**|**4Seasons: Benchmarking Visual SLAM and Long-Term Localization for Autonomous Driving in Challenging Conditions**|Patrick Wenzel et.al.|[2301.01147](http://arxiv.org/abs/2301.01147)|null|
 |**2022-12-30**|**HPointLoc: Point-based Indoor Place Recognition using Synthetic RGB-D Images**|Dmitry Yudin et.al.|[2212.14649](http://arxiv.org/abs/2212.14649)|**[link](https://github.com/metra4ok/hpointloc)**|
@@ -1007,16 +1007,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-12**|**DreamHOI: Subject-Driven Generation of 3D Human-Object Interactions with Diffusion Priors**|Thomas Hanwen Zhu et.al.|[2409.08278](http://arxiv.org/abs/2409.08278)|null|
 |**2024-09-11**|**DreamMesh: Jointly Manipulating and Texturing Triangle Meshes for Text-to-3D Generation**|Haibo Yang et.al.|[2409.07454](http://arxiv.org/abs/2409.07454)|null|
 |**2024-09-11**|**ThermalGaussian: Thermal 3D Gaussian Splatting**|Rongfeng Lu et.al.|[2409.07200](http://arxiv.org/abs/2409.07200)|null|
 |**2024-09-10**|**LEIA: Latent View-invariant Embeddings for Implicit 3D Articulation**|Archana Swaminathan et.al.|[2409.06703](http://arxiv.org/abs/2409.06703)|null|
 |**2024-09-10**|**Sources of Uncertainty in 3D Scene Reconstruction**|Marcus Klasson et.al.|[2409.06407](http://arxiv.org/abs/2409.06407)|**[link](https://github.com/aaltoml/uncertainty-nerf-gs)**|
-|**2024-09-09**|**LSE-NeRF: Learning Sensor Modeling Errors for Deblured Neural Radiance Fields with RGB-Event Stereo**|Wei Zhi Tang et.al.|[2409.06104](http://arxiv.org/abs/2409.06104)|null|
+|**2024-09-09**|**LSE-NeRF: Learning Sensor Modeling Errors for Deblured Neural Radiance Fields with RGB-Event Stereo**|Wei Zhi Tang et.al.|[2409.06104](http://arxiv.org/abs/2409.06104)|**[link](https://github.com/ubc-vision/lsenerf)**|
 |**2024-09-09**|**G-NeLF: Memory- and Data-Efficient Hybrid Neural Light Field for Novel View Synthesis**|Lutao Jiang et.al.|[2409.05617](http://arxiv.org/abs/2409.05617)|null|
 |**2024-09-09**|**From Words to Poses: Enhancing Novel Object Pose Estimation with Vision Language Models**|Tessa Pulli et.al.|[2409.05413](http://arxiv.org/abs/2409.05413)|null|
 |**2024-09-09**|**KRONC: Keypoint-based Robust Camera Optimization for 3D Car Reconstruction**|Davide Di Nucci et.al.|[2409.05407](http://arxiv.org/abs/2409.05407)|null|
 |**2024-09-09**|**Lagrangian Hashing for Compressed Neural Field Representations**|Shrisudhan Govindarajan et.al.|[2409.05334](http://arxiv.org/abs/2409.05334)|null|
-|**2024-09-09**|**Neural Surface Reconstruction and Rendering for LiDAR-Visual Systems**|Jianheng Liu et.al.|[2409.05310](http://arxiv.org/abs/2409.05310)|null|
 |**2023-01-03**|**Class-Continuous Conditional Generative Neural Radiance Field**|Jiwook Kim et.al.|[2301.00950](http://arxiv.org/abs/2301.00950)|**[link](https://github.com/tom919654/C3G-NeRF)**|
 |**2023-01-01**|**Detachable Novel Views Synthesis of Dynamic Scenes Using Distribution-Driven Neural Radiance Fields**|Boyu Zhang et.al.|[2301.00411](http://arxiv.org/abs/2301.00411)|**[link](https://github.com/luciferbobo/d4nerf)**|
 |**2022-12-26**|**MonoNeRF: Learning a Generalizable Dynamic Radiance Field from Monocular Videos**|Fengrui Tian et.al.|[2212.13056](http://arxiv.org/abs/2212.13056)|**[link](https://github.com/tianfr/mononerf)**|
