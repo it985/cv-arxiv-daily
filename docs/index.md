@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.18
+## Updated on 2024.10.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1021,7 +1021,7 @@ layout: default
 |**2024-10-15**|**SplatPose+: Real-time Image-Based Pose-Agnostic 3D Anomaly Detection**|Yizhe Liu et.al.|[2410.12080](http://arxiv.org/abs/2410.12080)|null|
 |**2024-10-15**|**LoGS: Visual Localization via Gaussian Splatting with Fewer Training Images**|Yuzhou Cheng et.al.|[2410.11505](http://arxiv.org/abs/2410.11505)|null|
 |**2024-10-15**|**Multiview Scene Graph**|Juexiao Zhang et.al.|[2410.11187](http://arxiv.org/abs/2410.11187)|null|
-|**2024-10-12**|**Leveraging Semantic Cues from Foundation Vision Models for Enhanced Local Feature Correspondence**|Felipe Cadar et.al.|[2410.09533](http://arxiv.org/abs/2410.09533)|null|
+|**2024-10-12**|**Leveraging Semantic Cues from Foundation Vision Models for Enhanced Local Feature Correspondence**|Felipe Cadar et.al.|[2410.09533](http://arxiv.org/abs/2410.09533)|**[link](https://github.com/verlab/DescriptorReasoning_ACCV_2024)**|
 |**2024-10-09**|**Surgical Depth Anything: Depth Estimation for Surgical Scenes using Foundation Models**|Ange Lou et.al.|[2410.07434](http://arxiv.org/abs/2410.07434)|null|
 |**2024-10-09**|**Deep HI Mapping of M 106 Group with FAST**|Yao Liu et.al.|[2410.07038](http://arxiv.org/abs/2410.07038)|null|
 |**2024-10-09**|**MaD-Scientist: AI-based Scientist solving Convection-Diffusion-Reaction Equations Using Massive PINN-Based Prior Data**|Mingu Kang et.al.|[2410.06442](http://arxiv.org/abs/2410.06442)|null|
@@ -1280,7 +1280,7 @@ layout: default
 |**2024-10-16**|**Leveraging Spatial Attention and Edge Context for Optimized Feature Selection in Visual Localization**|Nanda Febri Istighfarin et.al.|[2410.12240](http://arxiv.org/abs/2410.12240)|null|
 |**2024-10-15**|**LoGS: Visual Localization via Gaussian Splatting with Fewer Training Images**|Yuzhou Cheng et.al.|[2410.11505](http://arxiv.org/abs/2410.11505)|null|
 |**2024-10-15**|**Multiview Scene Graph**|Juexiao Zhang et.al.|[2410.11187](http://arxiv.org/abs/2410.11187)|null|
-|**2024-10-12**|**Leveraging Semantic Cues from Foundation Vision Models for Enhanced Local Feature Correspondence**|Felipe Cadar et.al.|[2410.09533](http://arxiv.org/abs/2410.09533)|null|
+|**2024-10-12**|**Leveraging Semantic Cues from Foundation Vision Models for Enhanced Local Feature Correspondence**|Felipe Cadar et.al.|[2410.09533](http://arxiv.org/abs/2410.09533)|**[link](https://github.com/verlab/DescriptorReasoning_ACCV_2024)**|
 |**2024-10-11**|**Voxel-SLAM: A Complete, Accurate, and Versatile LiDAR-Inertial SLAM System**|Zheng Liu et.al.|[2410.08935](http://arxiv.org/abs/2410.08935)|null|
 |**2024-10-16**|**Semantic Token Reweighting for Interpretable and Controllable Text Embeddings in CLIP**|Eunji Kim et.al.|[2410.08469](http://arxiv.org/abs/2410.08469)|null|
 |**2024-10-11**|**A Unified Deep Semantic Expansion Framework for Domain-Generalized Person Re-identification**|Eugene P. W. Ang et.al.|[2410.08456](http://arxiv.org/abs/2410.08456)|null|
