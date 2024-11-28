@@ -22,6 +22,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-27**|**ORB-SLAM3AB: Augmenting ORB-SLAM3 to Counteract Bumps with Optical Flow Inter-frame Matching**|Yangrui Dong et.al.|[2411.18174](http://arxiv.org/abs/2411.18174)|null|
+|**2024-11-27**|**HI-SLAM2: Geometry-Aware Gaussian SLAM for Fast Monocular Scene Reconstruction**|Wei Zhang et.al.|[2411.17982](http://arxiv.org/abs/2411.17982)|null|
+|**2024-11-26**|**MapEval: Towards Unified, Robust and Efficient SLAM Map Evaluation Framework**|Xiangcheng Hu et.al.|[2411.17928](http://arxiv.org/abs/2411.17928)|null|
 |**2024-11-26**|**DROID-Splat: Combining end-to-end SLAM with 3D Gaussian Splatting**|Christian Homeyer et.al.|[2411.17660](http://arxiv.org/abs/2411.17660)|**[link](https://github.com/chenhoy/droid-splat)**|
 |**2024-11-25**|**MAGiC-SLAM: Multi-Agent Gaussian Globally Consistent SLAM**|Vladimir Yugay et.al.|[2411.16785](http://arxiv.org/abs/2411.16785)|null|
 |**2024-11-24**|**Gaussian Scenes: Pose-Free Sparse-View Scene Reconstruction using Depth-Enhanced Diffusion Priors**|Soumava Paul et.al.|[2411.15966](http://arxiv.org/abs/2411.15966)|null|
@@ -29,9 +32,6 @@
 |**2024-11-24**|**PG-SLAM: Photo-realistic and Geometry-aware RGB-D SLAM in Dynamic Environments**|Haoang Li et.al.|[2411.15800](http://arxiv.org/abs/2411.15800)|null|
 |**2024-11-23**|**Gassidy: Gaussian Splatting SLAM in Dynamic Environments**|Long Wen et.al.|[2411.15476](http://arxiv.org/abs/2411.15476)|null|
 |**2024-11-22**|**OVO-SLAM: Open-Vocabulary Online Simultaneous Localization and Mapping**|Tomas Berriel Martins et.al.|[2411.15043](http://arxiv.org/abs/2411.15043)|null|
-|**2024-11-22**|**A Benchmark Dataset for Collaborative SLAM in Service Environments**|Harin Park et.al.|[2411.14775](http://arxiv.org/abs/2411.14775)|**[link](https://github.com/vision3d-lab/cse_dataset)**|
-|**2024-11-21**|**InCrowd-VI: A Realistic Visual-Inertial Dataset for Evaluating SLAM in Indoor Pedestrian-Rich Spaces for Human Navigation**|Marziyeh Bamdad et.al.|[2411.14358](http://arxiv.org/abs/2411.14358)|null|
-|**2024-11-20**|**Moving Horizon Estimation for Simultaneous Localization and Mapping with Robust Estimation Error Bounds**|Jelena Trisovic et.al.|[2411.13310](http://arxiv.org/abs/2411.13310)|null|
 |**2022-12-31**|**4Seasons: Benchmarking Visual SLAM and Long-Term Localization for Autonomous Driving in Challenging Conditions**|Patrick Wenzel et.al.|[2301.01147](http://arxiv.org/abs/2301.01147)|null|
 |**2023-01-03**|**BS3D: Building-scale 3D Reconstruction from RGB-D Images**|Janne Mustaniemi et.al.|[2301.01057](http://arxiv.org/abs/2301.01057)|null|
 |**2023-01-02**|**An Event-based Algorithm for Simultaneous 6-DOF Camera Pose Tracking and Mapping**|Masoud Dayani Najafabadi et.al.|[2301.00618](http://arxiv.org/abs/2301.00618)|**[link](https://github.com/m-dayani/eorb_slam)**|
@@ -391,6 +391,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-26**|**The MAGPI Survey: radial trends in star formation across different cosmological simulations in comparison with observations at $z \sim$ 0.3**|Marcie Mun et.al.|[2411.17882](http://arxiv.org/abs/2411.17882)|null|
 |**2024-11-25**|**Characterizing Stellar and Gas Properties in NGC 628: Spatial Distributions, Radial Gradients, and Resolved Scaling Relations**|Peng Wei et.al.|[2411.16150](http://arxiv.org/abs/2411.16150)|null|
 |**2024-11-24**|**ZeroGS: Training 3D Gaussian Splatting from Unposed Images**|Yu Chen et.al.|[2411.15779](http://arxiv.org/abs/2411.15779)|null|
 |**2024-11-20**|**DATAP-SfM: Dynamic-Aware Tracking Any Point for Robust Structure from Motion in the Wild**|Weicai Ye et.al.|[2411.13291](http://arxiv.org/abs/2411.13291)|null|
@@ -400,7 +401,6 @@
 |**2024-11-13**|**Biomass phenotyping of oilseed rape through UAV multi-view oblique imaging with 3DGS and SAM model**|Yutao Shen et.al.|[2411.08453](http://arxiv.org/abs/2411.08453)|null|
 |**2024-11-08**|**From Transparent to Opaque: Rethinking Neural Implicit Surfaces with $α$ -NeuS**|Haoran Zhang et.al.|[2411.05362](http://arxiv.org/abs/2411.05362)|**[link](https://github.com/728388808/alpha-neus)**|
 |**2024-10-29**|**A Cascade Approach for APT Campaign Attribution in System Event Logs: Technique Hunting and Subgraph Matching**|Yi-Ting Huang et.al.|[2410.22602](http://arxiv.org/abs/2410.22602)|null|
-|**2024-10-29**|**LiVisSfM: Accurate and Robust Structure-from-Motion with LiDAR and Visual Cues**|Hanqing Jiang et.al.|[2410.22213](http://arxiv.org/abs/2410.22213)|null|
 |**2023-01-05**|**Robust Dynamic Radiance Fields**|Yu-Lun Liu et.al.|[2301.02239](http://arxiv.org/abs/2301.02239)|**[link](https://github.com/facebookresearch/robust-dynrf)**|
 |**2022-12-24**|**Polarimetric Multi-View Inverse Rendering**|Jinyu Zhao et.al.|[2212.12721](http://arxiv.org/abs/2212.12721)|null|
 |**2022-12-13**|**Accidental Turntables: Learning 3D Pose by Watching Objects Turn**|Zezhou Cheng et.al.|[2212.06300](http://arxiv.org/abs/2212.06300)|null|
@@ -777,7 +777,7 @@
 |**2024-11-04**|**Silver medal Solution for Image Matching Challenge 2024**|Yian Wang et.al.|[2411.01851](http://arxiv.org/abs/2411.01851)|null|
 |**2024-11-04**|**KptLLM: Unveiling the Power of Large Language Model for Keypoint Comprehension**|Jie Yang et.al.|[2411.01846](http://arxiv.org/abs/2411.01846)|null|
 |**2024-10-31**|**From Web Data to Real Fields: Low-Cost Unsupervised Domain Adaptation for Agricultural Robots**|Vasileios Tzouras et.al.|[2410.23906](http://arxiv.org/abs/2410.23906)|null|
-|**2024-10-18**|**Sim2real Cattle Joint Estimation in 3D point clouds**|Okour Mohammad et.al.|[2410.14419](http://arxiv.org/abs/2410.14419)|null|
+|**2024-11-27**|**Sim2real Cattle Joint Estimation in 3D point clouds**|Mohammad Okour et.al.|[2410.14419](http://arxiv.org/abs/2410.14419)|null|
 |**2024-10-16**|**PND-Net: Plant Nutrition Deficiency and Disease Classification using Graph Convolutional Network**|Asish Bera et.al.|[2410.12742](http://arxiv.org/abs/2410.12742)|null|
 |**2024-10-16**|**RAFA-Net: Region Attention Network For Food Items And Agricultural Stress Recognition**|Asish Bera et.al.|[2410.12718](http://arxiv.org/abs/2410.12718)|null|
 |**2024-10-11**|**Facial Chick Sexing: An Automated Chick Sexing System From Chick Facial Image**|Marta Veganzones Rodriguez et.al.|[2410.09155](http://arxiv.org/abs/2410.09155)|null|
