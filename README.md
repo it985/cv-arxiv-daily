@@ -22,16 +22,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-18**|**VGGT-SLAM: Dense RGB SLAM Optimized on the SL(4) Manifold**|Dominic Maggio et.al.|[2505.12549](http://arxiv.org/abs/2505.12549)|null|
+|**2025-05-18**|**Is Semantic SLAM Ready for Embedded Systems ? A Comparative Survey**|Calvin Galagain et.al.|[2505.12384](http://arxiv.org/abs/2505.12384)|null|
+|**2025-05-16**|**EgoDex: Learning Dexterous Manipulation from Large-Scale Egocentric Video**|Ryan Hoque et.al.|[2505.11709](http://arxiv.org/abs/2505.11709)|null|
+|**2025-05-16**|**Improved Bag-of-Words Image Retrieval with Geometric Constraints for Ground Texture Localization**|Aaron Wilhelm et.al.|[2505.11620](http://arxiv.org/abs/2505.11620)|null|
 |**2025-05-16**|**Robust 2D lidar-based SLAM in arboreal environments without IMU/GNSS**|Paola Nazate-Burgos et.al.|[2505.10847](http://arxiv.org/abs/2505.10847)|null|
 |**2025-05-15**|**TartanGround: A Large-Scale Dataset for Ground Robot Perception and Navigation**|Manthan Patel et.al.|[2505.10696](http://arxiv.org/abs/2505.10696)|null|
 |**2025-05-15**|**A hybrid SLAM-Payne framework for atmospheric parameter and abundance determination of early-type Stars from LAMOST DR9 low-resolution Spectra**|Weijia Sun et.al.|[2505.10310](http://arxiv.org/abs/2505.10310)|null|
 |**2025-05-15**|**Large-Scale Gaussian Splatting SLAM**|Zhe Xin et.al.|[2505.09915](http://arxiv.org/abs/2505.09915)|null|
 |**2025-05-13**|**Automated Meta Prompt Engineering for Alignment with the Theory of Mind**|Aaron Baughman et.al.|[2505.09024](http://arxiv.org/abs/2505.09024)|null|
 |**2025-05-13**|**MDF: Multi-Modal Data Fusion with CNN-Based Object Detection for Enhanced Indoor Localization Using LiDAR-SLAM**|Saqi Hussain Kalan et.al.|[2505.08388](http://arxiv.org/abs/2505.08388)|null|
-|**2025-05-13**|**SKiD-SLAM: Robust, Lightweight, and Distributed Multi-Robot LiDAR SLAM in Resource-Constrained Field Environments**|Hogyun Kim et.al.|[2505.08230](http://arxiv.org/abs/2505.08230)|null|
-|**2025-05-12**|**RDD: Robust Feature Detector and Descriptor using Deformable Transformer**|Gonglin Chen et.al.|[2505.08013](http://arxiv.org/abs/2505.08013)|null|
-|**2025-05-12**|**Ranking-aware Continual Learning for LiDAR Place Recognition**|Xufei Wang et.al.|[2505.07198](http://arxiv.org/abs/2505.07198)|null|
-|**2025-05-07**|**Scalable Aerial GNSS Localization for Marine Robots**|Shuo Wen et.al.|[2505.04095](http://arxiv.org/abs/2505.04095)|**[link](https://github.com/stevvwen/aerial_gnss)**|
 |**2022-12-31**|**4Seasons: Benchmarking Visual SLAM and Long-Term Localization for Autonomous Driving in Challenging Conditions**|Patrick Wenzel et.al.|[2301.01147](http://arxiv.org/abs/2301.01147)|null|
 |**2023-01-03**|**BS3D: Building-scale 3D Reconstruction from RGB-D Images**|Janne Mustaniemi et.al.|[2301.01057](http://arxiv.org/abs/2301.01057)|null|
 |**2023-01-02**|**An Event-based Algorithm for Simultaneous 6-DOF Camera Pose Tracking and Mapping**|Masoud Dayani Najafabadi et.al.|[2301.00618](http://arxiv.org/abs/2301.00618)|**[link](https://github.com/m-dayani/eorb_slam)**|
@@ -391,6 +391,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-18**|**Shallow Flow Matching for Coarse-to-Fine Text-to-Speech Synthesis**|Dong Yang et.al.|[2505.12226](http://arxiv.org/abs/2505.12226)|null|
 |**2025-05-15**|**Mapping Semantic Segmentation to Point Clouds Using Structure from Motion for Forest Analysis**|Francisco Raverta Capua et.al.|[2505.10751](http://arxiv.org/abs/2505.10751)|null|
 |**2025-05-13**|**Unveiling the Best Practices for Applying Speech Foundation Models to Speech Intelligibility Prediction for Hearing-Impaired People**|Haoshuai Zhou et.al.|[2505.08215](http://arxiv.org/abs/2505.08215)|null|
 |**2025-05-12**|**RDD: Robust Feature Detector and Descriptor using Deformable Transformer**|Gonglin Chen et.al.|[2505.08013](http://arxiv.org/abs/2505.08013)|null|
@@ -400,7 +401,6 @@
 |**2025-05-08**|**DiffusionSfM: Predicting Structure and Motion via Ray Origin and Endpoint Diffusion**|Qitao Zhao et.al.|[2505.05473](http://arxiv.org/abs/2505.05473)|null|
 |**2025-05-07**|**FastMap: Revisiting Dense and Scalable Structure from Motion**|Jiahao Li et.al.|[2505.04612](http://arxiv.org/abs/2505.04612)|null|
 |**2025-05-15**|**Estimating the Diameter at Breast Height of Trees in a Forest With a Single 360 Camera**|Siming He et.al.|[2505.03093](http://arxiv.org/abs/2505.03093)|null|
-|**2025-05-03**|**AquaGS: Fast Underwater Scene Reconstruction with SfM-Free Gaussian Splatting**|Junhao Shi et.al.|[2505.01799](http://arxiv.org/abs/2505.01799)|null|
 |**2023-01-05**|**Robust Dynamic Radiance Fields**|Yu-Lun Liu et.al.|[2301.02239](http://arxiv.org/abs/2301.02239)|**[link](https://github.com/facebookresearch/robust-dynrf)**|
 |**2022-12-24**|**Polarimetric Multi-View Inverse Rendering**|Jinyu Zhao et.al.|[2212.12721](http://arxiv.org/abs/2212.12721)|null|
 |**2022-12-13**|**Accidental Turntables: Learning 3D Pose by Watching Objects Turn**|Zezhou Cheng et.al.|[2212.06300](http://arxiv.org/abs/2212.06300)|null|
@@ -482,6 +482,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-18**|**MMS-VPR: Multimodal Street-Level Visual Place Recognition Dataset and Benchmark**|Yiwei Ou et.al.|[2505.12254](http://arxiv.org/abs/2505.12254)|null|
+|**2025-05-16**|**Improved Bag-of-Words Image Retrieval with Geometric Constraints for Ground Texture Localization**|Aaron Wilhelm et.al.|[2505.11620](http://arxiv.org/abs/2505.11620)|null|
 |**2025-05-16**|**Redundancy-Aware Pretraining of Vision-Language Foundation Models in Remote Sensing**|Mathis Jürgen Adler et.al.|[2505.11121](http://arxiv.org/abs/2505.11121)|null|
 |**2025-05-04**|**OBD-Finder: Explainable Coarse-to-Fine Text-Centric Oracle Bone Duplicates Discovery**|Chongsheng Zhang et.al.|[2505.03836](http://arxiv.org/abs/2505.03836)|**[link](https://github.com/cszhanglmu/obd-finder)**|
 |**2025-05-06**|**Thermal-LiDAR Fusion for Robust Tunnel Localization in GNSS-Denied and Low-Visibility Conditions**|Lukas Schichler et.al.|[2505.03565](http://arxiv.org/abs/2505.03565)|null|
@@ -490,8 +492,6 @@
 |**2025-05-13**|**SafeNav: Safe Path Navigation using Landmark Based Localization in a GPS-denied Environment**|Ganesh Sapkota et.al.|[2505.01956](http://arxiv.org/abs/2505.01956)|null|
 |**2025-05-02**|**NeuroLoc: Encoding Navigation Cells for 6-DOF Camera Localization**|Xun Li et.al.|[2505.01113](http://arxiv.org/abs/2505.01113)|null|
 |**2025-05-01**|**GSFeatLoc: Visual Localization Using Feature Correspondence on 3D Gaussian Splatting**|Jongwon Lee et.al.|[2504.20379](http://arxiv.org/abs/2504.20379)|null|
-|**2025-04-25**|**From Mapping to Composing: A Two-Stage Framework for Zero-shot Composed Image Retrieval**|Yabing Wang et.al.|[2504.17990](http://arxiv.org/abs/2504.17990)|null|
-|**2025-04-24**|**A Guide to Structureless Visual Localization**|Vojtech Panek et.al.|[2504.17636](http://arxiv.org/abs/2504.17636)|null|
 |**2023-01-05**|**A Probabilistic Framework for Visual Localization in Ambiguous Scenes**|Fereidoon Zangeneh et.al.|[2301.02086](http://arxiv.org/abs/2301.02086)|**[link](https://github.com/efreidun/vapor)**|
 |**2022-12-31**|**4Seasons: Benchmarking Visual SLAM and Long-Term Localization for Autonomous Driving in Challenging Conditions**|Patrick Wenzel et.al.|[2301.01147](http://arxiv.org/abs/2301.01147)|null|
 |**2022-12-30**|**HPointLoc: Point-based Indoor Place Recognition using Synthetic RGB-D Images**|Dmitry Yudin et.al.|[2212.14649](http://arxiv.org/abs/2212.14649)|**[link](https://github.com/metra4ok/hpointloc)**|
@@ -772,6 +772,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-18**|**SEPT: Standard-Definition Map Enhanced Scene Perception and Topology Reasoning for Autonomous Driving**|Muleilan Pei et.al.|[2505.12246](http://arxiv.org/abs/2505.12246)|null|
+|**2025-05-17**|**Keypoints as Dynamic Centroids for Unified Human Pose and Segmentation**|Niaz Ahmad et.al.|[2505.12130](http://arxiv.org/abs/2505.12130)|null|
 |**2025-05-16**|**Deepfake Forensic Analysis: Source Dataset Attribution and Legal Implications of Synthetic Media Manipulation**|Massimiliano Cassia et.al.|[2505.11110](http://arxiv.org/abs/2505.11110)|null|
 |**2025-05-12**|**RDD: Robust Feature Detector and Descriptor using Deformable Transformer**|Gonglin Chen et.al.|[2505.08013](http://arxiv.org/abs/2505.08013)|null|
 |**2025-05-12**|**Enabling Privacy-Aware AI-Based Ergonomic Analysis**|Sander De Coninck et.al.|[2505.07306](http://arxiv.org/abs/2505.07306)|null|
@@ -780,8 +782,6 @@
 |**2025-05-05**|**Unsupervised Deep Learning-based Keypoint Localization Estimating Descriptor Matching Performance**|David Rivas-Villar et.al.|[2505.02779](http://arxiv.org/abs/2505.02779)|null|
 |**2025-05-04**|**Focus What Matters: Matchability-Based Reweighting for Local Feature Matching**|Dongyue Li et.al.|[2505.02161](http://arxiv.org/abs/2505.02161)|null|
 |**2025-05-04**|**Enhancing Lidar Point Cloud Sampling via Colorization and Super-Resolution of Lidar Imagery**|Sier Ha et.al.|[2505.02049](http://arxiv.org/abs/2505.02049)|null|
-|**2025-04-29**|**Emotion Recognition in Contemporary Dance Performances Using Laban Movement Analysis**|Muhammad Turab et.al.|[2504.21154](http://arxiv.org/abs/2504.21154)|null|
-|**2025-04-29**|**Learning a General Model: Folding Clothing with Topological Dynamics**|Yiming Liu et.al.|[2504.20720](http://arxiv.org/abs/2504.20720)|null|
 |**2022-12-31**|**Rethinking Rotation Invariance with Point Cloud Registration**|Jianhui Yu et.al.|[2301.00149](http://arxiv.org/abs/2301.00149)|null|
 |**2022-12-29**|**Fruit Ripeness Classification: a Survey**|Matteo Rizzo et.al.|[2212.14441](http://arxiv.org/abs/2212.14441)|null|
 |**2022-12-28**|**NeMo: 3D Neural Motion Fields from Multiple Video Instances of the Same Action**|Kuan-Chieh Wang et.al.|[2212.13660](http://arxiv.org/abs/2212.13660)|**[link](https://github.com/wangkua1/nemo-cvpr2023)**|
@@ -1007,16 +1007,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-19**|**3D Gaussian Adaptive Reconstruction for Fourier Light-Field Microscopy**|Chenyu Xu et.al.|[2505.12875](http://arxiv.org/abs/2505.12875)|null|
+|**2025-05-18**|**Is Semantic SLAM Ready for Embedded Systems ? A Comparative Survey**|Calvin Galagain et.al.|[2505.12384](http://arxiv.org/abs/2505.12384)|null|
 |**2025-05-16**|**MutualNeRF: Improve the Performance of NeRF under Limited Samples with Mutual Information Theory**|Zifan Wang et.al.|[2505.11386](http://arxiv.org/abs/2505.11386)|null|
 |**2025-05-16**|**EA-3DGS: Efficient and Adaptive 3D Gaussians with Highly Enhanced Quality for outdoor scenes**|Jianlin Guo et.al.|[2505.10787](http://arxiv.org/abs/2505.10787)|null|
 |**2025-05-15**|**Large-Scale Gaussian Splatting SLAM**|Zhe Xin et.al.|[2505.09915](http://arxiv.org/abs/2505.09915)|null|
 |**2025-05-14**|**Sparse Point Cloud Patches Rendering via Splitting 2D Gaussians**|Ma Changfeng et.al.|[2505.09413](http://arxiv.org/abs/2505.09413)|**[link](https://github.com/murcherful/gaupcrender)**|
 |**2025-05-14**|**FreeDriveRF: Monocular RGB Dynamic NeRF without Poses for Autonomous Driving via Point-Level Dynamic-Static Decoupling**|Yue Wen et.al.|[2505.09406](http://arxiv.org/abs/2505.09406)|null|
-|**2025-05-12**|**TUGS: Physics-based Compact Representation of Underwater Scenes by Tensorized Gaussian**|Shijie Lian et.al.|[2505.08811](http://arxiv.org/abs/2505.08811)|null|
 |**2025-05-13**|**FOCI: Trajectory Optimization on Gaussian Splats**|Mario Gomez Andreu et.al.|[2505.08510](http://arxiv.org/abs/2505.08510)|null|
 |**2025-05-13**|**TUM2TWIN: Introducing the Large-Scale Multimodal Urban Digital Twin Benchmark Dataset**|Olaf Wysocki et.al.|[2505.07396](http://arxiv.org/abs/2505.07396)|null|
 |**2025-05-12**|**Geometric Prior-Guided Neural Implicit Surface Reconstruction in the Wild**|Lintao Xiang et.al.|[2505.07373](http://arxiv.org/abs/2505.07373)|null|
-|**2025-05-11**|**NeuGen: Amplifying the 'Neural' in Neural Radiance Fields for Domain Generalization**|Ahmed Qazi et.al.|[2505.06894](http://arxiv.org/abs/2505.06894)|null|
 |**2023-01-03**|**Class-Continuous Conditional Generative Neural Radiance Field**|Jiwook Kim et.al.|[2301.00950](http://arxiv.org/abs/2301.00950)|**[link](https://github.com/tom919654/C3G-NeRF)**|
 |**2023-01-01**|**Detachable Novel Views Synthesis of Dynamic Scenes Using Distribution-Driven Neural Radiance Fields**|Boyu Zhang et.al.|[2301.00411](http://arxiv.org/abs/2301.00411)|**[link](https://github.com/luciferbobo/d4nerf)**|
 |**2022-12-26**|**MonoNeRF: Learning a Generalizable Dynamic Radiance Field from Monocular Videos**|Fengrui Tian et.al.|[2212.13056](http://arxiv.org/abs/2212.13056)|**[link](https://github.com/tianfr/mononerf)**|
